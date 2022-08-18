@@ -9,12 +9,12 @@ Of course, the concept can be used for any kind of smart contracts in general.
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Implementation](#)
+- [Implementation](#implementation)
   - [Instantiating a SNIP20 Client](#instantiating-a-snip20-client)
   - [Usage](#usage)
-- [Implemented methods](#)
-  - [Queries](#)
-  - [Transactions](#)
+- [Implemented methods](#implemented-methods)
+  - [Queries](#queries)
+  - [Transactions](#transactions)
 
 # Implementation
 The structure of SecretNET.SNIP20 is the same as the SecretNET client and transactions are accessible via ```Tx``` property and queries via ```Query``` property.
