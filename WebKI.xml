@@ -1,0 +1,1320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title=". constructor" Url="html/M-global.$Program.-ctor_1.htm" />
+  <HelpKINode Title="Action field" Url="html/F-SecretNET.SNIP20.RichTx.Action.htm" />
+  <HelpKINode Title="Address property" Url="html/P-SecretNET.SNIP20.GetBalanceRequest_Payload.Address.htm" />
+  <HelpKINode Title="Address property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.Address.htm" />
+  <HelpKINode Title="Address property" Url="html/P-SecretNET.SNIP20.InitBalance.Address.htm" />
+  <HelpKINode Title="Admin property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.Admin.htm" />
+  <HelpKINode Title="Allowance property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.Allowance.htm" />
+  <HelpKINode Title="Allowance property" Url="html/P-SecretNET.SNIP20.GetAllowanceResponse_Result.Allowance.htm" />
+  <HelpKINode Title="Allowance property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.Allowance.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.BurnFromRequest_Payload.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.BurnRequest_Payload.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.GetBalanceResponse_Result.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.InitBalance.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.MintRequest_Payload.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.RedeemRequest_Payload.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.SendFromRequest_Payload.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.SendRequest_Payload.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.TransferFromRequest_Payload.Amount.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-SecretNET.SNIP20.TransferRequest_Payload.Amount.htm" />
+  <HelpKINode Title="BlockHeight field" Url="html/F-SecretNET.SNIP20.RichTx.BlockHeight.htm" />
+  <HelpKINode Title="BlockHeight field" Url="html/F-SecretNET.SNIP20.Tx.BlockHeight.htm" />
+  <HelpKINode Title="BlockTime field" Url="html/F-SecretNET.SNIP20.RichTx.BlockTime.htm" />
+  <HelpKINode Title="BlockTime field" Url="html/F-SecretNET.SNIP20.Tx.BlockTime.htm" />
+  <HelpKINode Title="Burn method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Burn.htm" />
+  <HelpKINode Title="Burn method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Burn.htm" />
+  <HelpKINode Title="Burn property" Url="html/P-SecretNET.SNIP20.BurnType.Burn.htm" />
+  <HelpKINode Title="Burner field" Url="html/F-SecretNET.SNIP20.BurnType_Burn.Burner.htm" />
+  <HelpKINode Title="BurnFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.BurnFrom.htm" />
+  <HelpKINode Title="BurnFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.BurnFrom.htm" />
+  <HelpKINode Title="BurnFromRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnFromRequest.htm" />
+  <HelpKINode Title="BurnFromRequest class" Url="html/T-SecretNET.SNIP20.BurnFromRequest.htm" />
+  <HelpKINode Title="BurnFromRequest class">
+    <HelpKINode Title="about BurnFromRequest class" Url="html/T-SecretNET.SNIP20.BurnFromRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.BurnFromRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.BurnFromRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.BurnFromRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BurnFromRequest.BurnFromRequest constructor" Url="html/M-SecretNET.SNIP20.BurnFromRequest.-ctor.htm" />
+  <HelpKINode Title="BurnFromRequest.Payload property" Url="html/P-SecretNET.SNIP20.BurnFromRequest.Payload.htm" />
+  <HelpKINode Title="BurnFromRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnFromRequest_Payload.htm" />
+  <HelpKINode Title="BurnFromRequest_Payload class" Url="html/T-SecretNET.SNIP20.BurnFromRequest_Payload.htm" />
+  <HelpKINode Title="BurnFromRequest_Payload class">
+    <HelpKINode Title="about BurnFromRequest_Payload class" Url="html/T-SecretNET.SNIP20.BurnFromRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.BurnFromRequest_Payload.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.BurnFromRequest_Payload.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.BurnFromRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BurnFromRequest_Payload.Amount property" Url="html/P-SecretNET.SNIP20.BurnFromRequest_Payload.Amount.htm" />
+  <HelpKINode Title="BurnFromRequest_Payload.BurnFromRequest_Payload constructor" Url="html/M-SecretNET.SNIP20.BurnFromRequest_Payload.-ctor.htm" />
+  <HelpKINode Title="BurnFromRequest_Payload.Owner property" Url="html/P-SecretNET.SNIP20.BurnFromRequest_Payload.Owner.htm" />
+  <HelpKINode Title="BurnFromRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.BurnFromRequest_Payload.Padding.htm" />
+  <HelpKINode Title="BurnFromResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnFromResponse.htm" />
+  <HelpKINode Title="BurnFromResponse class" Url="html/T-SecretNET.SNIP20.BurnFromResponse.htm" />
+  <HelpKINode Title="BurnFromResponse class">
+    <HelpKINode Title="about BurnFromResponse class" Url="html/T-SecretNET.SNIP20.BurnFromResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.BurnFromResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.BurnFromResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BurnFromResponse.Result property" Url="html/P-SecretNET.SNIP20.BurnFromResponse.Result.htm" />
+  <HelpKINode Title="BurnRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnRequest.htm" />
+  <HelpKINode Title="BurnRequest class" Url="html/T-SecretNET.SNIP20.BurnRequest.htm" />
+  <HelpKINode Title="BurnRequest class">
+    <HelpKINode Title="about BurnRequest class" Url="html/T-SecretNET.SNIP20.BurnRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.BurnRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.BurnRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.BurnRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BurnRequest.BurnRequest constructor" Url="html/M-SecretNET.SNIP20.BurnRequest.-ctor.htm" />
+  <HelpKINode Title="BurnRequest.Payload property" Url="html/P-SecretNET.SNIP20.BurnRequest.Payload.htm" />
+  <HelpKINode Title="BurnRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnRequest_Payload.htm" />
+  <HelpKINode Title="BurnRequest_Payload class" Url="html/T-SecretNET.SNIP20.BurnRequest_Payload.htm" />
+  <HelpKINode Title="BurnRequest_Payload class">
+    <HelpKINode Title="about BurnRequest_Payload class" Url="html/T-SecretNET.SNIP20.BurnRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.BurnRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.BurnRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BurnRequest_Payload.Amount property" Url="html/P-SecretNET.SNIP20.BurnRequest_Payload.Amount.htm" />
+  <HelpKINode Title="BurnRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.BurnRequest_Payload.Padding.htm" />
+  <HelpKINode Title="BurnResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnResponse.htm" />
+  <HelpKINode Title="BurnResponse class" Url="html/T-SecretNET.SNIP20.BurnResponse.htm" />
+  <HelpKINode Title="BurnResponse class">
+    <HelpKINode Title="about BurnResponse class" Url="html/T-SecretNET.SNIP20.BurnResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.BurnResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.BurnResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BurnResponse.Result property" Url="html/P-SecretNET.SNIP20.BurnResponse.Result.htm" />
+  <HelpKINode Title="BurnType class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnType.htm" />
+  <HelpKINode Title="BurnType class" Url="html/T-SecretNET.SNIP20.BurnType.htm" />
+  <HelpKINode Title="BurnType class">
+    <HelpKINode Title="about BurnType class" Url="html/T-SecretNET.SNIP20.BurnType.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.BurnType.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.BurnType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BurnType.Burn property" Url="html/P-SecretNET.SNIP20.BurnType.Burn.htm" />
+  <HelpKINode Title="BurnType_Burn class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnType_Burn.htm" />
+  <HelpKINode Title="BurnType_Burn class" Url="html/T-SecretNET.SNIP20.BurnType_Burn.htm" />
+  <HelpKINode Title="BurnType_Burn class">
+    <HelpKINode Title="about BurnType_Burn class" Url="html/T-SecretNET.SNIP20.BurnType_Burn.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.BurnType_Burn.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-SecretNET.SNIP20.BurnType_Burn.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BurnType_Burn.Burner field" Url="html/F-SecretNET.SNIP20.BurnType_Burn.Burner.htm" />
+  <HelpKINode Title="BurnType_Burn.Owner field" Url="html/F-SecretNET.SNIP20.BurnType_Burn.Owner.htm" />
+  <HelpKINode Title="CodeHash property" Url="html/P-SecretNET.SNIP20.RegisterReceiveRequest_Payload.CodeHash.htm" />
+  <HelpKINode Title="Coins field" Url="html/F-SecretNET.SNIP20.RichTx.Coins.htm" />
+  <HelpKINode Title="Coins field" Url="html/F-SecretNET.SNIP20.Tx.Coins.htm" />
+  <HelpKINode Title="Config property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.Config.htm" />
+  <HelpKINode Title="ConfigSettings class" Url="html/AllMembers.T-SecretNET.SNIP20.ConfigSettings.htm" />
+  <HelpKINode Title="ConfigSettings class" Url="html/T-SecretNET.SNIP20.ConfigSettings.htm" />
+  <HelpKINode Title="ConfigSettings class">
+    <HelpKINode Title="about ConfigSettings class" Url="html/T-SecretNET.SNIP20.ConfigSettings.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.ConfigSettings.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.ConfigSettings.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConfigSettings.EnableBurn property" Url="html/P-SecretNET.SNIP20.ConfigSettings.EnableBurn.htm" />
+  <HelpKINode Title="ConfigSettings.EnableDeposit property" Url="html/P-SecretNET.SNIP20.ConfigSettings.EnableDeposit.htm" />
+  <HelpKINode Title="ConfigSettings.EnableMint property" Url="html/P-SecretNET.SNIP20.ConfigSettings.EnableMint.htm" />
+  <HelpKINode Title="ConfigSettings.EnableRedeem property" Url="html/P-SecretNET.SNIP20.ConfigSettings.EnableRedeem.htm" />
+  <HelpKINode Title="ConfigSettings.PublicTotalSupply property" Url="html/P-SecretNET.SNIP20.ConfigSettings.PublicTotalSupply.htm" />
+  <HelpKINode Title="CreateViewingKey method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.CreateViewingKey.htm" />
+  <HelpKINode Title="CreateViewingKey method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.CreateViewingKey.htm" />
+  <HelpKINode Title="Decimals property" Url="html/P-SecretNET.SNIP20.GetTokenInfoResponse_Result.Decimals.htm" />
+  <HelpKINode Title="Decimals property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.Decimals.htm" />
+  <HelpKINode Title="DecreaseAllowance method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.DecreaseAllowance.htm" />
+  <HelpKINode Title="DecreaseAllowance method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.DecreaseAllowance.htm" />
+  <HelpKINode Title="DecreaseAllowanceRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceRequest.htm" />
+  <HelpKINode Title="DecreaseAllowanceRequest class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceRequest.htm" />
+  <HelpKINode Title="DecreaseAllowanceRequest class">
+    <HelpKINode Title="about DecreaseAllowanceRequest class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.DecreaseAllowanceRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.DecreaseAllowanceRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DecreaseAllowanceRequest.DecreaseAllowanceRequest constructor" Url="html/M-SecretNET.SNIP20.DecreaseAllowanceRequest.-ctor.htm" />
+  <HelpKINode Title="DecreaseAllowanceRequest.Payload property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceRequest.Payload.htm" />
+  <HelpKINode Title="DecreaseAllowanceRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="DecreaseAllowanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="DecreaseAllowanceRequest_Payload class">
+    <HelpKINode Title="about DecreaseAllowanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DecreaseAllowanceRequest_Payload.Amount property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.Amount.htm" />
+  <HelpKINode Title="DecreaseAllowanceRequest_Payload.Expiration property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.Expiration.htm" />
+  <HelpKINode Title="DecreaseAllowanceRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.Padding.htm" />
+  <HelpKINode Title="DecreaseAllowanceRequest_Payload.Spender property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.Spender.htm" />
+  <HelpKINode Title="DecreaseAllowanceResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceResponse.htm" />
+  <HelpKINode Title="DecreaseAllowanceResponse class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceResponse.htm" />
+  <HelpKINode Title="DecreaseAllowanceResponse class">
+    <HelpKINode Title="about DecreaseAllowanceResponse class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.DecreaseAllowanceResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DecreaseAllowanceResponse.Result property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceResponse.Result.htm" />
+  <HelpKINode Title="DecreaseAllowanceResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.htm" />
+  <HelpKINode Title="DecreaseAllowanceResponse_Result class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.htm" />
+  <HelpKINode Title="DecreaseAllowanceResponse_Result class">
+    <HelpKINode Title="about DecreaseAllowanceResponse_Result class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DecreaseAllowanceResponse_Result.Allowance property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.Allowance.htm" />
+  <HelpKINode Title="DecreaseAllowanceResponse_Result.Owner property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.Owner.htm" />
+  <HelpKINode Title="DecreaseAllowanceResponse_Result.Spender property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.Spender.htm" />
+  <HelpKINode Title="Denom property" Url="html/P-SecretNET.SNIP20.GetExchangeRateResponse_Result.Denom.htm" />
+  <HelpKINode Title="Denom property" Url="html/P-SecretNET.SNIP20.RedeemRequest_Payload.Denom.htm" />
+  <HelpKINode Title="Deposit method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Deposit.htm" />
+  <HelpKINode Title="Deposit method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Deposit.htm" />
+  <HelpKINode Title="Deposit property" Url="html/P-SecretNET.SNIP20.DepositType.Deposit.htm" />
+  <HelpKINode Title="DepositRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.DepositRequest.htm" />
+  <HelpKINode Title="DepositRequest class" Url="html/T-SecretNET.SNIP20.DepositRequest.htm" />
+  <HelpKINode Title="DepositRequest class">
+    <HelpKINode Title="about DepositRequest class" Url="html/T-SecretNET.SNIP20.DepositRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.DepositRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.DepositRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.DepositRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DepositRequest.DepositRequest constructor" Url="html/M-SecretNET.SNIP20.DepositRequest.-ctor.htm" />
+  <HelpKINode Title="DepositRequest.Payload property" Url="html/P-SecretNET.SNIP20.DepositRequest.Payload.htm" />
+  <HelpKINode Title="DepositRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.DepositRequest_Payload.htm" />
+  <HelpKINode Title="DepositRequest_Payload class" Url="html/T-SecretNET.SNIP20.DepositRequest_Payload.htm" />
+  <HelpKINode Title="DepositRequest_Payload class">
+    <HelpKINode Title="about DepositRequest_Payload class" Url="html/T-SecretNET.SNIP20.DepositRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.DepositRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.DepositRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DepositRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.DepositRequest_Payload.Padding.htm" />
+  <HelpKINode Title="DepositResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.DepositResponse.htm" />
+  <HelpKINode Title="DepositResponse class" Url="html/T-SecretNET.SNIP20.DepositResponse.htm" />
+  <HelpKINode Title="DepositResponse class">
+    <HelpKINode Title="about DepositResponse class" Url="html/T-SecretNET.SNIP20.DepositResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.DepositResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.DepositResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DepositResponse.Result property" Url="html/P-SecretNET.SNIP20.DepositResponse.Result.htm" />
+  <HelpKINode Title="DepositType class" Url="html/AllMembers.T-SecretNET.SNIP20.DepositType.htm" />
+  <HelpKINode Title="DepositType class" Url="html/T-SecretNET.SNIP20.DepositType.htm" />
+  <HelpKINode Title="DepositType class">
+    <HelpKINode Title="about DepositType class" Url="html/T-SecretNET.SNIP20.DepositType.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.DepositType.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.DepositType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DepositType.Deposit property" Url="html/P-SecretNET.SNIP20.DepositType.Deposit.htm" />
+  <HelpKINode Title="EnableBurn property" Url="html/P-SecretNET.SNIP20.ConfigSettings.EnableBurn.htm" />
+  <HelpKINode Title="EnableDeposit property" Url="html/P-SecretNET.SNIP20.ConfigSettings.EnableDeposit.htm" />
+  <HelpKINode Title="EnableMint property" Url="html/P-SecretNET.SNIP20.ConfigSettings.EnableMint.htm" />
+  <HelpKINode Title="EnableRedeem property" Url="html/P-SecretNET.SNIP20.ConfigSettings.EnableRedeem.htm" />
+  <HelpKINode Title="Error property" Url="html/P-SecretNET.SNIP20.GetBalanceResponse.Error.htm" />
+  <HelpKINode Title="Expiration property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.Expiration.htm" />
+  <HelpKINode Title="Expiration property" Url="html/P-SecretNET.SNIP20.GetAllowanceResponse_Result.Expiration.htm" />
+  <HelpKINode Title="Expiration property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.Expiration.htm" />
+  <HelpKINode Title="From field" Url="html/F-SecretNET.SNIP20.TransferType_Transfer.From.htm" />
+  <HelpKINode Title="From field" Url="html/F-SecretNET.SNIP20.Tx.From.htm" />
+  <HelpKINode Title="GenericSimulate method" Url="html/M-SecretNET.SNIP20.Snip20TxSimulate.GenericSimulate.htm" />
+  <HelpKINode Title="GetAllowance method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetAllowance.htm" />
+  <HelpKINode Title="GetAllowanceRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceRequest.htm" />
+  <HelpKINode Title="GetAllowanceRequest class" Url="html/T-SecretNET.SNIP20.GetAllowanceRequest.htm" />
+  <HelpKINode Title="GetAllowanceRequest class">
+    <HelpKINode Title="about GetAllowanceRequest class" Url="html/T-SecretNET.SNIP20.GetAllowanceRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.GetAllowanceRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetAllowanceRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetAllowanceRequest.GetAllowanceRequest constructor" Url="html/M-SecretNET.SNIP20.GetAllowanceRequest.-ctor.htm" />
+  <HelpKINode Title="GetAllowanceRequest.Payload property" Url="html/P-SecretNET.SNIP20.GetAllowanceRequest.Payload.htm" />
+  <HelpKINode Title="GetAllowanceRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="GetAllowanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.GetAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="GetAllowanceRequest_Payload class">
+    <HelpKINode Title="about GetAllowanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.GetAllowanceRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetAllowanceRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetAllowanceRequest_Payload.Owner property" Url="html/P-SecretNET.SNIP20.GetAllowanceRequest_Payload.Owner.htm" />
+  <HelpKINode Title="GetAllowanceRequest_Payload.Spender property" Url="html/P-SecretNET.SNIP20.GetAllowanceRequest_Payload.Spender.htm" />
+  <HelpKINode Title="GetAllowanceRequest_Payload.ViewingKey property" Url="html/P-SecretNET.SNIP20.GetAllowanceRequest_Payload.ViewingKey.htm" />
+  <HelpKINode Title="GetAllowanceResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceResponse.htm" />
+  <HelpKINode Title="GetAllowanceResponse class" Url="html/T-SecretNET.SNIP20.GetAllowanceResponse.htm" />
+  <HelpKINode Title="GetAllowanceResponse class">
+    <HelpKINode Title="about GetAllowanceResponse class" Url="html/T-SecretNET.SNIP20.GetAllowanceResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetAllowanceResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetAllowanceResponse.Result property" Url="html/P-SecretNET.SNIP20.GetAllowanceResponse.Result.htm" />
+  <HelpKINode Title="GetAllowanceResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceResponse_Result.htm" />
+  <HelpKINode Title="GetAllowanceResponse_Result class" Url="html/T-SecretNET.SNIP20.GetAllowanceResponse_Result.htm" />
+  <HelpKINode Title="GetAllowanceResponse_Result class">
+    <HelpKINode Title="about GetAllowanceResponse_Result class" Url="html/T-SecretNET.SNIP20.GetAllowanceResponse_Result.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceResponse_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetAllowanceResponse_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetAllowanceResponse_Result.Allowance property" Url="html/P-SecretNET.SNIP20.GetAllowanceResponse_Result.Allowance.htm" />
+  <HelpKINode Title="GetAllowanceResponse_Result.Expiration property" Url="html/P-SecretNET.SNIP20.GetAllowanceResponse_Result.Expiration.htm" />
+  <HelpKINode Title="GetAllowanceResponse_Result.Owner property" Url="html/P-SecretNET.SNIP20.GetAllowanceResponse_Result.Owner.htm" />
+  <HelpKINode Title="GetAllowanceResponse_Result.Spender property" Url="html/P-SecretNET.SNIP20.GetAllowanceResponse_Result.Spender.htm" />
+  <HelpKINode Title="GetBalance method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetBalance.htm" />
+  <HelpKINode Title="GetBalanceRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceRequest.htm" />
+  <HelpKINode Title="GetBalanceRequest class" Url="html/T-SecretNET.SNIP20.GetBalanceRequest.htm" />
+  <HelpKINode Title="GetBalanceRequest class">
+    <HelpKINode Title="about GetBalanceRequest class" Url="html/T-SecretNET.SNIP20.GetBalanceRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.GetBalanceRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetBalanceRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetBalanceRequest.GetBalanceRequest constructor" Url="html/M-SecretNET.SNIP20.GetBalanceRequest.-ctor.htm" />
+  <HelpKINode Title="GetBalanceRequest.Payload property" Url="html/P-SecretNET.SNIP20.GetBalanceRequest.Payload.htm" />
+  <HelpKINode Title="GetBalanceRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceRequest_Payload.htm" />
+  <HelpKINode Title="GetBalanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.GetBalanceRequest_Payload.htm" />
+  <HelpKINode Title="GetBalanceRequest_Payload class">
+    <HelpKINode Title="about GetBalanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.GetBalanceRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetBalanceRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetBalanceRequest_Payload.Address property" Url="html/P-SecretNET.SNIP20.GetBalanceRequest_Payload.Address.htm" />
+  <HelpKINode Title="GetBalanceRequest_Payload.ViewingKey property" Url="html/P-SecretNET.SNIP20.GetBalanceRequest_Payload.ViewingKey.htm" />
+  <HelpKINode Title="GetBalanceResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceResponse.htm" />
+  <HelpKINode Title="GetBalanceResponse class" Url="html/T-SecretNET.SNIP20.GetBalanceResponse.htm" />
+  <HelpKINode Title="GetBalanceResponse class">
+    <HelpKINode Title="about GetBalanceResponse class" Url="html/T-SecretNET.SNIP20.GetBalanceResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetBalanceResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetBalanceResponse.Error property" Url="html/P-SecretNET.SNIP20.GetBalanceResponse.Error.htm" />
+  <HelpKINode Title="GetBalanceResponse.Result property" Url="html/P-SecretNET.SNIP20.GetBalanceResponse.Result.htm" />
+  <HelpKINode Title="GetBalanceResponse_Error class" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceResponse_Error.htm" />
+  <HelpKINode Title="GetBalanceResponse_Error class" Url="html/T-SecretNET.SNIP20.GetBalanceResponse_Error.htm" />
+  <HelpKINode Title="GetBalanceResponse_Error class">
+    <HelpKINode Title="about GetBalanceResponse_Error class" Url="html/T-SecretNET.SNIP20.GetBalanceResponse_Error.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceResponse_Error.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetBalanceResponse_Error.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetBalanceResponse_Error.Msg property" Url="html/P-SecretNET.SNIP20.GetBalanceResponse_Error.Msg.htm" />
+  <HelpKINode Title="GetBalanceResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceResponse_Result.htm" />
+  <HelpKINode Title="GetBalanceResponse_Result class" Url="html/T-SecretNET.SNIP20.GetBalanceResponse_Result.htm" />
+  <HelpKINode Title="GetBalanceResponse_Result class">
+    <HelpKINode Title="about GetBalanceResponse_Result class" Url="html/T-SecretNET.SNIP20.GetBalanceResponse_Result.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceResponse_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetBalanceResponse_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetBalanceResponse_Result.Amount property" Url="html/P-SecretNET.SNIP20.GetBalanceResponse_Result.Amount.htm" />
+  <HelpKINode Title="GetExchangeRate method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetExchangeRate.htm" />
+  <HelpKINode Title="GetExchangeRateRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetExchangeRateRequest.htm" />
+  <HelpKINode Title="GetExchangeRateRequest class" Url="html/T-SecretNET.SNIP20.GetExchangeRateRequest.htm" />
+  <HelpKINode Title="GetExchangeRateRequest class">
+    <HelpKINode Title="about GetExchangeRateRequest class" Url="html/T-SecretNET.SNIP20.GetExchangeRateRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetExchangeRateRequest.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetExchangeRateRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetExchangeRateRequest.Payload property" Url="html/P-SecretNET.SNIP20.GetExchangeRateRequest.Payload.htm" />
+  <HelpKINode Title="GetExchangeRateResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetExchangeRateResponse.htm" />
+  <HelpKINode Title="GetExchangeRateResponse class" Url="html/T-SecretNET.SNIP20.GetExchangeRateResponse.htm" />
+  <HelpKINode Title="GetExchangeRateResponse class">
+    <HelpKINode Title="about GetExchangeRateResponse class" Url="html/T-SecretNET.SNIP20.GetExchangeRateResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetExchangeRateResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetExchangeRateResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetExchangeRateResponse.Result property" Url="html/P-SecretNET.SNIP20.GetExchangeRateResponse.Result.htm" />
+  <HelpKINode Title="GetExchangeRateResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetExchangeRateResponse_Result.htm" />
+  <HelpKINode Title="GetExchangeRateResponse_Result class" Url="html/T-SecretNET.SNIP20.GetExchangeRateResponse_Result.htm" />
+  <HelpKINode Title="GetExchangeRateResponse_Result class">
+    <HelpKINode Title="about GetExchangeRateResponse_Result class" Url="html/T-SecretNET.SNIP20.GetExchangeRateResponse_Result.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetExchangeRateResponse_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetExchangeRateResponse_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetExchangeRateResponse_Result.Denom property" Url="html/P-SecretNET.SNIP20.GetExchangeRateResponse_Result.Denom.htm" />
+  <HelpKINode Title="GetExchangeRateResponse_Result.Rate property" Url="html/P-SecretNET.SNIP20.GetExchangeRateResponse_Result.Rate.htm" />
+  <HelpKINode Title="GetMinters method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetMinters.htm" />
+  <HelpKINode Title="GetMintersRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetMintersRequest.htm" />
+  <HelpKINode Title="GetMintersRequest class" Url="html/T-SecretNET.SNIP20.GetMintersRequest.htm" />
+  <HelpKINode Title="GetMintersRequest class">
+    <HelpKINode Title="about GetMintersRequest class" Url="html/T-SecretNET.SNIP20.GetMintersRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetMintersRequest.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetMintersRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetMintersRequest.Payload property" Url="html/P-SecretNET.SNIP20.GetMintersRequest.Payload.htm" />
+  <HelpKINode Title="GetMintersResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetMintersResponse.htm" />
+  <HelpKINode Title="GetMintersResponse class" Url="html/T-SecretNET.SNIP20.GetMintersResponse.htm" />
+  <HelpKINode Title="GetMintersResponse class">
+    <HelpKINode Title="about GetMintersResponse class" Url="html/T-SecretNET.SNIP20.GetMintersResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetMintersResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetMintersResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetMintersResponse.Result property" Url="html/P-SecretNET.SNIP20.GetMintersResponse.Result.htm" />
+  <HelpKINode Title="GetMintersResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetMintersResponse_Result.htm" />
+  <HelpKINode Title="GetMintersResponse_Result class" Url="html/T-SecretNET.SNIP20.GetMintersResponse_Result.htm" />
+  <HelpKINode Title="GetMintersResponse_Result class">
+    <HelpKINode Title="about GetMintersResponse_Result class" Url="html/T-SecretNET.SNIP20.GetMintersResponse_Result.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetMintersResponse_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetMintersResponse_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetMintersResponse_Result.Minters property" Url="html/P-SecretNET.SNIP20.GetMintersResponse_Result.Minters.htm" />
+  <HelpKINode Title="GetTokenInfo method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetTokenInfo.htm" />
+  <HelpKINode Title="GetTokenInfoRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTokenInfoRequest.htm" />
+  <HelpKINode Title="GetTokenInfoRequest class" Url="html/T-SecretNET.SNIP20.GetTokenInfoRequest.htm" />
+  <HelpKINode Title="GetTokenInfoRequest class">
+    <HelpKINode Title="about GetTokenInfoRequest class" Url="html/T-SecretNET.SNIP20.GetTokenInfoRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetTokenInfoRequest.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetTokenInfoRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTokenInfoRequest.Payload property" Url="html/P-SecretNET.SNIP20.GetTokenInfoRequest.Payload.htm" />
+  <HelpKINode Title="GetTokenInfoResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTokenInfoResponse.htm" />
+  <HelpKINode Title="GetTokenInfoResponse class" Url="html/T-SecretNET.SNIP20.GetTokenInfoResponse.htm" />
+  <HelpKINode Title="GetTokenInfoResponse class">
+    <HelpKINode Title="about GetTokenInfoResponse class" Url="html/T-SecretNET.SNIP20.GetTokenInfoResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetTokenInfoResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetTokenInfoResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTokenInfoResponse.Result property" Url="html/P-SecretNET.SNIP20.GetTokenInfoResponse.Result.htm" />
+  <HelpKINode Title="GetTokenInfoResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTokenInfoResponse_Result.htm" />
+  <HelpKINode Title="GetTokenInfoResponse_Result class" Url="html/T-SecretNET.SNIP20.GetTokenInfoResponse_Result.htm" />
+  <HelpKINode Title="GetTokenInfoResponse_Result class">
+    <HelpKINode Title="about GetTokenInfoResponse_Result class" Url="html/T-SecretNET.SNIP20.GetTokenInfoResponse_Result.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetTokenInfoResponse_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetTokenInfoResponse_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTokenInfoResponse_Result.Decimals property" Url="html/P-SecretNET.SNIP20.GetTokenInfoResponse_Result.Decimals.htm" />
+  <HelpKINode Title="GetTokenInfoResponse_Result.Name property" Url="html/P-SecretNET.SNIP20.GetTokenInfoResponse_Result.Name.htm" />
+  <HelpKINode Title="GetTokenInfoResponse_Result.Symbol property" Url="html/P-SecretNET.SNIP20.GetTokenInfoResponse_Result.Symbol.htm" />
+  <HelpKINode Title="GetTokenInfoResponse_Result.TotalSupply property" Url="html/P-SecretNET.SNIP20.GetTokenInfoResponse_Result.TotalSupply.htm" />
+  <HelpKINode Title="GetTransferHistory method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetTransferHistory.htm" />
+  <HelpKINode Title="GetTransferHistoryRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryRequest.htm" />
+  <HelpKINode Title="GetTransferHistoryRequest class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryRequest.htm" />
+  <HelpKINode Title="GetTransferHistoryRequest class">
+    <HelpKINode Title="about GetTransferHistoryRequest class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.GetTransferHistoryRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetTransferHistoryRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTransferHistoryRequest.GetTransferHistoryRequest constructor" Url="html/M-SecretNET.SNIP20.GetTransferHistoryRequest.-ctor.htm" />
+  <HelpKINode Title="GetTransferHistoryRequest.Payload property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryRequest.Payload.htm" />
+  <HelpKINode Title="GetTransferHistoryRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.htm" />
+  <HelpKINode Title="GetTransferHistoryRequest_Payload class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.htm" />
+  <HelpKINode Title="GetTransferHistoryRequest_Payload class">
+    <HelpKINode Title="about GetTransferHistoryRequest_Payload class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTransferHistoryRequest_Payload.Address property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.Address.htm" />
+  <HelpKINode Title="GetTransferHistoryRequest_Payload.Page property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.Page.htm" />
+  <HelpKINode Title="GetTransferHistoryRequest_Payload.PageSize property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.PageSize.htm" />
+  <HelpKINode Title="GetTransferHistoryRequest_Payload.ViewingKey property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.ViewingKey.htm" />
+  <HelpKINode Title="GetTransferHistoryResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryResponse.htm" />
+  <HelpKINode Title="GetTransferHistoryResponse class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryResponse.htm" />
+  <HelpKINode Title="GetTransferHistoryResponse class">
+    <HelpKINode Title="about GetTransferHistoryResponse class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetTransferHistoryResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTransferHistoryResponse.Result property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryResponse.Result.htm" />
+  <HelpKINode Title="GetTransferHistoryResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryResponse_Result.htm" />
+  <HelpKINode Title="GetTransferHistoryResponse_Result class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryResponse_Result.htm" />
+  <HelpKINode Title="GetTransferHistoryResponse_Result class">
+    <HelpKINode Title="about GetTransferHistoryResponse_Result class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryResponse_Result.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryResponse_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.GetTransferHistoryResponse_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTransferHistoryResponse_Result.Total property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryResponse_Result.Total.htm" />
+  <HelpKINode Title="GetTransferHistoryResponse_Result.Txs property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryResponse_Result.Txs.htm" />
+  <HelpKINode Title="Id field" Url="html/F-SecretNET.SNIP20.RichTx.Id.htm" />
+  <HelpKINode Title="Id field" Url="html/F-SecretNET.SNIP20.Tx.Id.htm" />
+  <HelpKINode Title="IncreaseAllowance method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.IncreaseAllowance.htm" />
+  <HelpKINode Title="IncreaseAllowance method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.IncreaseAllowance.htm" />
+  <HelpKINode Title="IncreaseAllowanceRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceRequest.htm" />
+  <HelpKINode Title="IncreaseAllowanceRequest class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceRequest.htm" />
+  <HelpKINode Title="IncreaseAllowanceRequest class">
+    <HelpKINode Title="about IncreaseAllowanceRequest class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.IncreaseAllowanceRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.IncreaseAllowanceRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IncreaseAllowanceRequest.IncreaseAllowanceRequest constructor" Url="html/M-SecretNET.SNIP20.IncreaseAllowanceRequest.-ctor.htm" />
+  <HelpKINode Title="IncreaseAllowanceRequest.Payload property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceRequest.Payload.htm" />
+  <HelpKINode Title="IncreaseAllowanceRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="IncreaseAllowanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="IncreaseAllowanceRequest_Payload class">
+    <HelpKINode Title="about IncreaseAllowanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IncreaseAllowanceRequest_Payload.Amount property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.Amount.htm" />
+  <HelpKINode Title="IncreaseAllowanceRequest_Payload.Expiration property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.Expiration.htm" />
+  <HelpKINode Title="IncreaseAllowanceRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.Padding.htm" />
+  <HelpKINode Title="IncreaseAllowanceRequest_Payload.Spender property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.Spender.htm" />
+  <HelpKINode Title="IncreaseAllowanceResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceResponse.htm" />
+  <HelpKINode Title="IncreaseAllowanceResponse class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceResponse.htm" />
+  <HelpKINode Title="IncreaseAllowanceResponse class">
+    <HelpKINode Title="about IncreaseAllowanceResponse class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.IncreaseAllowanceResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IncreaseAllowanceResponse.Result property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceResponse.Result.htm" />
+  <HelpKINode Title="IncreaseAllowanceResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.htm" />
+  <HelpKINode Title="IncreaseAllowanceResponse_Result class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.htm" />
+  <HelpKINode Title="IncreaseAllowanceResponse_Result class">
+    <HelpKINode Title="about IncreaseAllowanceResponse_Result class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IncreaseAllowanceResponse_Result.Allowance property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.Allowance.htm" />
+  <HelpKINode Title="IncreaseAllowanceResponse_Result.Owner property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.Owner.htm" />
+  <HelpKINode Title="IncreaseAllowanceResponse_Result.Spender property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.Spender.htm" />
+  <HelpKINode Title="InitBalance class" Url="html/AllMembers.T-SecretNET.SNIP20.InitBalance.htm" />
+  <HelpKINode Title="InitBalance class" Url="html/T-SecretNET.SNIP20.InitBalance.htm" />
+  <HelpKINode Title="InitBalance class">
+    <HelpKINode Title="about InitBalance class" Url="html/T-SecretNET.SNIP20.InitBalance.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.InitBalance.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.InitBalance.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InitBalance.Address property" Url="html/P-SecretNET.SNIP20.InitBalance.Address.htm" />
+  <HelpKINode Title="InitBalance.Amount property" Url="html/P-SecretNET.SNIP20.InitBalance.Amount.htm" />
+  <HelpKINode Title="InitialBalances property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.InitialBalances.htm" />
+  <HelpKINode Title="Instantiate method" Url="html/M-SecretNET.SNIP20.Snip20Tx.Instantiate.htm" />
+  <HelpKINode Title="InstantiateSnip20 class" Url="html/AllMembers.T-SecretNET.SNIP20.InstantiateSnip20.htm" />
+  <HelpKINode Title="InstantiateSnip20 class" Url="html/T-SecretNET.SNIP20.InstantiateSnip20.htm" />
+  <HelpKINode Title="InstantiateSnip20 class">
+    <HelpKINode Title="about InstantiateSnip20 class" Url="html/T-SecretNET.SNIP20.InstantiateSnip20.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.InstantiateSnip20.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.InstantiateSnip20.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InstantiateSnip20.Admin property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.Admin.htm" />
+  <HelpKINode Title="InstantiateSnip20.Config property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.Config.htm" />
+  <HelpKINode Title="InstantiateSnip20.Decimals property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.Decimals.htm" />
+  <HelpKINode Title="InstantiateSnip20.InitialBalances property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.InitialBalances.htm" />
+  <HelpKINode Title="InstantiateSnip20.Name property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.Name.htm" />
+  <HelpKINode Title="InstantiateSnip20.PrngSeed property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.PrngSeed.htm" />
+  <HelpKINode Title="InstantiateSnip20.Symbol property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.Symbol.htm" />
+  <HelpKINode Title="Memo field" Url="html/F-SecretNET.SNIP20.RichTx.Memo.htm" />
+  <HelpKINode Title="Memo field" Url="html/F-SecretNET.SNIP20.Tx.Memo.htm" />
+  <HelpKINode Title="Mint method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Mint.htm" />
+  <HelpKINode Title="Mint method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Mint.htm" />
+  <HelpKINode Title="Mint property" Url="html/P-SecretNET.SNIP20.MintType.Mint.htm" />
+  <HelpKINode Title="Minter field" Url="html/F-SecretNET.SNIP20.MintType_Mint.Minter.htm" />
+  <HelpKINode Title="Minters property" Url="html/P-SecretNET.SNIP20.GetMintersResponse_Result.Minters.htm" />
+  <HelpKINode Title="Minters property" Url="html/P-SecretNET.SNIP20.SetMintersRequest_Payload.Minters.htm" />
+  <HelpKINode Title="MintRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.MintRequest.htm" />
+  <HelpKINode Title="MintRequest class" Url="html/T-SecretNET.SNIP20.MintRequest.htm" />
+  <HelpKINode Title="MintRequest class">
+    <HelpKINode Title="about MintRequest class" Url="html/T-SecretNET.SNIP20.MintRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MintRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MintRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.MintRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MintRequest.MintRequest constructor" Url="html/M-SecretNET.SNIP20.MintRequest.-ctor.htm" />
+  <HelpKINode Title="MintRequest.Payload property" Url="html/P-SecretNET.SNIP20.MintRequest.Payload.htm" />
+  <HelpKINode Title="MintRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.MintRequest_Payload.htm" />
+  <HelpKINode Title="MintRequest_Payload class" Url="html/T-SecretNET.SNIP20.MintRequest_Payload.htm" />
+  <HelpKINode Title="MintRequest_Payload class">
+    <HelpKINode Title="about MintRequest_Payload class" Url="html/T-SecretNET.SNIP20.MintRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MintRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.MintRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MintRequest_Payload.Amount property" Url="html/P-SecretNET.SNIP20.MintRequest_Payload.Amount.htm" />
+  <HelpKINode Title="MintRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.MintRequest_Payload.Padding.htm" />
+  <HelpKINode Title="MintRequest_Payload.Recipient property" Url="html/P-SecretNET.SNIP20.MintRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="MintResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.MintResponse.htm" />
+  <HelpKINode Title="MintResponse class" Url="html/T-SecretNET.SNIP20.MintResponse.htm" />
+  <HelpKINode Title="MintResponse class">
+    <HelpKINode Title="about MintResponse class" Url="html/T-SecretNET.SNIP20.MintResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MintResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.MintResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MintResponse.Result property" Url="html/P-SecretNET.SNIP20.MintResponse.Result.htm" />
+  <HelpKINode Title="MintType class" Url="html/AllMembers.T-SecretNET.SNIP20.MintType.htm" />
+  <HelpKINode Title="MintType class" Url="html/T-SecretNET.SNIP20.MintType.htm" />
+  <HelpKINode Title="MintType class">
+    <HelpKINode Title="about MintType class" Url="html/T-SecretNET.SNIP20.MintType.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MintType.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.MintType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MintType.Mint property" Url="html/P-SecretNET.SNIP20.MintType.Mint.htm" />
+  <HelpKINode Title="MintType_Mint class" Url="html/AllMembers.T-SecretNET.SNIP20.MintType_Mint.htm" />
+  <HelpKINode Title="MintType_Mint class" Url="html/T-SecretNET.SNIP20.MintType_Mint.htm" />
+  <HelpKINode Title="MintType_Mint class">
+    <HelpKINode Title="about MintType_Mint class" Url="html/T-SecretNET.SNIP20.MintType_Mint.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MintType_Mint.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-SecretNET.SNIP20.MintType_Mint.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MintType_Mint.Minter field" Url="html/F-SecretNET.SNIP20.MintType_Mint.Minter.htm" />
+  <HelpKINode Title="MintType_Mint.Recipient field" Url="html/F-SecretNET.SNIP20.MintType_Mint.Recipient.htm" />
+  <HelpKINode Title="Msg property" Url="html/P-SecretNET.SNIP20.GetBalanceResponse_Error.Msg.htm" />
+  <HelpKINode Title="Msg property" Url="html/P-SecretNET.SNIP20.SendFromRequest_Payload.Msg.htm" />
+  <HelpKINode Title="Msg property" Url="html/P-SecretNET.SNIP20.SendRequest_Payload.Msg.htm" />
+  <HelpKINode Title="MsgBurn class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgBurn.htm" />
+  <HelpKINode Title="MsgBurn class" Url="html/T-SecretNET.SNIP20.MsgBurn.htm" />
+  <HelpKINode Title="MsgBurn class">
+    <HelpKINode Title="about MsgBurn class" Url="html/T-SecretNET.SNIP20.MsgBurn.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgBurn.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgBurn.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgBurn.MsgBurn constructor" Url="html/M-SecretNET.SNIP20.MsgBurn.-ctor.htm" />
+  <HelpKINode Title="MsgBurnFrom class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgBurnFrom.htm" />
+  <HelpKINode Title="MsgBurnFrom class" Url="html/T-SecretNET.SNIP20.MsgBurnFrom.htm" />
+  <HelpKINode Title="MsgBurnFrom class">
+    <HelpKINode Title="about MsgBurnFrom class" Url="html/T-SecretNET.SNIP20.MsgBurnFrom.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgBurnFrom.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgBurnFrom.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgBurnFrom.MsgBurnFrom constructor" Url="html/M-SecretNET.SNIP20.MsgBurnFrom.-ctor.htm" />
+  <HelpKINode Title="MsgCreateViewingKey class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgCreateViewingKey.htm" />
+  <HelpKINode Title="MsgCreateViewingKey class" Url="html/T-SecretNET.SNIP20.MsgCreateViewingKey.htm" />
+  <HelpKINode Title="MsgCreateViewingKey class">
+    <HelpKINode Title="about MsgCreateViewingKey class" Url="html/T-SecretNET.SNIP20.MsgCreateViewingKey.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgCreateViewingKey.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgCreateViewingKey.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgCreateViewingKey.MsgCreateViewingKey constructor" Url="html/M-SecretNET.SNIP20.MsgCreateViewingKey.-ctor.htm" />
+  <HelpKINode Title="MsgDecreaseAllowance class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgDecreaseAllowance.htm" />
+  <HelpKINode Title="MsgDecreaseAllowance class" Url="html/T-SecretNET.SNIP20.MsgDecreaseAllowance.htm" />
+  <HelpKINode Title="MsgDecreaseAllowance class">
+    <HelpKINode Title="about MsgDecreaseAllowance class" Url="html/T-SecretNET.SNIP20.MsgDecreaseAllowance.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgDecreaseAllowance.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgDecreaseAllowance.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgDecreaseAllowance.MsgDecreaseAllowance constructor" Url="html/M-SecretNET.SNIP20.MsgDecreaseAllowance.-ctor.htm" />
+  <HelpKINode Title="MsgDeposit class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgDeposit.htm" />
+  <HelpKINode Title="MsgDeposit class" Url="html/T-SecretNET.SNIP20.MsgDeposit.htm" />
+  <HelpKINode Title="MsgDeposit class">
+    <HelpKINode Title="about MsgDeposit class" Url="html/T-SecretNET.SNIP20.MsgDeposit.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgDeposit.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgDeposit.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgDeposit.MsgDeposit constructor" Url="html/M-SecretNET.SNIP20.MsgDeposit.-ctor.htm" />
+  <HelpKINode Title="MsgIncreaseAllowance class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgIncreaseAllowance.htm" />
+  <HelpKINode Title="MsgIncreaseAllowance class" Url="html/T-SecretNET.SNIP20.MsgIncreaseAllowance.htm" />
+  <HelpKINode Title="MsgIncreaseAllowance class">
+    <HelpKINode Title="about MsgIncreaseAllowance class" Url="html/T-SecretNET.SNIP20.MsgIncreaseAllowance.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgIncreaseAllowance.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgIncreaseAllowance.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgIncreaseAllowance.MsgIncreaseAllowance constructor" Url="html/M-SecretNET.SNIP20.MsgIncreaseAllowance.-ctor.htm" />
+  <HelpKINode Title="MsgInstantiate class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgInstantiate.htm" />
+  <HelpKINode Title="MsgInstantiate class" Url="html/T-SecretNET.SNIP20.MsgInstantiate.htm" />
+  <HelpKINode Title="MsgInstantiate class">
+    <HelpKINode Title="about MsgInstantiate class" Url="html/T-SecretNET.SNIP20.MsgInstantiate.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgInstantiate.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgInstantiate.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgInstantiate.MsgInstantiate constructor" Url="html/M-SecretNET.SNIP20.MsgInstantiate.-ctor.htm" />
+  <HelpKINode Title="MsgMint class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgMint.htm" />
+  <HelpKINode Title="MsgMint class" Url="html/T-SecretNET.SNIP20.MsgMint.htm" />
+  <HelpKINode Title="MsgMint class">
+    <HelpKINode Title="about MsgMint class" Url="html/T-SecretNET.SNIP20.MsgMint.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgMint.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgMint.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgMint.MsgMint constructor" Url="html/M-SecretNET.SNIP20.MsgMint.-ctor.htm" />
+  <HelpKINode Title="MsgRedeem class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgRedeem.htm" />
+  <HelpKINode Title="MsgRedeem class" Url="html/T-SecretNET.SNIP20.MsgRedeem.htm" />
+  <HelpKINode Title="MsgRedeem class">
+    <HelpKINode Title="about MsgRedeem class" Url="html/T-SecretNET.SNIP20.MsgRedeem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgRedeem.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgRedeem.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgRedeem.MsgRedeem constructor" Url="html/M-SecretNET.SNIP20.MsgRedeem.-ctor.htm" />
+  <HelpKINode Title="MsgRegisterReceive class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgRegisterReceive.htm" />
+  <HelpKINode Title="MsgRegisterReceive class" Url="html/T-SecretNET.SNIP20.MsgRegisterReceive.htm" />
+  <HelpKINode Title="MsgRegisterReceive class">
+    <HelpKINode Title="about MsgRegisterReceive class" Url="html/T-SecretNET.SNIP20.MsgRegisterReceive.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgRegisterReceive.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgRegisterReceive.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgRegisterReceive.MsgRegisterReceive constructor" Url="html/M-SecretNET.SNIP20.MsgRegisterReceive.-ctor.htm" />
+  <HelpKINode Title="MsgSend class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSend.htm" />
+  <HelpKINode Title="MsgSend class" Url="html/T-SecretNET.SNIP20.MsgSend.htm" />
+  <HelpKINode Title="MsgSend class">
+    <HelpKINode Title="about MsgSend class" Url="html/T-SecretNET.SNIP20.MsgSend.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSend.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgSend.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgSend.MsgSend constructor" Url="html/M-SecretNET.SNIP20.MsgSend.-ctor.htm" />
+  <HelpKINode Title="MsgSendFrom class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSendFrom.htm" />
+  <HelpKINode Title="MsgSendFrom class" Url="html/T-SecretNET.SNIP20.MsgSendFrom.htm" />
+  <HelpKINode Title="MsgSendFrom class">
+    <HelpKINode Title="about MsgSendFrom class" Url="html/T-SecretNET.SNIP20.MsgSendFrom.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSendFrom.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgSendFrom.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgSendFrom.MsgSendFrom constructor" Url="html/M-SecretNET.SNIP20.MsgSendFrom.-ctor.htm" />
+  <HelpKINode Title="MsgSetMinters class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSetMinters.htm" />
+  <HelpKINode Title="MsgSetMinters class" Url="html/T-SecretNET.SNIP20.MsgSetMinters.htm" />
+  <HelpKINode Title="MsgSetMinters class">
+    <HelpKINode Title="about MsgSetMinters class" Url="html/T-SecretNET.SNIP20.MsgSetMinters.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSetMinters.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgSetMinters.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgSetMinters.MsgSetMinters constructor" Url="html/M-SecretNET.SNIP20.MsgSetMinters.-ctor.htm" />
+  <HelpKINode Title="MsgSetViewingKey class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSetViewingKey.htm" />
+  <HelpKINode Title="MsgSetViewingKey class" Url="html/T-SecretNET.SNIP20.MsgSetViewingKey.htm" />
+  <HelpKINode Title="MsgSetViewingKey class">
+    <HelpKINode Title="about MsgSetViewingKey class" Url="html/T-SecretNET.SNIP20.MsgSetViewingKey.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSetViewingKey.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgSetViewingKey.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgSetViewingKey.MsgSetViewingKey constructor" Url="html/M-SecretNET.SNIP20.MsgSetViewingKey.-ctor.htm" />
+  <HelpKINode Title="MsgTransfer class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgTransfer.htm" />
+  <HelpKINode Title="MsgTransfer class" Url="html/T-SecretNET.SNIP20.MsgTransfer.htm" />
+  <HelpKINode Title="MsgTransfer class">
+    <HelpKINode Title="about MsgTransfer class" Url="html/T-SecretNET.SNIP20.MsgTransfer.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgTransfer.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgTransfer.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgTransfer.MsgTransfer constructor" Url="html/M-SecretNET.SNIP20.MsgTransfer.-ctor.htm" />
+  <HelpKINode Title="MsgTransferFrom class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgTransferFrom.htm" />
+  <HelpKINode Title="MsgTransferFrom class" Url="html/T-SecretNET.SNIP20.MsgTransferFrom.htm" />
+  <HelpKINode Title="MsgTransferFrom class">
+    <HelpKINode Title="about MsgTransferFrom class" Url="html/T-SecretNET.SNIP20.MsgTransferFrom.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.MsgTransferFrom.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.MsgTransferFrom.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgTransferFrom.MsgTransferFrom constructor" Url="html/M-SecretNET.SNIP20.MsgTransferFrom.-ctor.htm" />
+  <HelpKINode Title="Name property" Url="html/P-SecretNET.SNIP20.GetTokenInfoResponse_Result.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.Name.htm" />
+  <HelpKINode Title="Owner field" Url="html/F-SecretNET.SNIP20.BurnType_Burn.Owner.htm" />
+  <HelpKINode Title="Owner property" Url="html/P-SecretNET.SNIP20.BurnFromRequest_Payload.Owner.htm" />
+  <HelpKINode Title="Owner property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.Owner.htm" />
+  <HelpKINode Title="Owner property" Url="html/P-SecretNET.SNIP20.GetAllowanceRequest_Payload.Owner.htm" />
+  <HelpKINode Title="Owner property" Url="html/P-SecretNET.SNIP20.GetAllowanceResponse_Result.Owner.htm" />
+  <HelpKINode Title="Owner property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.Owner.htm" />
+  <HelpKINode Title="Owner property" Url="html/P-SecretNET.SNIP20.SendFromRequest_Payload.Owner.htm" />
+  <HelpKINode Title="Owner property" Url="html/P-SecretNET.SNIP20.TransferFromRequest_Payload.Owner.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.BurnFromRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.BurnRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.DepositRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.MintRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.RedeemRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.RegisterReceiveRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.SendFromRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.SendRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.SetMintersRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.TransferFromRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Padding property" Url="html/P-SecretNET.SNIP20.TransferRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Page property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.Page.htm" />
+  <HelpKINode Title="PageSize property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.PageSize.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.BurnFromRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.BurnRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.DepositRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.GetAllowanceRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.GetBalanceRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.GetExchangeRateRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.GetMintersRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.GetTokenInfoRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.MintRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.RedeemRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.RegisterReceiveRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.SendFromRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.SendRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.SetMintersRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.TransferFromRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.SNIP20.TransferRequest.Payload.htm" />
+  <HelpKINode Title="PrngSeed property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.PrngSeed.htm" />
+  <HelpKINode Title="PublicTotalSupply property" Url="html/P-SecretNET.SNIP20.ConfigSettings.PublicTotalSupply.htm" />
+  <HelpKINode Title="Query property" Url="html/P-SecretNET.SNIP20.Snip20Client.Query.htm" />
+  <HelpKINode Title="Rate property" Url="html/P-SecretNET.SNIP20.GetExchangeRateResponse_Result.Rate.htm" />
+  <HelpKINode Title="Receiver field" Url="html/F-SecretNET.SNIP20.Tx.Receiver.htm" />
+  <HelpKINode Title="Recipient field" Url="html/F-SecretNET.SNIP20.MintType_Mint.Recipient.htm" />
+  <HelpKINode Title="Recipient field" Url="html/F-SecretNET.SNIP20.TransferType_Transfer.Recipient.htm" />
+  <HelpKINode Title="Recipient property" Url="html/P-SecretNET.SNIP20.MintRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="Recipient property" Url="html/P-SecretNET.SNIP20.SendFromRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="Recipient property" Url="html/P-SecretNET.SNIP20.SendRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="Recipient property" Url="html/P-SecretNET.SNIP20.TransferFromRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="Recipient property" Url="html/P-SecretNET.SNIP20.TransferRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="Redeem method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Redeem.htm" />
+  <HelpKINode Title="Redeem method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Redeem.htm" />
+  <HelpKINode Title="Redeem property" Url="html/P-SecretNET.SNIP20.RedeemType.Redeem.htm" />
+  <HelpKINode Title="RedeemRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemRequest.htm" />
+  <HelpKINode Title="RedeemRequest class" Url="html/T-SecretNET.SNIP20.RedeemRequest.htm" />
+  <HelpKINode Title="RedeemRequest class">
+    <HelpKINode Title="about RedeemRequest class" Url="html/T-SecretNET.SNIP20.RedeemRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.RedeemRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.RedeemRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RedeemRequest.Payload property" Url="html/P-SecretNET.SNIP20.RedeemRequest.Payload.htm" />
+  <HelpKINode Title="RedeemRequest.RedeemRequest constructor" Url="html/M-SecretNET.SNIP20.RedeemRequest.-ctor.htm" />
+  <HelpKINode Title="RedeemRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemRequest_Payload.htm" />
+  <HelpKINode Title="RedeemRequest_Payload class" Url="html/T-SecretNET.SNIP20.RedeemRequest_Payload.htm" />
+  <HelpKINode Title="RedeemRequest_Payload class">
+    <HelpKINode Title="about RedeemRequest_Payload class" Url="html/T-SecretNET.SNIP20.RedeemRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.RedeemRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RedeemRequest_Payload.Amount property" Url="html/P-SecretNET.SNIP20.RedeemRequest_Payload.Amount.htm" />
+  <HelpKINode Title="RedeemRequest_Payload.Denom property" Url="html/P-SecretNET.SNIP20.RedeemRequest_Payload.Denom.htm" />
+  <HelpKINode Title="RedeemRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.RedeemRequest_Payload.Padding.htm" />
+  <HelpKINode Title="RedeemResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemResponse.htm" />
+  <HelpKINode Title="RedeemResponse class" Url="html/T-SecretNET.SNIP20.RedeemResponse.htm" />
+  <HelpKINode Title="RedeemResponse class">
+    <HelpKINode Title="about RedeemResponse class" Url="html/T-SecretNET.SNIP20.RedeemResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.RedeemResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RedeemResponse.Result property" Url="html/P-SecretNET.SNIP20.RedeemResponse.Result.htm" />
+  <HelpKINode Title="RedeemType class" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemType.htm" />
+  <HelpKINode Title="RedeemType class" Url="html/T-SecretNET.SNIP20.RedeemType.htm" />
+  <HelpKINode Title="RedeemType class">
+    <HelpKINode Title="about RedeemType class" Url="html/T-SecretNET.SNIP20.RedeemType.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemType.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.RedeemType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RedeemType.Redeem property" Url="html/P-SecretNET.SNIP20.RedeemType.Redeem.htm" />
+  <HelpKINode Title="RegisterReceive method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.RegisterReceive.htm" />
+  <HelpKINode Title="RegisterReceive method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.RegisterReceive.htm" />
+  <HelpKINode Title="RegisterReceiveRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.RegisterReceiveRequest.htm" />
+  <HelpKINode Title="RegisterReceiveRequest class" Url="html/T-SecretNET.SNIP20.RegisterReceiveRequest.htm" />
+  <HelpKINode Title="RegisterReceiveRequest class">
+    <HelpKINode Title="about RegisterReceiveRequest class" Url="html/T-SecretNET.SNIP20.RegisterReceiveRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.RegisterReceiveRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.RegisterReceiveRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.RegisterReceiveRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegisterReceiveRequest.Payload property" Url="html/P-SecretNET.SNIP20.RegisterReceiveRequest.Payload.htm" />
+  <HelpKINode Title="RegisterReceiveRequest.RegisterReceiveRequest constructor" Url="html/M-SecretNET.SNIP20.RegisterReceiveRequest.-ctor.htm" />
+  <HelpKINode Title="RegisterReceiveRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.RegisterReceiveRequest_Payload.htm" />
+  <HelpKINode Title="RegisterReceiveRequest_Payload class" Url="html/T-SecretNET.SNIP20.RegisterReceiveRequest_Payload.htm" />
+  <HelpKINode Title="RegisterReceiveRequest_Payload class">
+    <HelpKINode Title="about RegisterReceiveRequest_Payload class" Url="html/T-SecretNET.SNIP20.RegisterReceiveRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.RegisterReceiveRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.RegisterReceiveRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegisterReceiveRequest_Payload.CodeHash property" Url="html/P-SecretNET.SNIP20.RegisterReceiveRequest_Payload.CodeHash.htm" />
+  <HelpKINode Title="RegisterReceiveRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.RegisterReceiveRequest_Payload.Padding.htm" />
+  <HelpKINode Title="RegisterReceiveResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.RegisterReceiveResponse.htm" />
+  <HelpKINode Title="RegisterReceiveResponse class" Url="html/T-SecretNET.SNIP20.RegisterReceiveResponse.htm" />
+  <HelpKINode Title="RegisterReceiveResponse class">
+    <HelpKINode Title="about RegisterReceiveResponse class" Url="html/T-SecretNET.SNIP20.RegisterReceiveResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.RegisterReceiveResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.RegisterReceiveResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegisterReceiveResponse.Result property" Url="html/P-SecretNET.SNIP20.RegisterReceiveResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.BurnFromResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.BurnResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.DepositResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.GetAllowanceResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.GetBalanceResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.GetExchangeRateResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.GetMintersResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.GetTokenInfoResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.MintResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.RedeemResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.RegisterReceiveResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.SendFromResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.SendResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.SetMintersResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.TransferFromResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.SNIP20.TransferResponse.Result.htm" />
+  <HelpKINode Title="RichTx class" Url="html/AllMembers.T-SecretNET.SNIP20.RichTx.htm" />
+  <HelpKINode Title="RichTx class" Url="html/T-SecretNET.SNIP20.RichTx.htm" />
+  <HelpKINode Title="RichTx class">
+    <HelpKINode Title="about RichTx class" Url="html/T-SecretNET.SNIP20.RichTx.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.RichTx.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-SecretNET.SNIP20.RichTx.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RichTx.Action field" Url="html/F-SecretNET.SNIP20.RichTx.Action.htm" />
+  <HelpKINode Title="RichTx.BlockHeight field" Url="html/F-SecretNET.SNIP20.RichTx.BlockHeight.htm" />
+  <HelpKINode Title="RichTx.BlockTime field" Url="html/F-SecretNET.SNIP20.RichTx.BlockTime.htm" />
+  <HelpKINode Title="RichTx.Coins field" Url="html/F-SecretNET.SNIP20.RichTx.Coins.htm" />
+  <HelpKINode Title="RichTx.Id field" Url="html/F-SecretNET.SNIP20.RichTx.Id.htm" />
+  <HelpKINode Title="RichTx.Memo field" Url="html/F-SecretNET.SNIP20.RichTx.Memo.htm" />
+  <HelpKINode Title="SecretNET.SNIP20 namespace" Url="html/N-SecretNET.SNIP20.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnFromRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnFromRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnFromRequest class" Url="html/T-SecretNET.SNIP20.BurnFromRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnFromRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnFromRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnFromRequest_Payload class" Url="html/T-SecretNET.SNIP20.BurnFromRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnFromResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnFromResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnFromResponse class" Url="html/T-SecretNET.SNIP20.BurnFromResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnRequest class" Url="html/T-SecretNET.SNIP20.BurnRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnRequest_Payload class" Url="html/T-SecretNET.SNIP20.BurnRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnResponse class" Url="html/T-SecretNET.SNIP20.BurnResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnType class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnType.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnType class" Url="html/T-SecretNET.SNIP20.BurnType.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnType_Burn class" Url="html/AllMembers.T-SecretNET.SNIP20.BurnType_Burn.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.BurnType_Burn class" Url="html/T-SecretNET.SNIP20.BurnType_Burn.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.ConfigSettings class" Url="html/AllMembers.T-SecretNET.SNIP20.ConfigSettings.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.ConfigSettings class" Url="html/T-SecretNET.SNIP20.ConfigSettings.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DecreaseAllowanceRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DecreaseAllowanceRequest class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DecreaseAllowanceRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DecreaseAllowanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DecreaseAllowanceResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DecreaseAllowanceResponse class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DecreaseAllowanceResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DecreaseAllowanceResponse_Result class" Url="html/T-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DepositRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.DepositRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DepositRequest class" Url="html/T-SecretNET.SNIP20.DepositRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DepositRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.DepositRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DepositRequest_Payload class" Url="html/T-SecretNET.SNIP20.DepositRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DepositResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.DepositResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DepositResponse class" Url="html/T-SecretNET.SNIP20.DepositResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DepositType class" Url="html/AllMembers.T-SecretNET.SNIP20.DepositType.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.DepositType class" Url="html/T-SecretNET.SNIP20.DepositType.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetAllowanceRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetAllowanceRequest class" Url="html/T-SecretNET.SNIP20.GetAllowanceRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetAllowanceRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetAllowanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.GetAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetAllowanceResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetAllowanceResponse class" Url="html/T-SecretNET.SNIP20.GetAllowanceResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetAllowanceResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetAllowanceResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetAllowanceResponse_Result class" Url="html/T-SecretNET.SNIP20.GetAllowanceResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetBalanceRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetBalanceRequest class" Url="html/T-SecretNET.SNIP20.GetBalanceRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetBalanceRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetBalanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.GetBalanceRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetBalanceResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetBalanceResponse class" Url="html/T-SecretNET.SNIP20.GetBalanceResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetBalanceResponse_Error class" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceResponse_Error.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetBalanceResponse_Error class" Url="html/T-SecretNET.SNIP20.GetBalanceResponse_Error.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetBalanceResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetBalanceResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetBalanceResponse_Result class" Url="html/T-SecretNET.SNIP20.GetBalanceResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetExchangeRateRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetExchangeRateRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetExchangeRateRequest class" Url="html/T-SecretNET.SNIP20.GetExchangeRateRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetExchangeRateResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetExchangeRateResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetExchangeRateResponse class" Url="html/T-SecretNET.SNIP20.GetExchangeRateResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetExchangeRateResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetExchangeRateResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetExchangeRateResponse_Result class" Url="html/T-SecretNET.SNIP20.GetExchangeRateResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetMintersRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetMintersRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetMintersRequest class" Url="html/T-SecretNET.SNIP20.GetMintersRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetMintersResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetMintersResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetMintersResponse class" Url="html/T-SecretNET.SNIP20.GetMintersResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetMintersResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetMintersResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetMintersResponse_Result class" Url="html/T-SecretNET.SNIP20.GetMintersResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTokenInfoRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTokenInfoRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTokenInfoRequest class" Url="html/T-SecretNET.SNIP20.GetTokenInfoRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTokenInfoResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTokenInfoResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTokenInfoResponse class" Url="html/T-SecretNET.SNIP20.GetTokenInfoResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTokenInfoResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTokenInfoResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTokenInfoResponse_Result class" Url="html/T-SecretNET.SNIP20.GetTokenInfoResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTransferHistoryRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTransferHistoryRequest class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTransferHistoryRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTransferHistoryRequest_Payload class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTransferHistoryResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTransferHistoryResponse class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTransferHistoryResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.GetTransferHistoryResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.GetTransferHistoryResponse_Result class" Url="html/T-SecretNET.SNIP20.GetTransferHistoryResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.IncreaseAllowanceRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.IncreaseAllowanceRequest class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.IncreaseAllowanceRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.IncreaseAllowanceRequest_Payload class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.IncreaseAllowanceResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.IncreaseAllowanceResponse class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.IncreaseAllowanceResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.IncreaseAllowanceResponse_Result class" Url="html/T-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.InitBalance class" Url="html/AllMembers.T-SecretNET.SNIP20.InitBalance.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.InitBalance class" Url="html/T-SecretNET.SNIP20.InitBalance.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.InstantiateSnip20 class" Url="html/AllMembers.T-SecretNET.SNIP20.InstantiateSnip20.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.InstantiateSnip20 class" Url="html/T-SecretNET.SNIP20.InstantiateSnip20.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MintRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.MintRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MintRequest class" Url="html/T-SecretNET.SNIP20.MintRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MintRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.MintRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MintRequest_Payload class" Url="html/T-SecretNET.SNIP20.MintRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MintResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.MintResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MintResponse class" Url="html/T-SecretNET.SNIP20.MintResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MintType class" Url="html/AllMembers.T-SecretNET.SNIP20.MintType.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MintType class" Url="html/T-SecretNET.SNIP20.MintType.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MintType_Mint class" Url="html/AllMembers.T-SecretNET.SNIP20.MintType_Mint.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MintType_Mint class" Url="html/T-SecretNET.SNIP20.MintType_Mint.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgBurn class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgBurn.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgBurn class" Url="html/T-SecretNET.SNIP20.MsgBurn.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgBurnFrom class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgBurnFrom.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgBurnFrom class" Url="html/T-SecretNET.SNIP20.MsgBurnFrom.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgCreateViewingKey class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgCreateViewingKey.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgCreateViewingKey class" Url="html/T-SecretNET.SNIP20.MsgCreateViewingKey.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgDecreaseAllowance class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgDecreaseAllowance.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgDecreaseAllowance class" Url="html/T-SecretNET.SNIP20.MsgDecreaseAllowance.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgDeposit class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgDeposit.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgDeposit class" Url="html/T-SecretNET.SNIP20.MsgDeposit.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgIncreaseAllowance class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgIncreaseAllowance.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgIncreaseAllowance class" Url="html/T-SecretNET.SNIP20.MsgIncreaseAllowance.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgInstantiate class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgInstantiate.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgInstantiate class" Url="html/T-SecretNET.SNIP20.MsgInstantiate.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgMint class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgMint.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgMint class" Url="html/T-SecretNET.SNIP20.MsgMint.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgRedeem class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgRedeem.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgRedeem class" Url="html/T-SecretNET.SNIP20.MsgRedeem.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgRegisterReceive class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgRegisterReceive.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgRegisterReceive class" Url="html/T-SecretNET.SNIP20.MsgRegisterReceive.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgSend class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSend.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgSend class" Url="html/T-SecretNET.SNIP20.MsgSend.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgSendFrom class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSendFrom.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgSendFrom class" Url="html/T-SecretNET.SNIP20.MsgSendFrom.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgSetMinters class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSetMinters.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgSetMinters class" Url="html/T-SecretNET.SNIP20.MsgSetMinters.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgSetViewingKey class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgSetViewingKey.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgSetViewingKey class" Url="html/T-SecretNET.SNIP20.MsgSetViewingKey.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgTransfer class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgTransfer.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgTransfer class" Url="html/T-SecretNET.SNIP20.MsgTransfer.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgTransferFrom class" Url="html/AllMembers.T-SecretNET.SNIP20.MsgTransferFrom.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.MsgTransferFrom class" Url="html/T-SecretNET.SNIP20.MsgTransferFrom.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RedeemRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RedeemRequest class" Url="html/T-SecretNET.SNIP20.RedeemRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RedeemRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RedeemRequest_Payload class" Url="html/T-SecretNET.SNIP20.RedeemRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RedeemResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RedeemResponse class" Url="html/T-SecretNET.SNIP20.RedeemResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RedeemType class" Url="html/AllMembers.T-SecretNET.SNIP20.RedeemType.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RedeemType class" Url="html/T-SecretNET.SNIP20.RedeemType.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RegisterReceiveRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.RegisterReceiveRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RegisterReceiveRequest class" Url="html/T-SecretNET.SNIP20.RegisterReceiveRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RegisterReceiveRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.RegisterReceiveRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RegisterReceiveRequest_Payload class" Url="html/T-SecretNET.SNIP20.RegisterReceiveRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RegisterReceiveResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.RegisterReceiveResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RegisterReceiveResponse class" Url="html/T-SecretNET.SNIP20.RegisterReceiveResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RichTx class" Url="html/AllMembers.T-SecretNET.SNIP20.RichTx.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.RichTx class" Url="html/T-SecretNET.SNIP20.RichTx.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendFromRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.SendFromRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendFromRequest class" Url="html/T-SecretNET.SNIP20.SendFromRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendFromRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.SendFromRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendFromRequest_Payload class" Url="html/T-SecretNET.SNIP20.SendFromRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendFromResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.SendFromResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendFromResponse class" Url="html/T-SecretNET.SNIP20.SendFromResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.SendRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendRequest class" Url="html/T-SecretNET.SNIP20.SendRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.SendRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendRequest_Payload class" Url="html/T-SecretNET.SNIP20.SendRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.SendResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SendResponse class" Url="html/T-SecretNET.SNIP20.SendResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SetMintersRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.SetMintersRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SetMintersRequest class" Url="html/T-SecretNET.SNIP20.SetMintersRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SetMintersRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.SetMintersRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SetMintersRequest_Payload class" Url="html/T-SecretNET.SNIP20.SetMintersRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SetMintersResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.SetMintersResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SetMintersResponse class" Url="html/T-SecretNET.SNIP20.SetMintersResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SimpleStatusResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.SimpleStatusResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.SimpleStatusResponse_Result class" Url="html/T-SecretNET.SNIP20.SimpleStatusResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.Snip20Client class" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20Client.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.Snip20Client class" Url="html/T-SecretNET.SNIP20.Snip20Client.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.Snip20Querier class" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20Querier.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.Snip20Querier class" Url="html/T-SecretNET.SNIP20.Snip20Querier.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.Snip20Tx class" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20Tx.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.Snip20Tx class" Url="html/T-SecretNET.SNIP20.Snip20Tx.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.Snip20TxSimulate class" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20TxSimulate.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.Snip20TxSimulate class" Url="html/T-SecretNET.SNIP20.Snip20TxSimulate.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferFromRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferFromRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferFromRequest class" Url="html/T-SecretNET.SNIP20.TransferFromRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferFromRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferFromRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferFromRequest_Payload class" Url="html/T-SecretNET.SNIP20.TransferFromRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferFromResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferFromResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferFromResponse class" Url="html/T-SecretNET.SNIP20.TransferFromResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferRequest class" Url="html/T-SecretNET.SNIP20.TransferRequest.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferRequest_Payload class" Url="html/T-SecretNET.SNIP20.TransferRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferResponse class" Url="html/T-SecretNET.SNIP20.TransferResponse.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferType class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferType.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferType class" Url="html/T-SecretNET.SNIP20.TransferType.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferType_Transfer class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferType_Transfer.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.TransferType_Transfer class" Url="html/T-SecretNET.SNIP20.TransferType_Transfer.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.Tx class" Url="html/AllMembers.T-SecretNET.SNIP20.Tx.htm" />
+  <HelpKINode Title="SecretNET.SNIP20.Tx class" Url="html/T-SecretNET.SNIP20.Tx.htm" />
+  <HelpKINode Title="Send method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Send.htm" />
+  <HelpKINode Title="Send method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Send.htm" />
+  <HelpKINode Title="Sender field" Url="html/F-SecretNET.SNIP20.TransferType_Transfer.Sender.htm" />
+  <HelpKINode Title="Sender field" Url="html/F-SecretNET.SNIP20.Tx.Sender.htm" />
+  <HelpKINode Title="SendFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.SendFrom.htm" />
+  <HelpKINode Title="SendFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.SendFrom.htm" />
+  <HelpKINode Title="SendFromRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.SendFromRequest.htm" />
+  <HelpKINode Title="SendFromRequest class" Url="html/T-SecretNET.SNIP20.SendFromRequest.htm" />
+  <HelpKINode Title="SendFromRequest class">
+    <HelpKINode Title="about SendFromRequest class" Url="html/T-SecretNET.SNIP20.SendFromRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.SendFromRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.SendFromRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.SendFromRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendFromRequest.Payload property" Url="html/P-SecretNET.SNIP20.SendFromRequest.Payload.htm" />
+  <HelpKINode Title="SendFromRequest.SendFromRequest constructor" Url="html/M-SecretNET.SNIP20.SendFromRequest.-ctor.htm" />
+  <HelpKINode Title="SendFromRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.SendFromRequest_Payload.htm" />
+  <HelpKINode Title="SendFromRequest_Payload class" Url="html/T-SecretNET.SNIP20.SendFromRequest_Payload.htm" />
+  <HelpKINode Title="SendFromRequest_Payload class">
+    <HelpKINode Title="about SendFromRequest_Payload class" Url="html/T-SecretNET.SNIP20.SendFromRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.SendFromRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.SendFromRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendFromRequest_Payload.Amount property" Url="html/P-SecretNET.SNIP20.SendFromRequest_Payload.Amount.htm" />
+  <HelpKINode Title="SendFromRequest_Payload.Msg property" Url="html/P-SecretNET.SNIP20.SendFromRequest_Payload.Msg.htm" />
+  <HelpKINode Title="SendFromRequest_Payload.Owner property" Url="html/P-SecretNET.SNIP20.SendFromRequest_Payload.Owner.htm" />
+  <HelpKINode Title="SendFromRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.SendFromRequest_Payload.Padding.htm" />
+  <HelpKINode Title="SendFromRequest_Payload.Recipient property" Url="html/P-SecretNET.SNIP20.SendFromRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="SendFromResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.SendFromResponse.htm" />
+  <HelpKINode Title="SendFromResponse class" Url="html/T-SecretNET.SNIP20.SendFromResponse.htm" />
+  <HelpKINode Title="SendFromResponse class">
+    <HelpKINode Title="about SendFromResponse class" Url="html/T-SecretNET.SNIP20.SendFromResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.SendFromResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.SendFromResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendFromResponse.Result property" Url="html/P-SecretNET.SNIP20.SendFromResponse.Result.htm" />
+  <HelpKINode Title="SendRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.SendRequest.htm" />
+  <HelpKINode Title="SendRequest class" Url="html/T-SecretNET.SNIP20.SendRequest.htm" />
+  <HelpKINode Title="SendRequest class">
+    <HelpKINode Title="about SendRequest class" Url="html/T-SecretNET.SNIP20.SendRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.SendRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.SendRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.SendRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendRequest.Payload property" Url="html/P-SecretNET.SNIP20.SendRequest.Payload.htm" />
+  <HelpKINode Title="SendRequest.SendRequest constructor" Url="html/M-SecretNET.SNIP20.SendRequest.-ctor.htm" />
+  <HelpKINode Title="SendRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.SendRequest_Payload.htm" />
+  <HelpKINode Title="SendRequest_Payload class" Url="html/T-SecretNET.SNIP20.SendRequest_Payload.htm" />
+  <HelpKINode Title="SendRequest_Payload class">
+    <HelpKINode Title="about SendRequest_Payload class" Url="html/T-SecretNET.SNIP20.SendRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.SendRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.SendRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendRequest_Payload.Amount property" Url="html/P-SecretNET.SNIP20.SendRequest_Payload.Amount.htm" />
+  <HelpKINode Title="SendRequest_Payload.Msg property" Url="html/P-SecretNET.SNIP20.SendRequest_Payload.Msg.htm" />
+  <HelpKINode Title="SendRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.SendRequest_Payload.Padding.htm" />
+  <HelpKINode Title="SendRequest_Payload.Recipient property" Url="html/P-SecretNET.SNIP20.SendRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="SendResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.SendResponse.htm" />
+  <HelpKINode Title="SendResponse class" Url="html/T-SecretNET.SNIP20.SendResponse.htm" />
+  <HelpKINode Title="SendResponse class">
+    <HelpKINode Title="about SendResponse class" Url="html/T-SecretNET.SNIP20.SendResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.SendResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.SendResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendResponse.Result property" Url="html/P-SecretNET.SNIP20.SendResponse.Result.htm" />
+  <HelpKINode Title="SetMinters method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.SetMinters.htm" />
+  <HelpKINode Title="SetMinters method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.SetMinters.htm" />
+  <HelpKINode Title="SetMintersRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.SetMintersRequest.htm" />
+  <HelpKINode Title="SetMintersRequest class" Url="html/T-SecretNET.SNIP20.SetMintersRequest.htm" />
+  <HelpKINode Title="SetMintersRequest class">
+    <HelpKINode Title="about SetMintersRequest class" Url="html/T-SecretNET.SNIP20.SetMintersRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.SetMintersRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload-SecretNET.SNIP20.SetMintersRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.SetMintersRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetMintersRequest.Payload property" Url="html/P-SecretNET.SNIP20.SetMintersRequest.Payload.htm" />
+  <HelpKINode Title="SetMintersRequest.SetMintersRequest constructor" Url="html/Overload-SecretNET.SNIP20.SetMintersRequest.-ctor.htm" />
+  <HelpKINode Title="SetMintersRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.SetMintersRequest_Payload.htm" />
+  <HelpKINode Title="SetMintersRequest_Payload class" Url="html/T-SecretNET.SNIP20.SetMintersRequest_Payload.htm" />
+  <HelpKINode Title="SetMintersRequest_Payload class">
+    <HelpKINode Title="about SetMintersRequest_Payload class" Url="html/T-SecretNET.SNIP20.SetMintersRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.SetMintersRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.SetMintersRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetMintersRequest_Payload.Minters property" Url="html/P-SecretNET.SNIP20.SetMintersRequest_Payload.Minters.htm" />
+  <HelpKINode Title="SetMintersRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.SetMintersRequest_Payload.Padding.htm" />
+  <HelpKINode Title="SetMintersResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.SetMintersResponse.htm" />
+  <HelpKINode Title="SetMintersResponse class" Url="html/T-SecretNET.SNIP20.SetMintersResponse.htm" />
+  <HelpKINode Title="SetMintersResponse class">
+    <HelpKINode Title="about SetMintersResponse class" Url="html/T-SecretNET.SNIP20.SetMintersResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.SetMintersResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.SetMintersResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetMintersResponse.Result property" Url="html/P-SecretNET.SNIP20.SetMintersResponse.Result.htm" />
+  <HelpKINode Title="SetViewingKey method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.SetViewingKey.htm" />
+  <HelpKINode Title="SetViewingKey method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.SetViewingKey.htm" />
+  <HelpKINode Title="SimpleStatusResponse_Result class" Url="html/AllMembers.T-SecretNET.SNIP20.SimpleStatusResponse_Result.htm" />
+  <HelpKINode Title="SimpleStatusResponse_Result class" Url="html/T-SecretNET.SNIP20.SimpleStatusResponse_Result.htm" />
+  <HelpKINode Title="SimpleStatusResponse_Result class">
+    <HelpKINode Title="about SimpleStatusResponse_Result class" Url="html/T-SecretNET.SNIP20.SimpleStatusResponse_Result.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.SimpleStatusResponse_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.SimpleStatusResponse_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SimpleStatusResponse_Result.Status property" Url="html/P-SecretNET.SNIP20.SimpleStatusResponse_Result.Status.htm" />
+  <HelpKINode Title="Simulate property" Url="html/P-SecretNET.SNIP20.Snip20Tx.Simulate.htm" />
+  <HelpKINode Title="Snip20Client class" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20Client.htm" />
+  <HelpKINode Title="Snip20Client class" Url="html/T-SecretNET.SNIP20.Snip20Client.htm" />
+  <HelpKINode Title="Snip20Client class">
+    <HelpKINode Title="about Snip20Client class" Url="html/T-SecretNET.SNIP20.Snip20Client.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20Client.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.Snip20Client.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.Snip20Client.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Snip20Client.Query property" Url="html/P-SecretNET.SNIP20.Snip20Client.Query.htm" />
+  <HelpKINode Title="Snip20Client.Snip20Client constructor" Url="html/M-SecretNET.SNIP20.Snip20Client.-ctor.htm" />
+  <HelpKINode Title="Snip20Client.Tx property" Url="html/P-SecretNET.SNIP20.Snip20Client.Tx.htm" />
+  <HelpKINode Title="Snip20Querier class" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20Querier.htm" />
+  <HelpKINode Title="Snip20Querier class" Url="html/T-SecretNET.SNIP20.Snip20Querier.htm" />
+  <HelpKINode Title="Snip20Querier class">
+    <HelpKINode Title="about Snip20Querier class" Url="html/T-SecretNET.SNIP20.Snip20Querier.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20Querier.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.Snip20Querier.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-SecretNET.SNIP20.Snip20Querier.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Snip20Querier.GetAllowance method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetAllowance.htm" />
+  <HelpKINode Title="Snip20Querier.GetBalance method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetBalance.htm" />
+  <HelpKINode Title="Snip20Querier.GetExchangeRate method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetExchangeRate.htm" />
+  <HelpKINode Title="Snip20Querier.GetMinters method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetMinters.htm" />
+  <HelpKINode Title="Snip20Querier.GetTokenInfo method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetTokenInfo.htm" />
+  <HelpKINode Title="Snip20Querier.GetTransferHistory method" Url="html/M-SecretNET.SNIP20.Snip20Querier.GetTransferHistory.htm" />
+  <HelpKINode Title="Snip20Querier.Snip20Querier constructor" Url="html/M-SecretNET.SNIP20.Snip20Querier.-ctor.htm" />
+  <HelpKINode Title="Snip20Tx class" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20Tx.htm" />
+  <HelpKINode Title="Snip20Tx class" Url="html/T-SecretNET.SNIP20.Snip20Tx.htm" />
+  <HelpKINode Title="Snip20Tx class">
+    <HelpKINode Title="about Snip20Tx class" Url="html/T-SecretNET.SNIP20.Snip20Tx.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20Tx.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.Snip20Tx.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-SecretNET.SNIP20.Snip20Tx.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.Snip20Tx.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Snip20Tx.Burn method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Burn.htm" />
+  <HelpKINode Title="Snip20Tx.BurnFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.BurnFrom.htm" />
+  <HelpKINode Title="Snip20Tx.CreateViewingKey method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.CreateViewingKey.htm" />
+  <HelpKINode Title="Snip20Tx.DecreaseAllowance method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.DecreaseAllowance.htm" />
+  <HelpKINode Title="Snip20Tx.Deposit method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Deposit.htm" />
+  <HelpKINode Title="Snip20Tx.IncreaseAllowance method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.IncreaseAllowance.htm" />
+  <HelpKINode Title="Snip20Tx.Instantiate method" Url="html/M-SecretNET.SNIP20.Snip20Tx.Instantiate.htm" />
+  <HelpKINode Title="Snip20Tx.Mint method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Mint.htm" />
+  <HelpKINode Title="Snip20Tx.Redeem method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Redeem.htm" />
+  <HelpKINode Title="Snip20Tx.RegisterReceive method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.RegisterReceive.htm" />
+  <HelpKINode Title="Snip20Tx.Send method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Send.htm" />
+  <HelpKINode Title="Snip20Tx.SendFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.SendFrom.htm" />
+  <HelpKINode Title="Snip20Tx.SetMinters method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.SetMinters.htm" />
+  <HelpKINode Title="Snip20Tx.SetViewingKey method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.SetViewingKey.htm" />
+  <HelpKINode Title="Snip20Tx.Simulate property" Url="html/P-SecretNET.SNIP20.Snip20Tx.Simulate.htm" />
+  <HelpKINode Title="Snip20Tx.Snip20Tx constructor" Url="html/M-SecretNET.SNIP20.Snip20Tx.-ctor.htm" />
+  <HelpKINode Title="Snip20Tx.Transfer method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Transfer.htm" />
+  <HelpKINode Title="Snip20Tx.TransferFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.TransferFrom.htm" />
+  <HelpKINode Title="Snip20TxSimulate class" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20TxSimulate.htm" />
+  <HelpKINode Title="Snip20TxSimulate class" Url="html/T-SecretNET.SNIP20.Snip20TxSimulate.htm" />
+  <HelpKINode Title="Snip20TxSimulate class">
+    <HelpKINode Title="about Snip20TxSimulate class" Url="html/T-SecretNET.SNIP20.Snip20TxSimulate.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.Snip20TxSimulate.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.Snip20TxSimulate.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-SecretNET.SNIP20.Snip20TxSimulate.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Snip20TxSimulate.Burn method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Burn.htm" />
+  <HelpKINode Title="Snip20TxSimulate.BurnFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.BurnFrom.htm" />
+  <HelpKINode Title="Snip20TxSimulate.CreateViewingKey method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.CreateViewingKey.htm" />
+  <HelpKINode Title="Snip20TxSimulate.DecreaseAllowance method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.DecreaseAllowance.htm" />
+  <HelpKINode Title="Snip20TxSimulate.Deposit method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Deposit.htm" />
+  <HelpKINode Title="Snip20TxSimulate.GenericSimulate method" Url="html/M-SecretNET.SNIP20.Snip20TxSimulate.GenericSimulate.htm" />
+  <HelpKINode Title="Snip20TxSimulate.IncreaseAllowance method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.IncreaseAllowance.htm" />
+  <HelpKINode Title="Snip20TxSimulate.Mint method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Mint.htm" />
+  <HelpKINode Title="Snip20TxSimulate.Redeem method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Redeem.htm" />
+  <HelpKINode Title="Snip20TxSimulate.RegisterReceive method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.RegisterReceive.htm" />
+  <HelpKINode Title="Snip20TxSimulate.Send method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Send.htm" />
+  <HelpKINode Title="Snip20TxSimulate.SendFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.SendFrom.htm" />
+  <HelpKINode Title="Snip20TxSimulate.SetMinters method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.SetMinters.htm" />
+  <HelpKINode Title="Snip20TxSimulate.SetViewingKey method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.SetViewingKey.htm" />
+  <HelpKINode Title="Snip20TxSimulate.Snip20TxSimulate constructor" Url="html/M-SecretNET.SNIP20.Snip20TxSimulate.-ctor.htm" />
+  <HelpKINode Title="Snip20TxSimulate.Transfer method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Transfer.htm" />
+  <HelpKINode Title="Snip20TxSimulate.TransferFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.TransferFrom.htm" />
+  <HelpKINode Title="Spender property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceRequest_Payload.Spender.htm" />
+  <HelpKINode Title="Spender property" Url="html/P-SecretNET.SNIP20.DecreaseAllowanceResponse_Result.Spender.htm" />
+  <HelpKINode Title="Spender property" Url="html/P-SecretNET.SNIP20.GetAllowanceRequest_Payload.Spender.htm" />
+  <HelpKINode Title="Spender property" Url="html/P-SecretNET.SNIP20.GetAllowanceResponse_Result.Spender.htm" />
+  <HelpKINode Title="Spender property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceRequest_Payload.Spender.htm" />
+  <HelpKINode Title="Spender property" Url="html/P-SecretNET.SNIP20.IncreaseAllowanceResponse_Result.Spender.htm" />
+  <HelpKINode Title="Status property" Url="html/P-SecretNET.SNIP20.SimpleStatusResponse_Result.Status.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-SecretNET.SNIP20.GetTokenInfoResponse_Result.Symbol.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-SecretNET.SNIP20.InstantiateSnip20.Symbol.htm" />
+  <HelpKINode Title="Total property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryResponse_Result.Total.htm" />
+  <HelpKINode Title="TotalSupply property" Url="html/P-SecretNET.SNIP20.GetTokenInfoResponse_Result.TotalSupply.htm" />
+  <HelpKINode Title="Transfer method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.Transfer.htm" />
+  <HelpKINode Title="Transfer method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.Transfer.htm" />
+  <HelpKINode Title="Transfer property" Url="html/P-SecretNET.SNIP20.TransferType.Transfer.htm" />
+  <HelpKINode Title="TransferFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20Tx.TransferFrom.htm" />
+  <HelpKINode Title="TransferFrom method" Url="html/Overload-SecretNET.SNIP20.Snip20TxSimulate.TransferFrom.htm" />
+  <HelpKINode Title="TransferFromRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferFromRequest.htm" />
+  <HelpKINode Title="TransferFromRequest class" Url="html/T-SecretNET.SNIP20.TransferFromRequest.htm" />
+  <HelpKINode Title="TransferFromRequest class">
+    <HelpKINode Title="about TransferFromRequest class" Url="html/T-SecretNET.SNIP20.TransferFromRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.TransferFromRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.TransferFromRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.TransferFromRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransferFromRequest.Payload property" Url="html/P-SecretNET.SNIP20.TransferFromRequest.Payload.htm" />
+  <HelpKINode Title="TransferFromRequest.TransferFromRequest constructor" Url="html/M-SecretNET.SNIP20.TransferFromRequest.-ctor.htm" />
+  <HelpKINode Title="TransferFromRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferFromRequest_Payload.htm" />
+  <HelpKINode Title="TransferFromRequest_Payload class" Url="html/T-SecretNET.SNIP20.TransferFromRequest_Payload.htm" />
+  <HelpKINode Title="TransferFromRequest_Payload class">
+    <HelpKINode Title="about TransferFromRequest_Payload class" Url="html/T-SecretNET.SNIP20.TransferFromRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.TransferFromRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.TransferFromRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransferFromRequest_Payload.Amount property" Url="html/P-SecretNET.SNIP20.TransferFromRequest_Payload.Amount.htm" />
+  <HelpKINode Title="TransferFromRequest_Payload.Owner property" Url="html/P-SecretNET.SNIP20.TransferFromRequest_Payload.Owner.htm" />
+  <HelpKINode Title="TransferFromRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.TransferFromRequest_Payload.Padding.htm" />
+  <HelpKINode Title="TransferFromRequest_Payload.Recipient property" Url="html/P-SecretNET.SNIP20.TransferFromRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="TransferFromResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferFromResponse.htm" />
+  <HelpKINode Title="TransferFromResponse class" Url="html/T-SecretNET.SNIP20.TransferFromResponse.htm" />
+  <HelpKINode Title="TransferFromResponse class">
+    <HelpKINode Title="about TransferFromResponse class" Url="html/T-SecretNET.SNIP20.TransferFromResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.TransferFromResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.TransferFromResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransferFromResponse.Result property" Url="html/P-SecretNET.SNIP20.TransferFromResponse.Result.htm" />
+  <HelpKINode Title="TransferRequest class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferRequest.htm" />
+  <HelpKINode Title="TransferRequest class" Url="html/T-SecretNET.SNIP20.TransferRequest.htm" />
+  <HelpKINode Title="TransferRequest class">
+    <HelpKINode Title="about TransferRequest class" Url="html/T-SecretNET.SNIP20.TransferRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.TransferRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.SNIP20.TransferRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.TransferRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransferRequest.Payload property" Url="html/P-SecretNET.SNIP20.TransferRequest.Payload.htm" />
+  <HelpKINode Title="TransferRequest.TransferRequest constructor" Url="html/M-SecretNET.SNIP20.TransferRequest.-ctor.htm" />
+  <HelpKINode Title="TransferRequest_Payload class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferRequest_Payload.htm" />
+  <HelpKINode Title="TransferRequest_Payload class" Url="html/T-SecretNET.SNIP20.TransferRequest_Payload.htm" />
+  <HelpKINode Title="TransferRequest_Payload class">
+    <HelpKINode Title="about TransferRequest_Payload class" Url="html/T-SecretNET.SNIP20.TransferRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.TransferRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.TransferRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransferRequest_Payload.Amount property" Url="html/P-SecretNET.SNIP20.TransferRequest_Payload.Amount.htm" />
+  <HelpKINode Title="TransferRequest_Payload.Padding property" Url="html/P-SecretNET.SNIP20.TransferRequest_Payload.Padding.htm" />
+  <HelpKINode Title="TransferRequest_Payload.Recipient property" Url="html/P-SecretNET.SNIP20.TransferRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="TransferResponse class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferResponse.htm" />
+  <HelpKINode Title="TransferResponse class" Url="html/T-SecretNET.SNIP20.TransferResponse.htm" />
+  <HelpKINode Title="TransferResponse class">
+    <HelpKINode Title="about TransferResponse class" Url="html/T-SecretNET.SNIP20.TransferResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.TransferResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.TransferResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransferResponse.Result property" Url="html/P-SecretNET.SNIP20.TransferResponse.Result.htm" />
+  <HelpKINode Title="TransferType class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferType.htm" />
+  <HelpKINode Title="TransferType class" Url="html/T-SecretNET.SNIP20.TransferType.htm" />
+  <HelpKINode Title="TransferType class">
+    <HelpKINode Title="about TransferType class" Url="html/T-SecretNET.SNIP20.TransferType.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.TransferType.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.SNIP20.TransferType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransferType.Transfer property" Url="html/P-SecretNET.SNIP20.TransferType.Transfer.htm" />
+  <HelpKINode Title="TransferType_Transfer class" Url="html/AllMembers.T-SecretNET.SNIP20.TransferType_Transfer.htm" />
+  <HelpKINode Title="TransferType_Transfer class" Url="html/T-SecretNET.SNIP20.TransferType_Transfer.htm" />
+  <HelpKINode Title="TransferType_Transfer class">
+    <HelpKINode Title="about TransferType_Transfer class" Url="html/T-SecretNET.SNIP20.TransferType_Transfer.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.TransferType_Transfer.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-SecretNET.SNIP20.TransferType_Transfer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransferType_Transfer.From field" Url="html/F-SecretNET.SNIP20.TransferType_Transfer.From.htm" />
+  <HelpKINode Title="TransferType_Transfer.Recipient field" Url="html/F-SecretNET.SNIP20.TransferType_Transfer.Recipient.htm" />
+  <HelpKINode Title="TransferType_Transfer.Sender field" Url="html/F-SecretNET.SNIP20.TransferType_Transfer.Sender.htm" />
+  <HelpKINode Title="Tx class" Url="html/AllMembers.T-SecretNET.SNIP20.Tx.htm" />
+  <HelpKINode Title="Tx class" Url="html/T-SecretNET.SNIP20.Tx.htm" />
+  <HelpKINode Title="Tx class">
+    <HelpKINode Title="about Tx class" Url="html/T-SecretNET.SNIP20.Tx.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.SNIP20.Tx.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-SecretNET.SNIP20.Tx.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Tx property" Url="html/P-SecretNET.SNIP20.Snip20Client.Tx.htm" />
+  <HelpKINode Title="Tx.BlockHeight field" Url="html/F-SecretNET.SNIP20.Tx.BlockHeight.htm" />
+  <HelpKINode Title="Tx.BlockTime field" Url="html/F-SecretNET.SNIP20.Tx.BlockTime.htm" />
+  <HelpKINode Title="Tx.Coins field" Url="html/F-SecretNET.SNIP20.Tx.Coins.htm" />
+  <HelpKINode Title="Tx.From field" Url="html/F-SecretNET.SNIP20.Tx.From.htm" />
+  <HelpKINode Title="Tx.Id field" Url="html/F-SecretNET.SNIP20.Tx.Id.htm" />
+  <HelpKINode Title="Tx.Memo field" Url="html/F-SecretNET.SNIP20.Tx.Memo.htm" />
+  <HelpKINode Title="Tx.Receiver field" Url="html/F-SecretNET.SNIP20.Tx.Receiver.htm" />
+  <HelpKINode Title="Tx.Sender field" Url="html/F-SecretNET.SNIP20.Tx.Sender.htm" />
+  <HelpKINode Title="Txs property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryResponse_Result.Txs.htm" />
+  <HelpKINode Title="ViewingKey property" Url="html/P-SecretNET.SNIP20.GetAllowanceRequest_Payload.ViewingKey.htm" />
+  <HelpKINode Title="ViewingKey property" Url="html/P-SecretNET.SNIP20.GetBalanceRequest_Payload.ViewingKey.htm" />
+  <HelpKINode Title="ViewingKey property" Url="html/P-SecretNET.SNIP20.GetTransferHistoryRequest_Payload.ViewingKey.htm" />
+</HelpKI>
