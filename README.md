@@ -7,6 +7,7 @@
 This makes it easy to create your own customized clients for your own customized contracts.
 Of course, the concept can be used for any kind of smart contracts in general.
 
+## Full API-documentation
 You can find the **full API-documentation** here => https://0xxcodemonkey.github.io/SecretNET.SNIP20
 
 # Table of Contents
