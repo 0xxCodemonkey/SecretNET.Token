@@ -8,6 +8,9 @@ See also the [SNIP20 documentation on Secret Network](https://docs.scrt.network/
 This makes it easy to create your own customized clients for your own customized contracts.
 Of course, the concept can be used for any kind of smart contracts in general.
 
+## Full API-documentation
+You can find the **full API-documentation** here => https://0xxcodemonkey.github.io/SecretNET.SNIP20
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Implementation](#implementation)
@@ -16,6 +19,8 @@ Of course, the concept can be used for any kind of smart contracts in general.
 - [Implemented methods](#implemented-methods)
   - [Queries](#queries)
   - [Transactions](#transactions)
+
+
 
 # Implementation
 The structure of SecretNET.SNIP20 is the same as the SecretNET client and transactions are accessible via ```Tx``` property and queries via ```Query``` property.
