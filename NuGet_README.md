@@ -12,6 +12,5 @@ Of course, the concept can be used for any kind of smart contracts in general.
 ## Links
 
 - [GitHub](https://github.com/0xxCodemonkey/SecretNET.SNIP20)
-- 
 - [Secret Network - Secret Network is the first blockchain with customizable privacy.](https://scrt.network/)
 - [Secret Network - Documentation](https://docs.scrt.network/secret-network-documentation/)
