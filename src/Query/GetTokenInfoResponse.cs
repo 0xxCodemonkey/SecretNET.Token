@@ -28,7 +28,7 @@ public class GetTokenInfoResponse_Result
     /// The symbol of the token.
     /// </summary>
     /// <value>The symbol.</value>
-    [JsonProperty("spender")]
+    [JsonProperty("symbol")]
     public string Symbol { get; set; }
 
     /// <summary>
