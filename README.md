@@ -1,15 +1,18 @@
-# SecretNET.Token (SNIP20) / Secret Token
-**SecretNET.Token** is a layer on top of the [**SecretNET client**](https://github.com/0xxCodemonkey/SecretNET) which supports all methods of the reference implementation of the SNIP20 contract:
+# Secret.NET Token (SNIP20) / Secret Token
+**Secret.NET Token** is a layer on top of the [**Secret.NET client**](https://github.com/0xxCodemonkey/SecretNET) which supports all methods of the reference implementation of the SNIP20 contract:
 - Implementation => [GitHub - scrtlabs/snip20-reference-impl](https://github.com/scrtlabs/snip20-reference-impl)
 - Implementation of a [SNIP-20](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-20.md), [SNIP-21](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-21.md), [SNIP-22](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-22.md), [SNIP-23](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-23.md) and [SNIP-24](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-24.md) compliant token contract.
 - See also the [SNIP20 documentation on Secret Network](https://docs.scrt.network/secret-network-documentation/development/snips/snip-20-spec-private-fungible-tokens).
+
+The [Secret Network blockchain](https://scrt.network/) (L1 / Cosmos), is the first privacy smart contract blockchain that processes and stores data on-chain in encrypted form (via Intel SGX). 
+This allows [unique use cases](https://docs.scrt.network/secret-network-documentation/secret-network-overview/use-cases) like Secret Token where you e.g., can hide balances and ownership of the token (optional).
 
 :white_check_mark: **This repository is explicitly intended to serve as a template for custom SNIP20 token contracts.** 
 This makes it easy to create your own customized clients for your own customized contracts.
 Of course, the concept can be used for any kind of smart contracts in general.
 
 ## Full API-documentation
-You can find the **full API-documentation** here => https://0xxcodemonkey.github.io/SecretNET.SNIP20
+You can find the **full API-documentation** here => https://0xxcodemonkey.github.io/SecretNET.Token
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -23,7 +26,7 @@ You can find the **full API-documentation** here => https://0xxcodemonkey.github
 
 
 # Implementation
-The structure of SecretNET.SNIP20 is the same as the SecretNET client and transactions are accessible via ```Tx``` property and queries via ```Query``` property.
+The structure of SecretNET.Token is the same as the SecretNET client and transactions are accessible via ```Tx``` property and queries via ```Query``` property.
 
 All transactions can also be simulated via ```Tx.Simulate```.
 
@@ -32,17 +35,17 @@ All transactions can also be simulated via ```Tx.Simulate```.
 ![](resources/VS_IntelliSense.png)
 
 ## Instantiating a SNIP20 Client
-To instantiate a SecretNET.SNIP20 client you just have to pass it a SecretNET client instance:
+To instantiate a SecretNET.Token client you just have to pass it a SecretNET client instance:
 
 ```  csharp
-var snip20Client =  new SecretNET.SNIP20.Snip20Client(secretNetworkClient);
+var snip20Client =  new SecretNET.Token.Snip20Client(secretNetworkClient);
 ```
 ## Usage
 All Methods can be easily called with the payload message like this:
 
 ```  csharp
-var payloadSendMsg = new SecretNET.SNIP20.SendRequest(recipientAddress, "1");
-var sendMsg = new SecretNET.SNIP20.MsgSend(
+var payloadSendMsg = new SecretNET.Token.SendRequest(recipientAddress, "1");
+var sendMsg = new SecretNET.Token.MsgSend(
               payloadSendMsg, 
               snip20ContractAddress, 
               snip20CodeHash);

@@ -1,4 +1,4 @@
-﻿namespace SecretNET.SNIP20;
+﻿namespace SecretNET.Token;
 
 /// <summary>
 /// Client for SNIP20 reference contract (https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-20.md / https://github.com/scrtlabs/snip20-reference-impl at 2022-07-11).

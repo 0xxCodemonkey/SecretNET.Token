@@ -2,7 +2,7 @@
 using SecretNET.Tx;
 using SecretNET.AccessControl;
 
-namespace SecretNET.SNIP20;
+namespace SecretNET.Token;
 
 #pragma warning disable CS1584 // XML comment has syntactically incorrect cref attribute
 #pragma warning disable CS1658 // Type parameter declaration must be an identifier not a type. See also error CS0081

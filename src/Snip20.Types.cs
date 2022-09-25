@@ -1,4 +1,4 @@
-﻿namespace SecretNET.SNIP20;
+﻿namespace SecretNET.Token;
 
 /// <summary>
 /// Class SimpleStatusResponse_Result (JSON DTO).

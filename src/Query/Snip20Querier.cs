@@ -2,7 +2,7 @@
 using SecretNET.AccessControl;
 using SecretNET.Query;
 
-namespace SecretNET.SNIP20;
+namespace SecretNET.Token;
 
 /// <summary>
 /// Class Snip20Querier.
