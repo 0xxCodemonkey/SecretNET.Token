@@ -1,5 +1,5 @@
-# SecretNET.SNIP20 / Token
-**SecretNET.SNIP20** is a layer on top of the [**SecretNET client**](https://github.com/0xxCodemonkey/SecretNET) which supports all methods of the reference implementation of the SNIP20 contract:
+# SecretNET.Token (SNIP20) / Secret Token
+**SecretNET.Token** is a layer on top of the [**SecretNET client**](https://github.com/0xxCodemonkey/SecretNET) which supports all methods of the reference implementation of the SNIP20 contract:
 - Implementation => [GitHub - scrtlabs/snip20-reference-impl](https://github.com/scrtlabs/snip20-reference-impl)
 - Implementation of a [SNIP-20](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-20.md), [SNIP-21](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-21.md), [SNIP-22](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-22.md), [SNIP-23](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-23.md) and [SNIP-24](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-24.md) compliant token contract.
 - See also the [SNIP20 documentation on Secret Network](https://docs.scrt.network/secret-network-documentation/development/snips/snip-20-spec-private-fungible-tokens).
