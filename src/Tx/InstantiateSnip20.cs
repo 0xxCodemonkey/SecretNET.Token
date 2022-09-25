@@ -1,5 +1,5 @@
 ﻿#nullable enable
-namespace SecretNET.SNIP20;
+namespace SecretNET.Token;
 
 /// <summary>
 /// Class InstantiateSnip20 see => https://github.com/scrtlabs/snip20-reference-impl (JSON DTO).

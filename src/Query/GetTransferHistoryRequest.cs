@@ -1,5 +1,5 @@
 ﻿#nullable enable
-namespace SecretNET.SNIP20;
+namespace SecretNET.Token;
 
 /// <summary>
 /// Class GetTransferHistoryRequest (JSON DTO).
