@@ -92,7 +92,7 @@ var sendResult = await snip20Client.Tx.Send(
   - [TransferFrom](#transferfrom)
  
 ## Queries
-### GetAllowance
+### [GetAllowance](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Querier.GetAllowance.htm)
 Gets the allowance (This query MUST be authenticated). This returns the available allowance that spender can access from the owner's account, along with the expiration info. Every account's viewing key MUST be given permissions to query the allowance of any pair of owner and spender, as long as that account is either the owner or the spender in the query. In other words, every account's viewing key can be used to find out how much allowance the account has given other accounts, and how much it has been given by other accounts. The expiration field of the response may be either null or unset if no expiration has been set.
 ``` csharp
 GetAllowance(
@@ -104,7 +104,7 @@ GetAllowance(
 	Nullable<string> codeHash
 );
 ```
-### GetBalance
+### [GetBalance](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Querier.GetBalance.htm)
 Gets the balance (This query MUST be authenticated). Returns the balance of the given address. Returns "0" if the address is unknown to the contract.
 ``` csharp
 GetBalance(
@@ -115,7 +115,7 @@ GetBalance(
 	Nullable<string> codeHash
 );
 ```
-### GetExchangeRate
+### [GetExchangeRate](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Querier.GetExchangeRate.htm)
 Gets information about the token exchange rate functionality that the contract provides (This query need not be authenticated). This query MUST return. - exchange rate, as an integer string. The amount of native coins that equal one token. - Denomination of native tokens which are acceptable, as a string OR a comma separated value.
 ``` csharp
 GetExchangeRate(
@@ -123,7 +123,7 @@ GetExchangeRate(
 	Nullable<string> codeHash
 );
 ```
-### GetMinters
+### [GetMinters](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Querier.GetMinters.htm)
 Returns the list of minters that have been configured in the contract (This query need not be authenticated).
 ``` csharp
 GetMinters(
@@ -131,7 +131,7 @@ GetMinters(
 	Nullable<string> codeHash
 );
 ```
-### GetTokenInfo
+### [GetTokenInfo](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Querier.GetTokenInfo.htm)
 Gets the token information (This query need not be authenticated). Returns the token info of the contract. The response MUST contain: token name, token symbol, and the number of decimals the token uses. The response MAY additionally contain the total-supply of tokens. This is to enable Layer-2 tokens which want to hide the amounts converted as well.
 ``` csharp
 GetTokenInfo(
@@ -139,7 +139,7 @@ GetTokenInfo(
 	Nullable<string> codeHash
 );
 ```
-### GetTransferHistory
+### [GetTransferHistory](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Querier.GetTransferHistory.htm)
 Gets the transfer history (This query MUST be authenticated). This query SHOULD return a list of json objects describing the transactions made by the querying address, in newest-first order. The user may optionally specify a limit on the amount of information returned by paging the available items.
 ``` csharp
 GetTransferHistory(
@@ -154,7 +154,7 @@ GetTransferHistory(
 ```
 
 ## Transactions
-### Burn
+### [Burn](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.Burn_1.htm)
 MUST remove amount tokens from the balance of the Cosmos message sender and MUST reduce the total supply by the same amount. MUST NOT transfer the funds to another account.
 ``` csharp
 Burn(
@@ -170,7 +170,7 @@ Burn(
 	Nullable<TxOptions> txOptions
 );
 ```
-### BurnFrom
+### [BurnFrom](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.Burn_1.htm)
 This works like TransferFrom, but burns the tokens instead of transferring them. This will reduce the owner's balance, total_supply and the caller's allowance. This function should be available when a contract supports both the Mintable and Allowances interfaces.
 ``` csharp
 BurnFrom(
@@ -187,7 +187,7 @@ BurnFrom(
 	Nullable<TxOptions> txOptions
 );
 ```
-### SetViewingKey
+### [SetViewingKey](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.SetViewingKey_1.htm)
 Set a viewing key with a predefined value for Cosmos message sender, without creating it. This is useful to manage multiple SNIP-20 tokens using the same viewing key. If a viewing key is already set, the contract MUST replace the current key.If a viewing key is not set, the contract MUST set the provided key as the viewing key. It is NOT RECOMMENDED to use this function to create easy to remember passwords for users, but this is left up to implementors to enforce.
 ``` csharp
 SetViewingKey(
@@ -203,7 +203,7 @@ SetViewingKey(
 	Nullable<TxOptions> txOptions
 );
 ```
-### CreateViewingKey
+### [CreateViewingKey](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.CreateViewingKey_1.htm)
 This function generates a new viewing key for the Cosmos message sender, which is used in ALL account specific queries. This key is used to validate the identity of the caller, since in queries in Cosmos there is no way to cryptographically authenticate the querier's identity. 
 
 The entropy field of the request should be a client supplied string used for entropy for generation of the viewing key. Secure implementation is left to the client, but it is recommended to use base-64 encoded random bytes and not predictable inputs.
@@ -221,7 +221,7 @@ CreateViewingKey(
 	Nullable<TxOptions> txOptions
 );
 ```
-### DecreaseAllowance
+### [DecreaseAllowance](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.DecreaseAllowance_1.htm)
 ecrease or clear the allowance by a sent amount. This may optionally come with an expiration time, which if set limits when the approval can be used. If amount is equal or greater than the current allowance, this action MUST set the allowance to zero, and return a "success" response.
 ``` csharp
 DecreaseAllowance(
@@ -239,7 +239,7 @@ DecreaseAllowance(
 	Nullable<TxOptions> txOptions
 );
 ```
-### Deposit
+### [Deposit](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.Deposit_1.htm)
 Deposits a native coin into the contract, which will mint an equivalent amount of tokens to be created. The amount MUST be sent in the sent_funds field of the transaction itself, as coins must really be sent to the contract's native address. 
 
 The minted amounts MUST match the exchange rate specified by the ExchangeRate query. The deposit MUST return an error if any coins that do not match expected denominations are sent.
@@ -257,7 +257,7 @@ Deposit(
 	Nullable<TxOptions> txOptions
 );
 ```
-### IncreaseAllowance
+### [IncreaseAllowance](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.IncreaseAllowance_1.htm)
 Set or increase the allowance such that spender may access up to current_allowance + amount tokens from the Cosmos message sender account. This may optionally come with an expiration time, which if set limits when the approval can be used (by time).
 ``` csharp
 IncreaseAllowance(
@@ -275,7 +275,7 @@ IncreaseAllowance(
 	Nullable<TxOptions> txOptions
 );
 ```
-### Instantiate (token contract)
+### [Instantiate (token contract)](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.Instantiate.htm)
 nstantiates / configures the Token contract (https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-20.md at 2022-07-11).
 ``` csharp
 Instantiate(
@@ -283,7 +283,7 @@ Instantiate(
 	Nullable<TxOptions> txOptions
 );
 ```
-### Mint
+### [Mint](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.Mint_1.htm)
 This function MUST be allowed only for accounts on the minters list. If the Cosmos message sender is an allowed minter, this will create amount new tokens and add them to the balance of recipient.
 ``` csharp
 Mint(
@@ -300,7 +300,7 @@ Mint(
 	Nullable<TxOptions> txOptions
 );
 ```
-### Redeem
+### [Redeem](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.Redeem_1.htm)
 Redeems tokens in exchange for native coins. The redeemed tokens SHOULD be burned, and taken out of the pool.
 ``` csharp
 Redeem(
@@ -317,7 +317,7 @@ Redeem(
 	Nullable<TxOptions> txOptions
 );
 ```
-### RegisterReceive
+### [RegisterReceive](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.RegisterReceive_1.htm)
 This message is used to tell the SNIP-20 contract to call the Receive function of the Cosmos message sender after a successful Send. In Secret Network this is used to pair a code hash with the contract address that must be called. This means that the SNIP-20 MUST store the sent code_hash and use it when calling the Receive function.
 ``` csharp
 RegisterReceive(
@@ -333,7 +333,7 @@ RegisterReceive(
 	Nullable<TxOptions> txOptions
 );
 ```
-### Send
+### [Send](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.Send_1.htm)
 Moves amount from the Cosmos message sender account to the recipient account. The receiver account MAY be a contract that has registered itself using a RegisterReceive message. If such a registration has been performed, a message MUST be sent to the contract's address as a callback, after completing the transfer. The format of this message is described under Receiver interface. If the callback fails due to an error in the Receiver contract, the entire transaction will be reverted.
 ``` csharp
 Send(
@@ -351,7 +351,7 @@ Send(
 	Nullable<TxOptions> txOptions
 );
 ```
-### SendFrom
+### [SendFrom](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.SendFrom_1.htm)
 SendFrom is to Send, what TransferFrom is to Transfer. This allows a pre-approved account to not just transfer the tokens, but to send them to another address to trigger a given action. Note SendFrom will set the Receive{sender} to be the env.message.sender (the account that triggered the transfer) rather than the owner account (the account the money is coming from).
 ``` csharp
 SendFrom(
@@ -370,7 +370,7 @@ SendFrom(
 	Nullable<TxOptions> txOptions
 );
 ```
-### SetMinters
+### [SetMinters](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.SetMinters_1.htm)
 This function MUST only be allowed for authorized accounts. The list of addresses in the message will be set to the list of minters in the contract. This completely overrides the previously saved list.
 ``` csharp
 SetMinters(
@@ -386,7 +386,7 @@ SetMinters(
 	Nullable<TxOptions> txOptions
 );
 ```
-### Transfer
+### [Transfer](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.Transfer_1.htm)
 Moves tokens from the account that appears in the Cosmos message sender field to the account in the recipient field. Variation from CW-20: It is NOT required to validate that the recipient is an address and not a contract. This command will work when trying to send funds to contract accounts as well.
 ``` csharp
 Transfer(
@@ -403,7 +403,7 @@ Transfer(
 	Nullable<TxOptions> txOptions
 );
 ```
-### TransferFrom
+### [TransferFrom](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.TransferFrom_1.htm)
 Transfer an amount of tokens from a specified account, to another specified account. This action MUST fail if the Cosmos message sender does not have an allowance limit that is equal or greater than the amount of tokens sent for the owner account.
 ``` csharp
 TransferFrom(
