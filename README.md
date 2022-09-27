@@ -2,7 +2,7 @@
 **Secret.NET Token** is a layer on top of the [**Secret.NET client**](https://github.com/0xxCodemonkey/SecretNET) which supports all methods of the reference implementation of the SNIP20 contract.
 
 **The [Secret Network blockchain](https://scrt.network/) (L1 / Cosmos), is the first privacy smart contract blockchain that processes and stores data on-chain in encrypted form (via Intel SGX).** 
-This allows [unique use cases](https://docs.scrt.network/secret-network-documentation/secret-network-overview/use-cases) like Secret Token where you e.g., can hide balances and ownership of the token (optional).
+This allows [unique use cases](https://docs.scrt.network/secret-network-documentation/secret-network-overview/use-cases) like **Secret Token** where you e.g., can hide balances and ownership of the token (optional).
 
 **SecretNET.Token** provides typed and documented objects and methods that simplify interaction with a SNIP20 smart contract.  
 
@@ -18,7 +18,6 @@ This makes it easy to create your own customized clients for your own customized
 You can find the **full API-documentation** here => https://0xxcodemonkey.github.io/SecretNET.Token
 
 # Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Implementation](#implementation)
   - [Instantiating a SNIP20 Client](#instantiating-a-snip20-client)
   - [Usage](#usage)
