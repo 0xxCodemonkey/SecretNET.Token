@@ -4,6 +4,10 @@
 **The [Secret Network blockchain](https://scrt.network/) (L1 / Cosmos), is the first privacy smart contract blockchain that processes and stores data on-chain in encrypted form (via Intel SGX).** 
 This allows [unique use cases](https://docs.scrt.network/secret-network-documentation/secret-network-overview/use-cases) like **Secret Token** where you e.g., can hide balances and ownership of the token (optional).
 
+<p align="center">
+  <img src="./resources/Secret.NET_banner.png" type="image/png" width="100%" />
+</p>
+
 **SecretNET.Token** provides typed and documented objects and methods that simplify interaction with a SNIP20 smart contract.  
 
 - Implementation => [GitHub - scrtlabs/snip20-reference-impl](https://github.com/scrtlabs/snip20-reference-impl)
