@@ -18,7 +18,7 @@ public class GetAllowanceRequest
     /// <param name="owner">Account from which tokens are allowed to be taken.</param>
     /// <param name="spender">Account which is allowed to spend tokens on behalf of the owner.</param>
     /// <param name="viewingKey">The viewing key.</param>
-    public GetAllowanceRequest(string owner, string spender, string viewingKey)
+    public GetAllowanceRequest(string owner, string spender, string? viewingKey)
     {
         Payload = new GetAllowanceRequest_Payload
         {
@@ -53,6 +53,6 @@ public class GetAllowanceRequest_Payload
     /// </summary>
     /// <value>The key.</value>
     [JsonProperty("key", NullValueHandling = NullValueHandling.Ignore)]
-    public string ViewingKey { get; set; }
+    public string? ViewingKey { get; set; }
 }
 #nullable disable

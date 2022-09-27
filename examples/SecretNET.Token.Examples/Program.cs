@@ -190,8 +190,8 @@ if (snip20_code_id > 0)
 
 // *** TokenInfo SNIP20 Token ***
 
-//string? tokenAddress = "secret143pspy62qdu7042mjq4p9ahs20suz92wnw8z7e";
-//string tokenCodeHash = "338574ceb3062ffdefa28417e310d018bf045c9a5527a2e9901654a1e344e3c2";
+//string? tokenAddress = "Set manual if needed";
+//string tokenCodeHash = "Set manual if needed";
 
 writeHeadline("TokenInfo for " + snip20Address);
 
