@@ -57,7 +57,7 @@ var sendResult = await snip20Client.Tx.Send(sendMsg, txOptions: txOptionsExecute
 ```
 Many methods also have an overload to make them even easier to call, like this
 
-```  csharp
+``` csharp
 var sendResult = await snip20Client.Tx.Send(
               snip20ContractAddress, 
               recipientAddress, 
@@ -66,37 +66,107 @@ var sendResult = await snip20Client.Tx.Send(
               txOptions: txOptionsExecute);
 ```
 # Implemented methods
+- [Queries](#queries)
+  - [GetAllowance](#getallowance)
+  - [GetBalance](#getbalance)
+
 ## Queries
 ### GetAllowance
-`GetAllowance(
+``` csharp
+GetAllowance(
         string contractAddress, 
         string ownerAddress, 
         string spenderAddress, 
         Nullable<string> viewingKey,
         Nullable<Permit> permit,
         Nullable<string> codeHash
-        )`
+        );
+```
 Gets the allowance (This query MUST be authenticated). This returns the available allowance that spender can access from the owner's account, along with the expiration info. Every account's viewing key MUST be given permissions to query the allowance of any pair of owner and spender, as long as that account is either the owner or the spender in the query. In other words, every account's viewing key can be used to find out how much allowance the account has given other accounts, and how much it has been given by other accounts. The expiration field of the response may be either null or unset if no expiration has been set.
-- GetBalance
-- GetExchangeRate
-- GetMinters
-- GetTokenInfo
-- GetTransferHistory
+
+### GetBalance
+``` csharp
+
+```
+### GetExchangeRate
+``` csharp
+
+```
+### GetMinters
+``` csharp
+
+```
+### GetTokenInfo
+``` csharp
+
+```
+### GetTransferHistory
+``` csharp
+
+```
 
 ## Transactions
-- Burn
-- BurnFrom
-- CreateViewingKey
-- DecreaseAllowance
-- Deposit
-- IncreaseAllowance
-- Instantiate (token contract)
-- Mint
-- Redeem
-- RegisterReceive
-- Send
-- SendFrom
-- SetMinters
-- SetViewingKey
-- Transfer
-- TransferFrom
+### Burn
+``` csharp
+
+```
+### BurnFrom
+``` csharp
+
+```
+### CreateViewingKey
+``` csharp
+
+```
+### DecreaseAllowance
+``` csharp
+
+```
+### Deposit
+``` csharp
+
+```
+### IncreaseAllowance
+``` csharp
+
+```
+### Instantiate (token contract)
+``` csharp
+
+```
+### Mint
+``` csharp
+
+```
+### Redeem
+``` csharp
+
+```
+### RegisterReceive
+``` csharp
+
+```
+### Send
+``` csharp
+
+```
+### SendFrom
+``` csharp
+
+```
+### SetMinters
+``` csharp
+
+```
+### SetViewingKey
+``` csharp
+
+```
+### Transfer
+``` csharp
+
+```
+### TransferFrom
+``` csharp
+
+```
