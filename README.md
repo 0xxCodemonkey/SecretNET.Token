@@ -26,13 +26,13 @@ You can find the **full API-documentation** here => https://0xxcodemonkey.github
   - [Instantiating a SNIP20 Client](#instantiating-a-snip20-client)
   - [Usage](#usage)
 - [Implemented methods](#implemented-methods)
-  - [Queries](#queries)
-  - [Transactions](#transactions)
+  - [Queries](#queries-snip20clientquery)
+  - [Transactions](#transactions-snip20clienttx)
 
 
 
 # Implementation
-The structure of **SecretNET.Token** is the same as the **SecretNET** client and transactions are accessible via ```Tx``` property and queries via ```Query``` property.
+The structure of **SecretNET.Token** is the same as the **SecretNET** client and transactions are accessible via `Tx` property and queries via `Query` property.
 
 All transactions can also be simulated via ```Tx.Simulate```.
 
@@ -69,14 +69,14 @@ var sendResult = await snip20Client.Tx.Send(
               txOptions: txOptionsExecute);
 ```
 # Implemented methods
-- [Queries](#queries)
+- [Queries](#queries-snip20clientquery)
   - [GetAllowance](#getallowance)
   - [GetBalance](#getbalance)
   - [GetExchangeRate](#getexchangerate)
   - [GetMinters](#getminters)
   - [GetTokenInfo](#gettokeninfo)
   - [GetTransferHistory](#gettransferhistory)
-- [Transactions](#transactions)
+- [Transactions](#transactions-snip20clienttx)
   - [Burn](#burn)
   - [BurnFrom](#burnfrom)
   - [SetViewingKey](#setviewingkey)
@@ -94,7 +94,7 @@ var sendResult = await snip20Client.Tx.Send(
   - [Transfer](#transfer)
   - [TransferFrom](#transferfrom)
  
-## Queries
+## Queries (`Snip20Client.Query`)
 ### [GetAllowance](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Querier.GetAllowance.htm)
 Gets the allowance (This query MUST be authenticated). This returns the available allowance that spender can access from the owner's account, along with the expiration info. Every account's viewing key MUST be given permissions to query the allowance of any pair of owner and spender, as long as that account is either the owner or the spender in the query. In other words, every account's viewing key can be used to find out how much allowance the account has given other accounts, and how much it has been given by other accounts. The expiration field of the response may be either null or unset if no expiration has been set.
 ``` csharp
@@ -156,7 +156,7 @@ GetTransferHistory(
 );
 ```
 
-## Transactions
+## Transactions (`Snip20Client.Tx`)
 ### [Burn](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Tx.Burn_1.htm)
 MUST remove amount tokens from the balance of the Cosmos message sender and MUST reduce the total supply by the same amount. MUST NOT transfer the funds to another account.
 ``` csharp
