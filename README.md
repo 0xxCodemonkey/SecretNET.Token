@@ -69,104 +69,355 @@ var sendResult = await snip20Client.Tx.Send(
 - [Queries](#queries)
   - [GetAllowance](#getallowance)
   - [GetBalance](#getbalance)
-
+  - [GetExchangeRate](#getexchangerate)
+  - [GetMinters](#getminters)
+  - [GetTokenInfo](#gettokeninfo)
+  - [GetTransferHistory](#gettransferhistory)
+- [Transactions](#transactions)
+  - [Burn](#burn)
+  - [BurnFrom](#burnfrom)
+  - [SetViewingKey](#setviewingkey)
+  - [CreateViewingKey](#createviewingkey)
+  - [DecreaseAllowance](#decreaseallowance)
+  - [Deposit](#deposit)
+  - [IncreaseAllowance](#increaseallowance)
+  - [Instantiate (token contract)](#instantiate-token-contract)
+  - [Mint](#mint)
+  - [Redeem](#redeem)
+  - [RegisterReceive](#registerreceive)
+  - [Send](#send)
+  - [SendFrom](#sendfrom)
+  - [SetMinters](#setminters)  
+  - [Transfer](#transfer)
+  - [TransferFrom](#transferfrom)
+ 
 ## Queries
 ### GetAllowance
+Gets the allowance (This query MUST be authenticated). This returns the available allowance that spender can access from the owner's account, along with the expiration info. Every account's viewing key MUST be given permissions to query the allowance of any pair of owner and spender, as long as that account is either the owner or the spender in the query. In other words, every account's viewing key can be used to find out how much allowance the account has given other accounts, and how much it has been given by other accounts. The expiration field of the response may be either null or unset if no expiration has been set.
 ``` csharp
 GetAllowance(
-        string contractAddress, 
-        string ownerAddress, 
-        string spenderAddress, 
-        Nullable<string> viewingKey,
-        Nullable<Permit> permit,
-        Nullable<string> codeHash
-        );
+	string contractAddress,
+	string ownerAddress,
+	string spenderAddress,
+	Nullable<string> viewingKey,
+	Nullable<Permit> permit,
+	Nullable<string> codeHash
+);
 ```
-Gets the allowance (This query MUST be authenticated). This returns the available allowance that spender can access from the owner's account, along with the expiration info. Every account's viewing key MUST be given permissions to query the allowance of any pair of owner and spender, as long as that account is either the owner or the spender in the query. In other words, every account's viewing key can be used to find out how much allowance the account has given other accounts, and how much it has been given by other accounts. The expiration field of the response may be either null or unset if no expiration has been set.
-
 ### GetBalance
+Gets the balance (This query MUST be authenticated). Returns the balance of the given address. Returns "0" if the address is unknown to the contract.
 ``` csharp
-
+GetBalance(
+	string contractAddress,
+	Nullable<string> walletAddress,
+	Nullable<string> viewingKey,
+	Nullable<Permit> permit,
+	Nullable<string> codeHash
+);
 ```
 ### GetExchangeRate
+Gets information about the token exchange rate functionality that the contract provides (This query need not be authenticated). This query MUST return. - exchange rate, as an integer string. The amount of native coins that equal one token. - Denomination of native tokens which are acceptable, as a string OR a comma separated value.
 ``` csharp
-
+GetExchangeRate(
+	string contractAddress,
+	Nullable<string> codeHash
+);
 ```
 ### GetMinters
+Returns the list of minters that have been configured in the contract (This query need not be authenticated).
 ``` csharp
-
+GetMinters(
+	string contractAddress,
+	Nullable<string> codeHash
+);
 ```
 ### GetTokenInfo
+Gets the token information (This query need not be authenticated). Returns the token info of the contract. The response MUST contain: token name, token symbol, and the number of decimals the token uses. The response MAY additionally contain the total-supply of tokens. This is to enable Layer-2 tokens which want to hide the amounts converted as well.
 ``` csharp
-
+GetTokenInfo(
+	string contractAddress,
+	Nullable<string> codeHash
+);
 ```
 ### GetTransferHistory
+Gets the transfer history (This query MUST be authenticated). This query SHOULD return a list of json objects describing the transactions made by the querying address, in newest-first order. The user may optionally specify a limit on the amount of information returned by paging the available items.
 ``` csharp
-
+GetTransferHistory(
+	string contractAddress,
+	int pageSize,
+	Nullable<int> page,
+	Nullable<string> walletAddress,
+	Nullable<string> viewingKey,
+	Nullable<Permit> permit,
+	Nullable<string> codeHash
+);
 ```
 
 ## Transactions
 ### Burn
+MUST remove amount tokens from the balance of the Cosmos message sender and MUST reduce the total supply by the same amount. MUST NOT transfer the funds to another account.
 ``` csharp
+Burn(
+	MsgBurn msg,
+	Nullable<TxOptions> txOptions
+);
 
+Burn(
+	string contractAddress,
+	string amount,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
 ```
 ### BurnFrom
+This works like TransferFrom, but burns the tokens instead of transferring them. This will reduce the owner's balance, total_supply and the caller's allowance. This function should be available when a contract supports both the Mintable and Allowances interfaces.
 ``` csharp
+BurnFrom(
+	MsgBurnFrom msg,
+	Nullable<TxOptions> txOptions
+);
 
-```
-### CreateViewingKey
-``` csharp
-
-```
-### DecreaseAllowance
-``` csharp
-
-```
-### Deposit
-``` csharp
-
-```
-### IncreaseAllowance
-``` csharp
-
-```
-### Instantiate (token contract)
-``` csharp
-
-```
-### Mint
-``` csharp
-
-```
-### Redeem
-``` csharp
-
-```
-### RegisterReceive
-``` csharp
-
-```
-### Send
-``` csharp
-
-```
-### SendFrom
-``` csharp
-
-```
-### SetMinters
-``` csharp
-
+BurnFrom(
+	string contractAddress,
+	string owner,
+	string amount,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
 ```
 ### SetViewingKey
+Set a viewing key with a predefined value for Cosmos message sender, without creating it. This is useful to manage multiple SNIP-20 tokens using the same viewing key. If a viewing key is already set, the contract MUST replace the current key.If a viewing key is not set, the contract MUST set the provided key as the viewing key. It is NOT RECOMMENDED to use this function to create easy to remember passwords for users, but this is left up to implementors to enforce.
 ``` csharp
+SetViewingKey(
+	MsgSetViewingKey msg,
+	Nullable<TxOptions> txOptions
+);
 
+SetViewingKey(
+	string contractAddress,
+	string viewingKey,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
+```
+### CreateViewingKey
+This function generates a new viewing key for the Cosmos message sender, which is used in ALL account specific queries. This key is used to validate the identity of the caller, since in queries in Cosmos there is no way to cryptographically authenticate the querier's identity. 
+
+The entropy field of the request should be a client supplied string used for entropy for generation of the viewing key. Secure implementation is left to the client, but it is recommended to use base-64 encoded random bytes and not predictable inputs.
+``` csharp
+CreateViewingKey(
+	MsgCreateViewingKey msg,
+	Nullable<TxOptions> txOptions
+);
+
+CreateViewingKey(
+	string contractAddress,
+	string entropy,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
+```
+### DecreaseAllowance
+ecrease or clear the allowance by a sent amount. This may optionally come with an expiration time, which if set limits when the approval can be used. If amount is equal or greater than the current allowance, this action MUST set the allowance to zero, and return a "success" response.
+``` csharp
+DecreaseAllowance(
+	MsgDecreaseAllowance msg,
+	Nullable<TxOptions> txOptions
+);
+
+DecreaseAllowance(
+	string contractAddress,
+	string spender,
+	string amount,
+	Nullable<int> expiration,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
+```
+### Deposit
+Deposits a native coin into the contract, which will mint an equivalent amount of tokens to be created. The amount MUST be sent in the sent_funds field of the transaction itself, as coins must really be sent to the contract's native address. 
+
+The minted amounts MUST match the exchange rate specified by the ExchangeRate query. The deposit MUST return an error if any coins that do not match expected denominations are sent.
+``` csharp
+Deposit(
+	MsgDeposit msg,
+	Nullable<TxOptions> txOptions
+);
+
+Deposit(
+	string contractAddress,
+	Coin[] sentFunds,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
+```
+### IncreaseAllowance
+Set or increase the allowance such that spender may access up to current_allowance + amount tokens from the Cosmos message sender account. This may optionally come with an expiration time, which if set limits when the approval can be used (by time).
+``` csharp
+IncreaseAllowance(
+	MsgIncreaseAllowance msg,
+	Nullable<TxOptions> txOptions
+);
+
+IncreaseAllowance(
+	string contractAddress,
+	string spender,
+	string amount,
+	Nullable<int> expiration,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
+```
+### Instantiate (token contract)
+nstantiates / configures the Token contract (https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-20.md at 2022-07-11).
+``` csharp
+Instantiate(
+	MsgInstantiate msg,
+	Nullable<TxOptions> txOptions
+);
+```
+### Mint
+This function MUST be allowed only for accounts on the minters list. If the Cosmos message sender is an allowed minter, this will create amount new tokens and add them to the balance of recipient.
+``` csharp
+Mint(
+	MsgMint msg,
+	Nullable<TxOptions> txOptions
+);
+
+Mint(
+	string contractAddress,
+	string recipient,
+	string amount,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
+```
+### Redeem
+Redeems tokens in exchange for native coins. The redeemed tokens SHOULD be burned, and taken out of the pool.
+``` csharp
+Redeem(
+	MsgRedeem msg,
+	Nullable<TxOptions> txOptions
+);
+
+Redeem(
+	string contractAddress,
+	string amount,
+	Nullable<string> denom,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
+```
+### RegisterReceive
+This message is used to tell the SNIP-20 contract to call the Receive function of the Cosmos message sender after a successful Send. In Secret Network this is used to pair a code hash with the contract address that must be called. This means that the SNIP-20 MUST store the sent code_hash and use it when calling the Receive function.
+``` csharp
+RegisterReceive(
+	MsgRegisterReceive msg,
+	Nullable<TxOptions> txOptions
+);
+
+RegisterReceive(
+	string contractAddress,
+	string receiverCodeHash,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
+```
+### Send
+Moves amount from the Cosmos message sender account to the recipient account. The receiver account MAY be a contract that has registered itself using a RegisterReceive message. If such a registration has been performed, a message MUST be sent to the contract's address as a callback, after completing the transfer. The format of this message is described under Receiver interface. If the callback fails due to an error in the Receiver contract, the entire transaction will be reverted.
+``` csharp
+Send(
+	MsgSend msg,
+	Nullable<TxOptions> txOptions
+);
+
+Send(
+	string contractAddress,
+	string recipient,
+	string amount,
+	Nullable<string> message,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
+```
+### SendFrom
+SendFrom is to Send, what TransferFrom is to Transfer. This allows a pre-approved account to not just transfer the tokens, but to send them to another address to trigger a given action. Note SendFrom will set the Receive{sender} to be the env.message.sender (the account that triggered the transfer) rather than the owner account (the account the money is coming from).
+``` csharp
+SendFrom(
+	MsgSendFrom msg,
+	Nullable<TxOptions> txOptions
+);
+
+SendFrom(
+	string contractAddress,
+	string owner,
+	string recipient,
+	string amount,
+	Nullable<string> message,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
+```
+### SetMinters
+This function MUST only be allowed for authorized accounts. The list of addresses in the message will be set to the list of minters in the contract. This completely overrides the previously saved list.
+``` csharp
+SetMinters(
+	MsgSetMinters msg,
+	Nullable<TxOptions> txOptions
+);
+
+SetMinters(
+	string contractAddress,
+	string minterAddress,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
 ```
 ### Transfer
+Moves tokens from the account that appears in the Cosmos message sender field to the account in the recipient field. Variation from CW-20: It is NOT required to validate that the recipient is an address and not a contract. This command will work when trying to send funds to contract accounts as well.
 ``` csharp
+Transfer(
+	MsgTransfer msg,
+	Nullable<TxOptions> txOptions
+);
 
+Transfer(
+	string contractAddress,
+	string recipient,
+	string amount,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
 ```
 ### TransferFrom
+Transfer an amount of tokens from a specified account, to another specified account. This action MUST fail if the Cosmos message sender does not have an allowance limit that is equal or greater than the amount of tokens sent for the owner account.
 ``` csharp
+TransferFrom(
+	MsgTransferFrom msg,
+	Nullable<TxOptions> txOptions
+);
 
+TransferFrom(
+	string contractAddress,
+	string owner,
+	string recipient,
+	string amount,
+	Nullable<string> padding,
+	Nullable<string> codeHash,
+	Nullable<TxOptions> txOptions
+);
 ```
