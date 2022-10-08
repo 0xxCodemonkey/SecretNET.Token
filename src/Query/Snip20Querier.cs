@@ -107,6 +107,43 @@ public class Snip20Querier
     }
 
     /// <summary>
+    /// The original TransferHistory query paints an incomplete picture of users' interactions with the token.
+    /// It only records operations performed through Transfer, TransferFrom, Send, and SendFrom, while the other operations which move funds around - Mint, Burn, Deposit, Withdraw etc.
+    /// are not recorded and can not be easily tracked by users after the fact.
+    /// The following is the specification of the new TransactionHistory query, which aims to provide a complete description of the history of users' balances.
+    /// This query MUST be authenticated.
+    /// </summary>
+    /// <param name="contractAddress">The contract address.</param>
+    /// <param name="pageSize">Size of the page.</param>
+    /// <param name="viewingKey">The viewing key.</param>
+    /// <param name="permit">The permit.</param>
+    /// <param name="page">The page.</param>
+    /// <param name="walletAddress">The wallet address.</param>
+    /// <param name="codeHash">The code hash.</param>
+    /// <returns>SecretQueryContractResult&lt;GetTransactionHistoryResponse&gt;.</returns>
+    public async Task<SecretQueryContractResult<GetTransactionHistoryResponse>> GetTransactionHistory(string contractAddress, int pageSize, string viewingKey = null, Permit permit = null, int? page = null, string? walletAddress = null, string? codeHash = null)
+    {
+        var request = new GetTransactionHistoryRequest(walletAddress ?? _secretNetworkClient.WalletAddress, viewingKey, pageSize, page);
+
+        object queryMsg = null;
+        if (permit == null)
+        {
+            queryMsg = request;
+        }
+        else
+        {
+            request.Payload.Address = null;     // extracted from permit
+            request.Payload.ViewingKey = null;  // not necessary / possible when using permit
+
+            var withPermitRequest = new WithPermitRequest(permit, request);
+            queryMsg = withPermitRequest;
+        }
+
+        var result = await _computeQuery.QueryContract<GetTransactionHistoryResponse>(contractAddress, queryMsg, codeHash);
+        return result;
+    }
+
+    /// <summary>
     /// Gets the allowance (This query MUST be authenticated).
     /// This returns the available allowance that spender can access from the owner's account, along with the expiration info.
     /// 
