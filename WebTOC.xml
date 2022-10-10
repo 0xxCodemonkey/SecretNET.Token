@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="ec6afc9d-d399-451f-9cb6-1fa8f5bcbb4c" Title="SecretNET.Token Namespace" Url="html/N-SecretNET.Token.htm">
-    <HelpTOCNode Id="ccdc9ae0-7f0d-474a-aa2e-b87bea638bf9" Title="BurnFromRequest Class" Url="html/T-SecretNET.Token.BurnFromRequest.htm">
+  <HelpTOCNode Id="fa0e1564-5ef6-42b6-b79d-51ed89116c8b" Title="SecretNET.Token Namespace" Url="html/N-SecretNET.Token.htm">
+    <HelpTOCNode Id="5f3a0819-8446-41c9-ad0f-9e313a3041b1" Title="BurnFromRequest Class" Url="html/T-SecretNET.Token.BurnFromRequest.htm">
       <HelpTOCNode Title="BurnFromRequest Members" Url="html/AllMembers.T-SecretNET.Token.BurnFromRequest.htm" />
       <HelpTOCNode Title="BurnFromRequest Constructor " Url="html/M-SecretNET.Token.BurnFromRequest.-ctor.htm" />
-      <HelpTOCNode Id="20ec3b83-9fdb-4128-a224-8cd7e339dc29" Title="BurnFromRequest Properties" Url="html/Properties.T-SecretNET.Token.BurnFromRequest.htm">
+      <HelpTOCNode Id="36e83c72-a221-42a9-827a-4dcdc257093a" Title="BurnFromRequest Properties" Url="html/Properties.T-SecretNET.Token.BurnFromRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.BurnFromRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="185c2eb2-c122-43f3-ac6c-9e78d3223040" Title="BurnFromRequest_Payload Class" Url="html/T-SecretNET.Token.BurnFromRequest_Payload.htm">
+    <HelpTOCNode Id="7f7f1985-bb54-44b9-aabf-e13429efd6e4" Title="BurnFromRequest_Payload Class" Url="html/T-SecretNET.Token.BurnFromRequest_Payload.htm">
       <HelpTOCNode Title="BurnFromRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.BurnFromRequest_Payload.htm" />
       <HelpTOCNode Title="BurnFromRequest_Payload Constructor " Url="html/M-SecretNET.Token.BurnFromRequest_Payload.-ctor.htm" />
-      <HelpTOCNode Id="3db723ee-a500-4e25-87cf-e19e62090563" Title="BurnFromRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.BurnFromRequest_Payload.htm">
+      <HelpTOCNode Id="f871a903-7f5d-4f5e-af88-9c938800fd3b" Title="BurnFromRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.BurnFromRequest_Payload.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.BurnFromRequest_Payload.Amount.htm" />
         <HelpTOCNode Title="Owner Property " Url="html/P-SecretNET.Token.BurnFromRequest_Payload.Owner.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.BurnFromRequest_Payload.Padding.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="21ad62c4-093e-4b1b-bd0d-80251fb88269" Title="BurnFromResponse Class" Url="html/T-SecretNET.Token.BurnFromResponse.htm">
+    <HelpTOCNode Id="1b3caaaf-aa75-42e5-81e8-6b94a680856a" Title="BurnFromResponse Class" Url="html/T-SecretNET.Token.BurnFromResponse.htm">
       <HelpTOCNode Title="BurnFromResponse Members" Url="html/AllMembers.T-SecretNET.Token.BurnFromResponse.htm" />
-      <HelpTOCNode Id="377d9e8c-1f76-4166-b850-061a40f16f6c" Title="BurnFromResponse Properties" Url="html/Properties.T-SecretNET.Token.BurnFromResponse.htm">
+      <HelpTOCNode Id="8b63d93d-e054-4429-addf-4233997f39db" Title="BurnFromResponse Properties" Url="html/Properties.T-SecretNET.Token.BurnFromResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.BurnFromResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c404c0bb-596d-49f2-9461-d6266e4c8852" Title="BurnRequest Class" Url="html/T-SecretNET.Token.BurnRequest.htm">
+    <HelpTOCNode Id="d70dbd78-8ea7-416c-a454-bcfd404a65c6" Title="BurnRequest Class" Url="html/T-SecretNET.Token.BurnRequest.htm">
       <HelpTOCNode Title="BurnRequest Members" Url="html/AllMembers.T-SecretNET.Token.BurnRequest.htm" />
       <HelpTOCNode Title="BurnRequest Constructor " Url="html/M-SecretNET.Token.BurnRequest.-ctor.htm" />
-      <HelpTOCNode Id="d7c57ebc-ea9a-4cfe-9ffb-2375df5a8116" Title="BurnRequest Properties" Url="html/Properties.T-SecretNET.Token.BurnRequest.htm">
+      <HelpTOCNode Id="45cc7c80-b1e1-4b5b-87d6-88c0021e445c" Title="BurnRequest Properties" Url="html/Properties.T-SecretNET.Token.BurnRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.BurnRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4d296332-de42-4b5b-8c21-3c4191af440a" Title="BurnRequest_Payload Class" Url="html/T-SecretNET.Token.BurnRequest_Payload.htm">
+    <HelpTOCNode Id="caa6072f-fef7-4abd-b044-966332008e44" Title="BurnRequest_Payload Class" Url="html/T-SecretNET.Token.BurnRequest_Payload.htm">
       <HelpTOCNode Title="BurnRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.BurnRequest_Payload.htm" />
-      <HelpTOCNode Id="c89baa00-aa78-4f95-9f27-a9308e9f0c43" Title="BurnRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.BurnRequest_Payload.htm">
+      <HelpTOCNode Id="0f97694b-5889-4f4b-b15f-7e1e545f6862" Title="BurnRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.BurnRequest_Payload.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.BurnRequest_Payload.Amount.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.BurnRequest_Payload.Padding.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="aa6e128d-26b8-47d6-8058-5f704e5f76b2" Title="BurnResponse Class" Url="html/T-SecretNET.Token.BurnResponse.htm">
+    <HelpTOCNode Id="1a1b1967-9c58-4038-b326-f3e7efc3dfd1" Title="BurnResponse Class" Url="html/T-SecretNET.Token.BurnResponse.htm">
       <HelpTOCNode Title="BurnResponse Members" Url="html/AllMembers.T-SecretNET.Token.BurnResponse.htm" />
-      <HelpTOCNode Id="b7c0b4ec-68a2-4329-ba57-c4e6085db55f" Title="BurnResponse Properties" Url="html/Properties.T-SecretNET.Token.BurnResponse.htm">
+      <HelpTOCNode Id="189261b9-d6b9-4044-ba82-00b5d0854246" Title="BurnResponse Properties" Url="html/Properties.T-SecretNET.Token.BurnResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.BurnResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="90a0996c-9997-460b-9c5f-50f081f9e7a9" Title="BurnType Class" Url="html/T-SecretNET.Token.BurnType.htm">
+    <HelpTOCNode Id="0a9fb0d5-de9a-4122-a311-13b7b01e03d6" Title="BurnType Class" Url="html/T-SecretNET.Token.BurnType.htm">
       <HelpTOCNode Title="BurnType Members" Url="html/AllMembers.T-SecretNET.Token.BurnType.htm" />
-      <HelpTOCNode Id="641ae6de-9283-46a3-8988-d58e50fc9935" Title="BurnType Properties" Url="html/Properties.T-SecretNET.Token.BurnType.htm">
+      <HelpTOCNode Id="79f3a7fe-b0ab-415b-a723-95221217d339" Title="BurnType Properties" Url="html/Properties.T-SecretNET.Token.BurnType.htm">
         <HelpTOCNode Title="Burn Property " Url="html/P-SecretNET.Token.BurnType.Burn.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="3df023e6-69a1-4d12-8cd1-357b89c4b338" Title="BurnType_Burn Class" Url="html/T-SecretNET.Token.BurnType_Burn.htm">
+    <HelpTOCNode Id="882b2ca9-26ce-45b7-801d-1f10f2fa30db" Title="BurnType_Burn Class" Url="html/T-SecretNET.Token.BurnType_Burn.htm">
       <HelpTOCNode Title="BurnType_Burn Members" Url="html/AllMembers.T-SecretNET.Token.BurnType_Burn.htm" />
-      <HelpTOCNode Id="825d7459-8464-46dc-a9cd-8f9bf205d59a" Title="BurnType_Burn Fields" Url="html/Fields.T-SecretNET.Token.BurnType_Burn.htm">
+      <HelpTOCNode Id="d304ceb3-754d-439c-bac8-e6edef28865c" Title="BurnType_Burn Fields" Url="html/Fields.T-SecretNET.Token.BurnType_Burn.htm">
         <HelpTOCNode Title="Burner Field" Url="html/F-SecretNET.Token.BurnType_Burn.Burner.htm" />
         <HelpTOCNode Title="Owner Field" Url="html/F-SecretNET.Token.BurnType_Burn.Owner.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="dfb92bcc-8710-40ed-9398-897e9c2c3858" Title="ConfigSettings Class" Url="html/T-SecretNET.Token.ConfigSettings.htm">
+    <HelpTOCNode Id="39e3f124-14e2-4d8a-838a-39cfab3ca15f" Title="ConfigSettings Class" Url="html/T-SecretNET.Token.ConfigSettings.htm">
       <HelpTOCNode Title="ConfigSettings Members" Url="html/AllMembers.T-SecretNET.Token.ConfigSettings.htm" />
-      <HelpTOCNode Id="2be4d6f5-06f7-43e1-9e3d-2bb1aafd4413" Title="ConfigSettings Properties" Url="html/Properties.T-SecretNET.Token.ConfigSettings.htm">
+      <HelpTOCNode Id="658b6ffc-9fae-410d-99fc-26fe585b3672" Title="ConfigSettings Properties" Url="html/Properties.T-SecretNET.Token.ConfigSettings.htm">
         <HelpTOCNode Title="EnableBurn Property " Url="html/P-SecretNET.Token.ConfigSettings.EnableBurn.htm" />
         <HelpTOCNode Title="EnableDeposit Property " Url="html/P-SecretNET.Token.ConfigSettings.EnableDeposit.htm" />
         <HelpTOCNode Title="EnableMint Property " Url="html/P-SecretNET.Token.ConfigSettings.EnableMint.htm" />
@@ -67,251 +67,280 @@
         <HelpTOCNode Title="PublicTotalSupply Property " Url="html/P-SecretNET.Token.ConfigSettings.PublicTotalSupply.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2f1a7952-b7bb-4e90-96df-5226135e541d" Title="DecreaseAllowanceRequest Class" Url="html/T-SecretNET.Token.DecreaseAllowanceRequest.htm">
+    <HelpTOCNode Id="11bf9a3b-3f1f-4e25-9c6c-6cd2f7550155" Title="DecreaseAllowanceRequest Class" Url="html/T-SecretNET.Token.DecreaseAllowanceRequest.htm">
       <HelpTOCNode Title="DecreaseAllowanceRequest Members" Url="html/AllMembers.T-SecretNET.Token.DecreaseAllowanceRequest.htm" />
       <HelpTOCNode Title="DecreaseAllowanceRequest Constructor " Url="html/M-SecretNET.Token.DecreaseAllowanceRequest.-ctor.htm" />
-      <HelpTOCNode Id="5d6cb025-db8f-4035-b5a7-c09177afed8c" Title="DecreaseAllowanceRequest Properties" Url="html/Properties.T-SecretNET.Token.DecreaseAllowanceRequest.htm">
+      <HelpTOCNode Id="f603e41d-ba0a-419c-869c-9f0a3bc25263" Title="DecreaseAllowanceRequest Properties" Url="html/Properties.T-SecretNET.Token.DecreaseAllowanceRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.DecreaseAllowanceRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8834e566-67c3-48e1-b058-9dbabf01c75d" Title="DecreaseAllowanceRequest_Payload Class" Url="html/T-SecretNET.Token.DecreaseAllowanceRequest_Payload.htm">
+    <HelpTOCNode Id="c41682b9-f4fb-48e8-9337-9bfad07bc9c6" Title="DecreaseAllowanceRequest_Payload Class" Url="html/T-SecretNET.Token.DecreaseAllowanceRequest_Payload.htm">
       <HelpTOCNode Title="DecreaseAllowanceRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.DecreaseAllowanceRequest_Payload.htm" />
-      <HelpTOCNode Id="21f632d8-7668-4043-ae87-8aea5c4475f7" Title="DecreaseAllowanceRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.DecreaseAllowanceRequest_Payload.htm">
+      <HelpTOCNode Id="fbcbb013-1bff-432f-a235-537e8ebc193e" Title="DecreaseAllowanceRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.DecreaseAllowanceRequest_Payload.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.DecreaseAllowanceRequest_Payload.Amount.htm" />
         <HelpTOCNode Title="Expiration Property " Url="html/P-SecretNET.Token.DecreaseAllowanceRequest_Payload.Expiration.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.DecreaseAllowanceRequest_Payload.Padding.htm" />
         <HelpTOCNode Title="Spender Property " Url="html/P-SecretNET.Token.DecreaseAllowanceRequest_Payload.Spender.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d4a9a2f8-3a45-4602-acd4-ad6fff70f930" Title="DecreaseAllowanceResponse Class" Url="html/T-SecretNET.Token.DecreaseAllowanceResponse.htm">
+    <HelpTOCNode Id="d0f50cd7-4b12-409b-8860-e69760b10678" Title="DecreaseAllowanceResponse Class" Url="html/T-SecretNET.Token.DecreaseAllowanceResponse.htm">
       <HelpTOCNode Title="DecreaseAllowanceResponse Members" Url="html/AllMembers.T-SecretNET.Token.DecreaseAllowanceResponse.htm" />
-      <HelpTOCNode Id="92ffc179-c942-42e2-8eb0-51af6378b918" Title="DecreaseAllowanceResponse Properties" Url="html/Properties.T-SecretNET.Token.DecreaseAllowanceResponse.htm">
+      <HelpTOCNode Id="dd420b17-d84f-42b9-a971-f0c1062f80dd" Title="DecreaseAllowanceResponse Properties" Url="html/Properties.T-SecretNET.Token.DecreaseAllowanceResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.DecreaseAllowanceResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b3de158e-9176-48b8-b874-c27d6bace014" Title="DecreaseAllowanceResponse_Result Class" Url="html/T-SecretNET.Token.DecreaseAllowanceResponse_Result.htm">
+    <HelpTOCNode Id="f1fa5ba6-e779-4f9d-bf54-4445829a486d" Title="DecreaseAllowanceResponse_Result Class" Url="html/T-SecretNET.Token.DecreaseAllowanceResponse_Result.htm">
       <HelpTOCNode Title="DecreaseAllowanceResponse_Result Members" Url="html/AllMembers.T-SecretNET.Token.DecreaseAllowanceResponse_Result.htm" />
-      <HelpTOCNode Id="8324e751-e29a-40d9-b58b-e484c1ce6e79" Title="DecreaseAllowanceResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.DecreaseAllowanceResponse_Result.htm">
+      <HelpTOCNode Id="6274e31f-ee5e-4eac-8499-42715e6c8b8d" Title="DecreaseAllowanceResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.DecreaseAllowanceResponse_Result.htm">
         <HelpTOCNode Title="Allowance Property " Url="html/P-SecretNET.Token.DecreaseAllowanceResponse_Result.Allowance.htm" />
         <HelpTOCNode Title="Owner Property " Url="html/P-SecretNET.Token.DecreaseAllowanceResponse_Result.Owner.htm" />
         <HelpTOCNode Title="Spender Property " Url="html/P-SecretNET.Token.DecreaseAllowanceResponse_Result.Spender.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="aa5b1c95-969e-492d-8c1f-905fcbfa69ff" Title="DepositRequest Class" Url="html/T-SecretNET.Token.DepositRequest.htm">
+    <HelpTOCNode Id="7276eb33-41a9-40e6-9c43-8484f1854b93" Title="DepositRequest Class" Url="html/T-SecretNET.Token.DepositRequest.htm">
       <HelpTOCNode Title="DepositRequest Members" Url="html/AllMembers.T-SecretNET.Token.DepositRequest.htm" />
       <HelpTOCNode Title="DepositRequest Constructor " Url="html/M-SecretNET.Token.DepositRequest.-ctor.htm" />
-      <HelpTOCNode Id="b0aed1ce-220f-4d6c-a749-df4eb40ba192" Title="DepositRequest Properties" Url="html/Properties.T-SecretNET.Token.DepositRequest.htm">
+      <HelpTOCNode Id="0fbce7e3-5945-4061-8f55-a70ca9e55ee1" Title="DepositRequest Properties" Url="html/Properties.T-SecretNET.Token.DepositRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.DepositRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d4b99a3d-745c-4851-801f-2dd0332986c5" Title="DepositRequest_Payload Class" Url="html/T-SecretNET.Token.DepositRequest_Payload.htm">
+    <HelpTOCNode Id="3ef582c1-906d-4d7c-82dc-2fe243e67555" Title="DepositRequest_Payload Class" Url="html/T-SecretNET.Token.DepositRequest_Payload.htm">
       <HelpTOCNode Title="DepositRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.DepositRequest_Payload.htm" />
-      <HelpTOCNode Id="3bfc6119-df18-4d6d-b39b-70edd7fc4425" Title="DepositRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.DepositRequest_Payload.htm">
+      <HelpTOCNode Id="ff93cd3e-41c4-4de7-b8b9-28d51248c959" Title="DepositRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.DepositRequest_Payload.htm">
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.DepositRequest_Payload.Padding.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0618b12d-bae5-4c16-871c-7fb7a4ae2f74" Title="DepositResponse Class" Url="html/T-SecretNET.Token.DepositResponse.htm">
+    <HelpTOCNode Id="e457d302-2780-4f80-bcdb-23b434f8573c" Title="DepositResponse Class" Url="html/T-SecretNET.Token.DepositResponse.htm">
       <HelpTOCNode Title="DepositResponse Members" Url="html/AllMembers.T-SecretNET.Token.DepositResponse.htm" />
-      <HelpTOCNode Id="bb195f5f-7883-45d8-8f96-f2fde0375dd8" Title="DepositResponse Properties" Url="html/Properties.T-SecretNET.Token.DepositResponse.htm">
+      <HelpTOCNode Id="5da8acc0-b318-45b9-9737-233d2ad77f21" Title="DepositResponse Properties" Url="html/Properties.T-SecretNET.Token.DepositResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.DepositResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e65ac235-d97e-467d-8562-bfc883d7523b" Title="DepositType Class" Url="html/T-SecretNET.Token.DepositType.htm">
+    <HelpTOCNode Id="dc0a59b3-2bc5-4287-afdb-14def33bd63d" Title="DepositType Class" Url="html/T-SecretNET.Token.DepositType.htm">
       <HelpTOCNode Title="DepositType Members" Url="html/AllMembers.T-SecretNET.Token.DepositType.htm" />
-      <HelpTOCNode Id="8ae78b0a-3e0a-4f79-b0f0-b18b1cb31ea7" Title="DepositType Properties" Url="html/Properties.T-SecretNET.Token.DepositType.htm">
+      <HelpTOCNode Id="88b19e9d-1587-46d1-a152-008956352788" Title="DepositType Properties" Url="html/Properties.T-SecretNET.Token.DepositType.htm">
         <HelpTOCNode Title="Deposit Property " Url="html/P-SecretNET.Token.DepositType.Deposit.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0c206d20-d634-4a14-8cee-0987d4c96fae" Title="GetAllowanceRequest Class" Url="html/T-SecretNET.Token.GetAllowanceRequest.htm">
+    <HelpTOCNode Id="d298c585-d4fe-46c1-8c5e-fc9b7697ea65" Title="GetAllowanceRequest Class" Url="html/T-SecretNET.Token.GetAllowanceRequest.htm">
       <HelpTOCNode Title="GetAllowanceRequest Members" Url="html/AllMembers.T-SecretNET.Token.GetAllowanceRequest.htm" />
       <HelpTOCNode Title="GetAllowanceRequest Constructor " Url="html/M-SecretNET.Token.GetAllowanceRequest.-ctor.htm" />
-      <HelpTOCNode Id="16a15f86-c0f2-4527-ac02-8a5fbbe9d34a" Title="GetAllowanceRequest Properties" Url="html/Properties.T-SecretNET.Token.GetAllowanceRequest.htm">
+      <HelpTOCNode Id="770397aa-6aee-4ca5-9429-f39ce41a9b89" Title="GetAllowanceRequest Properties" Url="html/Properties.T-SecretNET.Token.GetAllowanceRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.GetAllowanceRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9829a575-9b4e-4018-83c9-ed3d8de9cbf3" Title="GetAllowanceRequest_Payload Class" Url="html/T-SecretNET.Token.GetAllowanceRequest_Payload.htm">
+    <HelpTOCNode Id="631b5022-f53f-46ee-9f39-75470c3098de" Title="GetAllowanceRequest_Payload Class" Url="html/T-SecretNET.Token.GetAllowanceRequest_Payload.htm">
       <HelpTOCNode Title="GetAllowanceRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.GetAllowanceRequest_Payload.htm" />
-      <HelpTOCNode Id="9cf26ef4-99ea-4963-89fd-44e2e39e5b1c" Title="GetAllowanceRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.GetAllowanceRequest_Payload.htm">
+      <HelpTOCNode Id="a990ffb7-43be-4653-9fbd-d59016763dfd" Title="GetAllowanceRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.GetAllowanceRequest_Payload.htm">
         <HelpTOCNode Title="Owner Property " Url="html/P-SecretNET.Token.GetAllowanceRequest_Payload.Owner.htm" />
         <HelpTOCNode Title="Spender Property " Url="html/P-SecretNET.Token.GetAllowanceRequest_Payload.Spender.htm" />
         <HelpTOCNode Title="ViewingKey Property " Url="html/P-SecretNET.Token.GetAllowanceRequest_Payload.ViewingKey.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4d5922a8-764b-4f6a-9b50-6f70be335e3d" Title="GetAllowanceResponse Class" Url="html/T-SecretNET.Token.GetAllowanceResponse.htm">
+    <HelpTOCNode Id="fa9b1907-6954-4fda-9761-a322a4cc7096" Title="GetAllowanceResponse Class" Url="html/T-SecretNET.Token.GetAllowanceResponse.htm">
       <HelpTOCNode Title="GetAllowanceResponse Members" Url="html/AllMembers.T-SecretNET.Token.GetAllowanceResponse.htm" />
-      <HelpTOCNode Id="019accb0-e6b4-45e5-be8b-296ad3267325" Title="GetAllowanceResponse Properties" Url="html/Properties.T-SecretNET.Token.GetAllowanceResponse.htm">
+      <HelpTOCNode Id="cf1b192d-0198-47c8-87e4-1d9ffb64f85e" Title="GetAllowanceResponse Properties" Url="html/Properties.T-SecretNET.Token.GetAllowanceResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.GetAllowanceResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="11ab844e-187e-4ef0-8a03-2b655abec7b9" Title="GetAllowanceResponse_Result Class" Url="html/T-SecretNET.Token.GetAllowanceResponse_Result.htm">
+    <HelpTOCNode Id="1008ca2f-1982-4a82-9436-643857d7663b" Title="GetAllowanceResponse_Result Class" Url="html/T-SecretNET.Token.GetAllowanceResponse_Result.htm">
       <HelpTOCNode Title="GetAllowanceResponse_Result Members" Url="html/AllMembers.T-SecretNET.Token.GetAllowanceResponse_Result.htm" />
-      <HelpTOCNode Id="e8a8b38c-a9b6-4d81-909f-eed1d536af11" Title="GetAllowanceResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetAllowanceResponse_Result.htm">
+      <HelpTOCNode Id="b021b5a8-a482-4585-b10d-0c864c2c0a63" Title="GetAllowanceResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetAllowanceResponse_Result.htm">
         <HelpTOCNode Title="Allowance Property " Url="html/P-SecretNET.Token.GetAllowanceResponse_Result.Allowance.htm" />
         <HelpTOCNode Title="Expiration Property " Url="html/P-SecretNET.Token.GetAllowanceResponse_Result.Expiration.htm" />
         <HelpTOCNode Title="Owner Property " Url="html/P-SecretNET.Token.GetAllowanceResponse_Result.Owner.htm" />
         <HelpTOCNode Title="Spender Property " Url="html/P-SecretNET.Token.GetAllowanceResponse_Result.Spender.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d516bf3d-e571-4bc4-99bf-1d3bd52bcfb5" Title="GetBalanceRequest Class" Url="html/T-SecretNET.Token.GetBalanceRequest.htm">
+    <HelpTOCNode Id="dba375b3-1fbe-411d-a268-8abed5643090" Title="GetBalanceRequest Class" Url="html/T-SecretNET.Token.GetBalanceRequest.htm">
       <HelpTOCNode Title="GetBalanceRequest Members" Url="html/AllMembers.T-SecretNET.Token.GetBalanceRequest.htm" />
       <HelpTOCNode Title="GetBalanceRequest Constructor " Url="html/M-SecretNET.Token.GetBalanceRequest.-ctor.htm" />
-      <HelpTOCNode Id="a01576a8-0cbb-4114-92d4-a818cbea93a1" Title="GetBalanceRequest Properties" Url="html/Properties.T-SecretNET.Token.GetBalanceRequest.htm">
+      <HelpTOCNode Id="3243aeb6-f585-44d6-bc1b-5f3a722016eb" Title="GetBalanceRequest Properties" Url="html/Properties.T-SecretNET.Token.GetBalanceRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.GetBalanceRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="73bed7c7-9a35-4f47-9321-886be7ee09e8" Title="GetBalanceRequest_Payload Class" Url="html/T-SecretNET.Token.GetBalanceRequest_Payload.htm">
+    <HelpTOCNode Id="5641d496-ff57-4d34-a789-d6be45100a2b" Title="GetBalanceRequest_Payload Class" Url="html/T-SecretNET.Token.GetBalanceRequest_Payload.htm">
       <HelpTOCNode Title="GetBalanceRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.GetBalanceRequest_Payload.htm" />
-      <HelpTOCNode Id="fbe3d491-2a51-4e8f-af2f-693a149f0e8f" Title="GetBalanceRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.GetBalanceRequest_Payload.htm">
+      <HelpTOCNode Id="4d3c5f9d-4b59-4d7c-97ba-7c373aa7329d" Title="GetBalanceRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.GetBalanceRequest_Payload.htm">
         <HelpTOCNode Title="Address Property " Url="html/P-SecretNET.Token.GetBalanceRequest_Payload.Address.htm" />
         <HelpTOCNode Title="ViewingKey Property " Url="html/P-SecretNET.Token.GetBalanceRequest_Payload.ViewingKey.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b2abe12f-0f8a-433c-8f16-b6e4531b0433" Title="GetBalanceResponse Class" Url="html/T-SecretNET.Token.GetBalanceResponse.htm">
+    <HelpTOCNode Id="d08d1e06-afea-4c98-932e-889030a0c262" Title="GetBalanceResponse Class" Url="html/T-SecretNET.Token.GetBalanceResponse.htm">
       <HelpTOCNode Title="GetBalanceResponse Members" Url="html/AllMembers.T-SecretNET.Token.GetBalanceResponse.htm" />
-      <HelpTOCNode Id="2cb7fdf6-816d-42ad-8793-20794af6a132" Title="GetBalanceResponse Properties" Url="html/Properties.T-SecretNET.Token.GetBalanceResponse.htm">
+      <HelpTOCNode Id="399aa5c9-71e5-4111-bb9e-f5aba0b288fc" Title="GetBalanceResponse Properties" Url="html/Properties.T-SecretNET.Token.GetBalanceResponse.htm">
         <HelpTOCNode Title="Error Property " Url="html/P-SecretNET.Token.GetBalanceResponse.Error.htm" />
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.GetBalanceResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2b607e44-889c-46ab-9af6-0fa6ed7bcf93" Title="GetBalanceResponse_Error Class" Url="html/T-SecretNET.Token.GetBalanceResponse_Error.htm">
+    <HelpTOCNode Id="9caf4dc9-21f7-4bff-aa2a-dd91ae813b32" Title="GetBalanceResponse_Error Class" Url="html/T-SecretNET.Token.GetBalanceResponse_Error.htm">
       <HelpTOCNode Title="GetBalanceResponse_Error Members" Url="html/AllMembers.T-SecretNET.Token.GetBalanceResponse_Error.htm" />
-      <HelpTOCNode Id="abd005a9-9ae0-4e10-8215-72936a6722bf" Title="GetBalanceResponse_Error Properties" Url="html/Properties.T-SecretNET.Token.GetBalanceResponse_Error.htm">
+      <HelpTOCNode Id="62625aad-326d-4359-a4ed-3691dc46d100" Title="GetBalanceResponse_Error Properties" Url="html/Properties.T-SecretNET.Token.GetBalanceResponse_Error.htm">
         <HelpTOCNode Title="Msg Property " Url="html/P-SecretNET.Token.GetBalanceResponse_Error.Msg.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b5799dd3-420e-47e5-b3e6-f643c83ab3ba" Title="GetBalanceResponse_Result Class" Url="html/T-SecretNET.Token.GetBalanceResponse_Result.htm">
+    <HelpTOCNode Id="189491f2-166b-4a07-a1ea-6259f06efd75" Title="GetBalanceResponse_Result Class" Url="html/T-SecretNET.Token.GetBalanceResponse_Result.htm">
       <HelpTOCNode Title="GetBalanceResponse_Result Members" Url="html/AllMembers.T-SecretNET.Token.GetBalanceResponse_Result.htm" />
-      <HelpTOCNode Id="d557cc9f-d584-45ee-9826-22ee64da69a5" Title="GetBalanceResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetBalanceResponse_Result.htm">
+      <HelpTOCNode Id="e8783737-dbdd-4550-b0b9-8e633e164d5b" Title="GetBalanceResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetBalanceResponse_Result.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.GetBalanceResponse_Result.Amount.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d74314c5-1a73-46f9-9de2-0aa1dcd7fb68" Title="GetExchangeRateRequest Class" Url="html/T-SecretNET.Token.GetExchangeRateRequest.htm">
+    <HelpTOCNode Id="27dcd2a2-b3d1-4d33-a3cc-feccff497f09" Title="GetExchangeRateRequest Class" Url="html/T-SecretNET.Token.GetExchangeRateRequest.htm">
       <HelpTOCNode Title="GetExchangeRateRequest Members" Url="html/AllMembers.T-SecretNET.Token.GetExchangeRateRequest.htm" />
-      <HelpTOCNode Id="f1cc6d52-da0b-4562-8c48-a6e54ca5cb6f" Title="GetExchangeRateRequest Properties" Url="html/Properties.T-SecretNET.Token.GetExchangeRateRequest.htm">
+      <HelpTOCNode Id="2945b290-e164-40d8-8885-5481c00ed960" Title="GetExchangeRateRequest Properties" Url="html/Properties.T-SecretNET.Token.GetExchangeRateRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.GetExchangeRateRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="822b8c95-b251-46ef-9a2a-437bb5445129" Title="GetExchangeRateResponse Class" Url="html/T-SecretNET.Token.GetExchangeRateResponse.htm">
+    <HelpTOCNode Id="53636fea-1705-4b1a-8766-17da07aad70d" Title="GetExchangeRateResponse Class" Url="html/T-SecretNET.Token.GetExchangeRateResponse.htm">
       <HelpTOCNode Title="GetExchangeRateResponse Members" Url="html/AllMembers.T-SecretNET.Token.GetExchangeRateResponse.htm" />
-      <HelpTOCNode Id="ff16b7b5-f79f-46d0-9e74-c036165152e4" Title="GetExchangeRateResponse Properties" Url="html/Properties.T-SecretNET.Token.GetExchangeRateResponse.htm">
+      <HelpTOCNode Id="a63df788-1089-4938-bf09-6943a6b20e9a" Title="GetExchangeRateResponse Properties" Url="html/Properties.T-SecretNET.Token.GetExchangeRateResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.GetExchangeRateResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e28fd9d8-defd-4823-bc61-42fe807005a7" Title="GetExchangeRateResponse_Result Class" Url="html/T-SecretNET.Token.GetExchangeRateResponse_Result.htm">
+    <HelpTOCNode Id="5c3e7ba3-3e11-450d-8e36-f00bfb90e397" Title="GetExchangeRateResponse_Result Class" Url="html/T-SecretNET.Token.GetExchangeRateResponse_Result.htm">
       <HelpTOCNode Title="GetExchangeRateResponse_Result Members" Url="html/AllMembers.T-SecretNET.Token.GetExchangeRateResponse_Result.htm" />
-      <HelpTOCNode Id="413e40c3-34af-4a0f-aa73-77cb643e9ff7" Title="GetExchangeRateResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetExchangeRateResponse_Result.htm">
+      <HelpTOCNode Id="5115621a-b981-45c9-8265-33cf380904a8" Title="GetExchangeRateResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetExchangeRateResponse_Result.htm">
         <HelpTOCNode Title="Denom Property " Url="html/P-SecretNET.Token.GetExchangeRateResponse_Result.Denom.htm" />
         <HelpTOCNode Title="Rate Property " Url="html/P-SecretNET.Token.GetExchangeRateResponse_Result.Rate.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="24eb9848-19e1-46b2-89b7-b105276969be" Title="GetMintersRequest Class" Url="html/T-SecretNET.Token.GetMintersRequest.htm">
+    <HelpTOCNode Id="9e131de7-1112-4a79-875c-bb6de3068d5b" Title="GetMintersRequest Class" Url="html/T-SecretNET.Token.GetMintersRequest.htm">
       <HelpTOCNode Title="GetMintersRequest Members" Url="html/AllMembers.T-SecretNET.Token.GetMintersRequest.htm" />
-      <HelpTOCNode Id="4b43deec-5e3a-4cd6-a115-d208e4cca185" Title="GetMintersRequest Properties" Url="html/Properties.T-SecretNET.Token.GetMintersRequest.htm">
+      <HelpTOCNode Id="259473df-b115-4a3c-b5bc-6af70cbe4d45" Title="GetMintersRequest Properties" Url="html/Properties.T-SecretNET.Token.GetMintersRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.GetMintersRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="3204c767-56a9-47c6-a2fc-1e76dae0b78a" Title="GetMintersResponse Class" Url="html/T-SecretNET.Token.GetMintersResponse.htm">
+    <HelpTOCNode Id="e7d4a7ca-acd3-48ce-8e9f-d920f4481956" Title="GetMintersResponse Class" Url="html/T-SecretNET.Token.GetMintersResponse.htm">
       <HelpTOCNode Title="GetMintersResponse Members" Url="html/AllMembers.T-SecretNET.Token.GetMintersResponse.htm" />
-      <HelpTOCNode Id="5a9f04a7-d95f-439d-a317-52e025131264" Title="GetMintersResponse Properties" Url="html/Properties.T-SecretNET.Token.GetMintersResponse.htm">
+      <HelpTOCNode Id="f51b3632-a20b-4213-a47e-bb4b8502df5e" Title="GetMintersResponse Properties" Url="html/Properties.T-SecretNET.Token.GetMintersResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.GetMintersResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2b41a5db-0124-4aa4-bae9-040cc6102007" Title="GetMintersResponse_Result Class" Url="html/T-SecretNET.Token.GetMintersResponse_Result.htm">
+    <HelpTOCNode Id="e1ca4e49-60ca-4573-96c8-d529d906eb9c" Title="GetMintersResponse_Result Class" Url="html/T-SecretNET.Token.GetMintersResponse_Result.htm">
       <HelpTOCNode Title="GetMintersResponse_Result Members" Url="html/AllMembers.T-SecretNET.Token.GetMintersResponse_Result.htm" />
-      <HelpTOCNode Id="73894e31-8f23-4910-8d9b-0d26342fc223" Title="GetMintersResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetMintersResponse_Result.htm">
+      <HelpTOCNode Id="1975c6da-c300-45d2-96ac-e50217235d8a" Title="GetMintersResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetMintersResponse_Result.htm">
         <HelpTOCNode Title="Minters Property " Url="html/P-SecretNET.Token.GetMintersResponse_Result.Minters.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="293bd28a-e9fb-4292-bdea-681091b8a382" Title="GetTokenInfoRequest Class" Url="html/T-SecretNET.Token.GetTokenInfoRequest.htm">
+    <HelpTOCNode Id="2500e485-c8dc-4421-a22f-e3cc8483fe45" Title="GetTokenInfoRequest Class" Url="html/T-SecretNET.Token.GetTokenInfoRequest.htm">
       <HelpTOCNode Title="GetTokenInfoRequest Members" Url="html/AllMembers.T-SecretNET.Token.GetTokenInfoRequest.htm" />
-      <HelpTOCNode Id="c6ae961b-a1e8-4c67-bd7b-a200e38192a8" Title="GetTokenInfoRequest Properties" Url="html/Properties.T-SecretNET.Token.GetTokenInfoRequest.htm">
+      <HelpTOCNode Id="2b91bc26-57e9-4e3d-a16a-b17d743bfb7f" Title="GetTokenInfoRequest Properties" Url="html/Properties.T-SecretNET.Token.GetTokenInfoRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.GetTokenInfoRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ec974179-7b60-4152-a492-f4182bcb74a7" Title="GetTokenInfoResponse Class" Url="html/T-SecretNET.Token.GetTokenInfoResponse.htm">
+    <HelpTOCNode Id="d3b402ce-59e8-4723-a263-3640912f58d4" Title="GetTokenInfoResponse Class" Url="html/T-SecretNET.Token.GetTokenInfoResponse.htm">
       <HelpTOCNode Title="GetTokenInfoResponse Members" Url="html/AllMembers.T-SecretNET.Token.GetTokenInfoResponse.htm" />
-      <HelpTOCNode Id="a920e11f-0a45-4b11-a082-032c4c6d07c6" Title="GetTokenInfoResponse Properties" Url="html/Properties.T-SecretNET.Token.GetTokenInfoResponse.htm">
+      <HelpTOCNode Id="5f5960b1-736a-4296-9b61-cfd4a3b3b446" Title="GetTokenInfoResponse Properties" Url="html/Properties.T-SecretNET.Token.GetTokenInfoResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.GetTokenInfoResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6e87b90b-64d6-4b9f-93cf-d73f1d65bd4f" Title="GetTokenInfoResponse_Result Class" Url="html/T-SecretNET.Token.GetTokenInfoResponse_Result.htm">
+    <HelpTOCNode Id="eadf75f4-8526-4f78-b870-8938e1dfc9ba" Title="GetTokenInfoResponse_Result Class" Url="html/T-SecretNET.Token.GetTokenInfoResponse_Result.htm">
       <HelpTOCNode Title="GetTokenInfoResponse_Result Members" Url="html/AllMembers.T-SecretNET.Token.GetTokenInfoResponse_Result.htm" />
-      <HelpTOCNode Id="8ad39788-356a-45c7-9ea8-412fdbfaf542" Title="GetTokenInfoResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetTokenInfoResponse_Result.htm">
+      <HelpTOCNode Id="46a8e45d-71c0-4041-be5a-c3955f9c51a1" Title="GetTokenInfoResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetTokenInfoResponse_Result.htm">
         <HelpTOCNode Title="Decimals Property " Url="html/P-SecretNET.Token.GetTokenInfoResponse_Result.Decimals.htm" />
         <HelpTOCNode Title="Name Property " Url="html/P-SecretNET.Token.GetTokenInfoResponse_Result.Name.htm" />
         <HelpTOCNode Title="Symbol Property " Url="html/P-SecretNET.Token.GetTokenInfoResponse_Result.Symbol.htm" />
         <HelpTOCNode Title="TotalSupply Property " Url="html/P-SecretNET.Token.GetTokenInfoResponse_Result.TotalSupply.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b5f2da8b-ce22-48d0-89ac-c690a4214f11" Title="GetTransferHistoryRequest Class" Url="html/T-SecretNET.Token.GetTransferHistoryRequest.htm">
+    <HelpTOCNode Id="d091e6ed-4489-41f5-9aee-4e4fa4f31995" Title="GetTransactionHistoryRequest Class" Url="html/T-SecretNET.Token.GetTransactionHistoryRequest.htm">
+      <HelpTOCNode Title="GetTransactionHistoryRequest Members" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryRequest.htm" />
+      <HelpTOCNode Title="GetTransactionHistoryRequest Constructor " Url="html/M-SecretNET.Token.GetTransactionHistoryRequest.-ctor.htm" />
+      <HelpTOCNode Id="7dc29878-ec18-4ac3-8b89-c5183ad89c27" Title="GetTransactionHistoryRequest Properties" Url="html/Properties.T-SecretNET.Token.GetTransactionHistoryRequest.htm">
+        <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.GetTransactionHistoryRequest.Payload.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ca9751b9-f4e3-4b10-99ca-ae3a7553cb47" Title="GetTransactionHistoryRequest_Payload Class" Url="html/T-SecretNET.Token.GetTransactionHistoryRequest_Payload.htm">
+      <HelpTOCNode Title="GetTransactionHistoryRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryRequest_Payload.htm" />
+      <HelpTOCNode Id="bfc4a7d2-44a2-4835-affe-be450ba990bf" Title="GetTransactionHistoryRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.GetTransactionHistoryRequest_Payload.htm">
+        <HelpTOCNode Title="Address Property " Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.Address.htm" />
+        <HelpTOCNode Title="Page Property " Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.Page.htm" />
+        <HelpTOCNode Title="PageSize Property " Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.PageSize.htm" />
+        <HelpTOCNode Title="ViewingKey Property " Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.ViewingKey.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1c797ad0-3862-45d6-a3b2-1deefa2552de" Title="GetTransactionHistoryResponse Class" Url="html/T-SecretNET.Token.GetTransactionHistoryResponse.htm">
+      <HelpTOCNode Title="GetTransactionHistoryResponse Members" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryResponse.htm" />
+      <HelpTOCNode Id="e46d4e89-61c5-4027-8a20-ce5586814b7a" Title="GetTransactionHistoryResponse Properties" Url="html/Properties.T-SecretNET.Token.GetTransactionHistoryResponse.htm">
+        <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.GetTransactionHistoryResponse.Result.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ac79e765-9ff2-4aad-9290-10b52dc24360" Title="GetTransactionHistoryResponse_Result Class" Url="html/T-SecretNET.Token.GetTransactionHistoryResponse_Result.htm">
+      <HelpTOCNode Title="GetTransactionHistoryResponse_Result Members" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryResponse_Result.htm" />
+      <HelpTOCNode Id="8e238ed6-e0ec-4c6b-af71-100540675425" Title="GetTransactionHistoryResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetTransactionHistoryResponse_Result.htm">
+        <HelpTOCNode Title="Total Property " Url="html/P-SecretNET.Token.GetTransactionHistoryResponse_Result.Total.htm" />
+        <HelpTOCNode Title="Txs Property " Url="html/P-SecretNET.Token.GetTransactionHistoryResponse_Result.Txs.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ef45832b-8b66-47ab-9077-2804a6e1c035" Title="GetTransferHistoryRequest Class" Url="html/T-SecretNET.Token.GetTransferHistoryRequest.htm">
       <HelpTOCNode Title="GetTransferHistoryRequest Members" Url="html/AllMembers.T-SecretNET.Token.GetTransferHistoryRequest.htm" />
       <HelpTOCNode Title="GetTransferHistoryRequest Constructor " Url="html/M-SecretNET.Token.GetTransferHistoryRequest.-ctor.htm" />
-      <HelpTOCNode Id="789cafe1-6021-4a3d-836e-489b220ad398" Title="GetTransferHistoryRequest Properties" Url="html/Properties.T-SecretNET.Token.GetTransferHistoryRequest.htm">
+      <HelpTOCNode Id="1aa86dc6-a58d-4ec6-bbe2-f0a3d98d1168" Title="GetTransferHistoryRequest Properties" Url="html/Properties.T-SecretNET.Token.GetTransferHistoryRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.GetTransferHistoryRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="15652ecc-419b-4b8e-8cbe-5c77c099deb9" Title="GetTransferHistoryRequest_Payload Class" Url="html/T-SecretNET.Token.GetTransferHistoryRequest_Payload.htm">
+    <HelpTOCNode Id="7f0da348-279a-4fd4-affc-b543e6b57b8d" Title="GetTransferHistoryRequest_Payload Class" Url="html/T-SecretNET.Token.GetTransferHistoryRequest_Payload.htm">
       <HelpTOCNode Title="GetTransferHistoryRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.GetTransferHistoryRequest_Payload.htm" />
-      <HelpTOCNode Id="162a29b4-34a6-49bb-86c6-ef2ce0ac8996" Title="GetTransferHistoryRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.GetTransferHistoryRequest_Payload.htm">
+      <HelpTOCNode Id="7b637eb3-9469-40a8-904d-9906d13849df" Title="GetTransferHistoryRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.GetTransferHistoryRequest_Payload.htm">
         <HelpTOCNode Title="Address Property " Url="html/P-SecretNET.Token.GetTransferHistoryRequest_Payload.Address.htm" />
         <HelpTOCNode Title="Page Property " Url="html/P-SecretNET.Token.GetTransferHistoryRequest_Payload.Page.htm" />
         <HelpTOCNode Title="PageSize Property " Url="html/P-SecretNET.Token.GetTransferHistoryRequest_Payload.PageSize.htm" />
         <HelpTOCNode Title="ViewingKey Property " Url="html/P-SecretNET.Token.GetTransferHistoryRequest_Payload.ViewingKey.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="57402b9a-6773-4466-987e-7ef6e0eed71a" Title="GetTransferHistoryResponse Class" Url="html/T-SecretNET.Token.GetTransferHistoryResponse.htm">
+    <HelpTOCNode Id="83f6964e-bcac-4d34-8340-0c328833b314" Title="GetTransferHistoryResponse Class" Url="html/T-SecretNET.Token.GetTransferHistoryResponse.htm">
       <HelpTOCNode Title="GetTransferHistoryResponse Members" Url="html/AllMembers.T-SecretNET.Token.GetTransferHistoryResponse.htm" />
-      <HelpTOCNode Id="18198d88-a994-4044-97d8-68af6c6589fb" Title="GetTransferHistoryResponse Properties" Url="html/Properties.T-SecretNET.Token.GetTransferHistoryResponse.htm">
+      <HelpTOCNode Id="218d08ab-f631-458d-9753-2eca965505c3" Title="GetTransferHistoryResponse Properties" Url="html/Properties.T-SecretNET.Token.GetTransferHistoryResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.GetTransferHistoryResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="bc49282f-428c-4cdb-83a2-759789cd5a88" Title="GetTransferHistoryResponse_Result Class" Url="html/T-SecretNET.Token.GetTransferHistoryResponse_Result.htm">
+    <HelpTOCNode Id="ea882a8d-2961-44dd-a7b6-0749e749438a" Title="GetTransferHistoryResponse_Result Class" Url="html/T-SecretNET.Token.GetTransferHistoryResponse_Result.htm">
       <HelpTOCNode Title="GetTransferHistoryResponse_Result Members" Url="html/AllMembers.T-SecretNET.Token.GetTransferHistoryResponse_Result.htm" />
-      <HelpTOCNode Id="b2a0ac90-83a0-4f6c-8eea-8ef395064fdf" Title="GetTransferHistoryResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetTransferHistoryResponse_Result.htm">
+      <HelpTOCNode Id="3315b49f-8cfe-4ca5-ad4c-49b053806fd2" Title="GetTransferHistoryResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.GetTransferHistoryResponse_Result.htm">
         <HelpTOCNode Title="Total Property " Url="html/P-SecretNET.Token.GetTransferHistoryResponse_Result.Total.htm" />
         <HelpTOCNode Title="Txs Property " Url="html/P-SecretNET.Token.GetTransferHistoryResponse_Result.Txs.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0057bb21-19cd-455e-b138-77dc8003b604" Title="IncreaseAllowanceRequest Class" Url="html/T-SecretNET.Token.IncreaseAllowanceRequest.htm">
+    <HelpTOCNode Id="19b94ccf-52ac-4b12-8357-fb665d551b11" Title="IncreaseAllowanceRequest Class" Url="html/T-SecretNET.Token.IncreaseAllowanceRequest.htm">
       <HelpTOCNode Title="IncreaseAllowanceRequest Members" Url="html/AllMembers.T-SecretNET.Token.IncreaseAllowanceRequest.htm" />
       <HelpTOCNode Title="IncreaseAllowanceRequest Constructor " Url="html/M-SecretNET.Token.IncreaseAllowanceRequest.-ctor.htm" />
-      <HelpTOCNode Id="91ba3374-a401-4be4-9e10-c5fce61d5720" Title="IncreaseAllowanceRequest Properties" Url="html/Properties.T-SecretNET.Token.IncreaseAllowanceRequest.htm">
+      <HelpTOCNode Id="032bebb7-07a8-4d33-adc0-92f57064111c" Title="IncreaseAllowanceRequest Properties" Url="html/Properties.T-SecretNET.Token.IncreaseAllowanceRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.IncreaseAllowanceRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="cc95fab4-8649-4ab6-875e-918f01281fa6" Title="IncreaseAllowanceRequest_Payload Class" Url="html/T-SecretNET.Token.IncreaseAllowanceRequest_Payload.htm">
+    <HelpTOCNode Id="b9dd92a8-679d-4faa-bb50-826894b5e673" Title="IncreaseAllowanceRequest_Payload Class" Url="html/T-SecretNET.Token.IncreaseAllowanceRequest_Payload.htm">
       <HelpTOCNode Title="IncreaseAllowanceRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.IncreaseAllowanceRequest_Payload.htm" />
-      <HelpTOCNode Id="72a75e68-9476-4e2a-bebf-41d6f4e771c4" Title="IncreaseAllowanceRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.IncreaseAllowanceRequest_Payload.htm">
+      <HelpTOCNode Id="62291839-cfd0-41e8-baca-227d963da9e4" Title="IncreaseAllowanceRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.IncreaseAllowanceRequest_Payload.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.IncreaseAllowanceRequest_Payload.Amount.htm" />
         <HelpTOCNode Title="Expiration Property " Url="html/P-SecretNET.Token.IncreaseAllowanceRequest_Payload.Expiration.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.IncreaseAllowanceRequest_Payload.Padding.htm" />
         <HelpTOCNode Title="Spender Property " Url="html/P-SecretNET.Token.IncreaseAllowanceRequest_Payload.Spender.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b6a638b0-2c5d-4827-a4be-96d8a784db70" Title="IncreaseAllowanceResponse Class" Url="html/T-SecretNET.Token.IncreaseAllowanceResponse.htm">
+    <HelpTOCNode Id="5d6c41a1-0e20-49a0-8511-f825f1ccfac7" Title="IncreaseAllowanceResponse Class" Url="html/T-SecretNET.Token.IncreaseAllowanceResponse.htm">
       <HelpTOCNode Title="IncreaseAllowanceResponse Members" Url="html/AllMembers.T-SecretNET.Token.IncreaseAllowanceResponse.htm" />
-      <HelpTOCNode Id="1d125e54-4eaa-4f61-970e-18794b1b6cf1" Title="IncreaseAllowanceResponse Properties" Url="html/Properties.T-SecretNET.Token.IncreaseAllowanceResponse.htm">
+      <HelpTOCNode Id="9cb49074-bcf7-4b29-a676-b78cc955140d" Title="IncreaseAllowanceResponse Properties" Url="html/Properties.T-SecretNET.Token.IncreaseAllowanceResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.IncreaseAllowanceResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="87d67369-14b7-4b2b-9e91-639355a7b9e0" Title="IncreaseAllowanceResponse_Result Class" Url="html/T-SecretNET.Token.IncreaseAllowanceResponse_Result.htm">
+    <HelpTOCNode Id="3aca9172-ae49-4e91-a538-7af13f5988dd" Title="IncreaseAllowanceResponse_Result Class" Url="html/T-SecretNET.Token.IncreaseAllowanceResponse_Result.htm">
       <HelpTOCNode Title="IncreaseAllowanceResponse_Result Members" Url="html/AllMembers.T-SecretNET.Token.IncreaseAllowanceResponse_Result.htm" />
-      <HelpTOCNode Id="455d8121-f9ae-48c4-8e74-d138653aee53" Title="IncreaseAllowanceResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.IncreaseAllowanceResponse_Result.htm">
+      <HelpTOCNode Id="fce12ae8-72b4-406e-937c-a601b8bb386f" Title="IncreaseAllowanceResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.IncreaseAllowanceResponse_Result.htm">
         <HelpTOCNode Title="Allowance Property " Url="html/P-SecretNET.Token.IncreaseAllowanceResponse_Result.Allowance.htm" />
         <HelpTOCNode Title="Owner Property " Url="html/P-SecretNET.Token.IncreaseAllowanceResponse_Result.Owner.htm" />
         <HelpTOCNode Title="Spender Property " Url="html/P-SecretNET.Token.IncreaseAllowanceResponse_Result.Spender.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7c0164b0-3a0d-43a4-b833-78f4e2a78891" Title="InitBalance Class" Url="html/T-SecretNET.Token.InitBalance.htm">
+    <HelpTOCNode Id="6f8f7d33-f796-41b7-b765-7e99de4ab358" Title="InitBalance Class" Url="html/T-SecretNET.Token.InitBalance.htm">
       <HelpTOCNode Title="InitBalance Members" Url="html/AllMembers.T-SecretNET.Token.InitBalance.htm" />
-      <HelpTOCNode Id="928a6f6c-0da7-4935-846b-ac73150812a7" Title="InitBalance Properties" Url="html/Properties.T-SecretNET.Token.InitBalance.htm">
+      <HelpTOCNode Id="45088868-3156-47e5-8d22-a4e07febb469" Title="InitBalance Properties" Url="html/Properties.T-SecretNET.Token.InitBalance.htm">
         <HelpTOCNode Title="Address Property " Url="html/P-SecretNET.Token.InitBalance.Address.htm" />
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.InitBalance.Amount.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0dd27b85-4458-4450-bf6a-6138949cc53d" Title="InstantiateSnip20 Class" Url="html/T-SecretNET.Token.InstantiateSnip20.htm">
+    <HelpTOCNode Id="08919d2d-102c-4b97-b084-57347b72bbf1" Title="InstantiateSnip20 Class" Url="html/T-SecretNET.Token.InstantiateSnip20.htm">
       <HelpTOCNode Title="InstantiateSnip20 Members" Url="html/AllMembers.T-SecretNET.Token.InstantiateSnip20.htm" />
-      <HelpTOCNode Id="b64c02d1-4eec-420f-a8ed-8f67cbc24ad4" Title="InstantiateSnip20 Properties" Url="html/Properties.T-SecretNET.Token.InstantiateSnip20.htm">
+      <HelpTOCNode Id="adf843cf-34ba-430f-b267-5a11d971c160" Title="InstantiateSnip20 Properties" Url="html/Properties.T-SecretNET.Token.InstantiateSnip20.htm">
         <HelpTOCNode Title="Admin Property " Url="html/P-SecretNET.Token.InstantiateSnip20.Admin.htm" />
         <HelpTOCNode Title="Config Property " Url="html/P-SecretNET.Token.InstantiateSnip20.Config.htm" />
         <HelpTOCNode Title="Decimals Property " Url="html/P-SecretNET.Token.InstantiateSnip20.Decimals.htm" />
@@ -321,154 +350,154 @@
         <HelpTOCNode Title="Symbol Property " Url="html/P-SecretNET.Token.InstantiateSnip20.Symbol.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a5d29549-5ee8-46fc-a8ef-dd7636d1af44" Title="MintRequest Class" Url="html/T-SecretNET.Token.MintRequest.htm">
+    <HelpTOCNode Id="586f3e30-0c96-4cfa-a126-29f8713bacec" Title="MintRequest Class" Url="html/T-SecretNET.Token.MintRequest.htm">
       <HelpTOCNode Title="MintRequest Members" Url="html/AllMembers.T-SecretNET.Token.MintRequest.htm" />
       <HelpTOCNode Title="MintRequest Constructor " Url="html/M-SecretNET.Token.MintRequest.-ctor.htm" />
-      <HelpTOCNode Id="885c9701-afbd-4b65-90e8-c82e4877b48c" Title="MintRequest Properties" Url="html/Properties.T-SecretNET.Token.MintRequest.htm">
+      <HelpTOCNode Id="0682bef9-a860-4a39-ae5b-9e01e6f0d8d4" Title="MintRequest Properties" Url="html/Properties.T-SecretNET.Token.MintRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.MintRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="86885041-f161-4c47-b157-6d4841f5a1e1" Title="MintRequest_Payload Class" Url="html/T-SecretNET.Token.MintRequest_Payload.htm">
+    <HelpTOCNode Id="429c90eb-76dc-46cb-9772-24a08732a384" Title="MintRequest_Payload Class" Url="html/T-SecretNET.Token.MintRequest_Payload.htm">
       <HelpTOCNode Title="MintRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.MintRequest_Payload.htm" />
-      <HelpTOCNode Id="7ab1fb14-bca7-4104-8c36-86c5ba8a02d7" Title="MintRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.MintRequest_Payload.htm">
+      <HelpTOCNode Id="f6b924a3-e7b7-4e29-8354-6508d1de4265" Title="MintRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.MintRequest_Payload.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.MintRequest_Payload.Amount.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.MintRequest_Payload.Padding.htm" />
         <HelpTOCNode Title="Recipient Property " Url="html/P-SecretNET.Token.MintRequest_Payload.Recipient.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="80b17d4a-e04c-4b2f-831b-8dcc436c3d69" Title="MintResponse Class" Url="html/T-SecretNET.Token.MintResponse.htm">
+    <HelpTOCNode Id="ba9414a5-ff34-4e35-95d7-1bdc84d49776" Title="MintResponse Class" Url="html/T-SecretNET.Token.MintResponse.htm">
       <HelpTOCNode Title="MintResponse Members" Url="html/AllMembers.T-SecretNET.Token.MintResponse.htm" />
-      <HelpTOCNode Id="6449d4ec-792a-41a4-8ce0-fcba384ce896" Title="MintResponse Properties" Url="html/Properties.T-SecretNET.Token.MintResponse.htm">
+      <HelpTOCNode Id="e4c0f75c-585a-4fb6-bff5-a2e6cdddf5d8" Title="MintResponse Properties" Url="html/Properties.T-SecretNET.Token.MintResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.MintResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f0785b77-5164-4f1a-bd06-40ebd559d05c" Title="MintType Class" Url="html/T-SecretNET.Token.MintType.htm">
+    <HelpTOCNode Id="6be50cb7-46b3-42a0-ac32-59931d5cdb3f" Title="MintType Class" Url="html/T-SecretNET.Token.MintType.htm">
       <HelpTOCNode Title="MintType Members" Url="html/AllMembers.T-SecretNET.Token.MintType.htm" />
-      <HelpTOCNode Id="f8d6db43-4332-45c6-b244-302431e5a1b6" Title="MintType Properties" Url="html/Properties.T-SecretNET.Token.MintType.htm">
+      <HelpTOCNode Id="525f9bb9-5e33-4035-a6cc-a8cd0314e686" Title="MintType Properties" Url="html/Properties.T-SecretNET.Token.MintType.htm">
         <HelpTOCNode Title="Mint Property " Url="html/P-SecretNET.Token.MintType.Mint.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="da39ff98-7fe5-456f-ad9f-1861004030cd" Title="MintType_Mint Class" Url="html/T-SecretNET.Token.MintType_Mint.htm">
+    <HelpTOCNode Id="fbde6a7b-87ed-41ec-ac9e-fc903b268dc4" Title="MintType_Mint Class" Url="html/T-SecretNET.Token.MintType_Mint.htm">
       <HelpTOCNode Title="MintType_Mint Members" Url="html/AllMembers.T-SecretNET.Token.MintType_Mint.htm" />
-      <HelpTOCNode Id="2cea2b7d-0865-445a-96e4-c3bc826a817b" Title="MintType_Mint Fields" Url="html/Fields.T-SecretNET.Token.MintType_Mint.htm">
+      <HelpTOCNode Id="7405eaac-e5b8-4d96-aa89-797ee3b0b5e2" Title="MintType_Mint Fields" Url="html/Fields.T-SecretNET.Token.MintType_Mint.htm">
         <HelpTOCNode Title="Minter Field" Url="html/F-SecretNET.Token.MintType_Mint.Minter.htm" />
         <HelpTOCNode Title="Recipient Field" Url="html/F-SecretNET.Token.MintType_Mint.Recipient.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4c4a01d2-dbc5-49b8-8279-659f314b8c33" Title="MsgBurn Class" Url="html/T-SecretNET.Token.MsgBurn.htm">
+    <HelpTOCNode Id="33181641-b997-4c43-8fa5-71b4048ae518" Title="MsgBurn Class" Url="html/T-SecretNET.Token.MsgBurn.htm">
       <HelpTOCNode Title="MsgBurn Members" Url="html/AllMembers.T-SecretNET.Token.MsgBurn.htm" />
       <HelpTOCNode Title="MsgBurn Constructor " Url="html/M-SecretNET.Token.MsgBurn.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="5ffc5c42-234f-439e-8417-67ad20ecfe50" Title="MsgBurnFrom Class" Url="html/T-SecretNET.Token.MsgBurnFrom.htm">
+    <HelpTOCNode Id="25a57534-1aec-4f52-a6bb-6dabee0c8f79" Title="MsgBurnFrom Class" Url="html/T-SecretNET.Token.MsgBurnFrom.htm">
       <HelpTOCNode Title="MsgBurnFrom Members" Url="html/AllMembers.T-SecretNET.Token.MsgBurnFrom.htm" />
       <HelpTOCNode Title="MsgBurnFrom Constructor " Url="html/M-SecretNET.Token.MsgBurnFrom.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6898985a-8538-4209-ba20-de869cfc6ffe" Title="MsgCreateViewingKey Class" Url="html/T-SecretNET.Token.MsgCreateViewingKey.htm">
+    <HelpTOCNode Id="b2b1591b-cf95-4a95-ad8f-0c546aea86eb" Title="MsgCreateViewingKey Class" Url="html/T-SecretNET.Token.MsgCreateViewingKey.htm">
       <HelpTOCNode Title="MsgCreateViewingKey Members" Url="html/AllMembers.T-SecretNET.Token.MsgCreateViewingKey.htm" />
       <HelpTOCNode Title="MsgCreateViewingKey Constructor " Url="html/M-SecretNET.Token.MsgCreateViewingKey.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="21196641-0074-4b20-8418-48b25524bad4" Title="MsgDecreaseAllowance Class" Url="html/T-SecretNET.Token.MsgDecreaseAllowance.htm">
+    <HelpTOCNode Id="36b4ac2d-21c5-4b61-813c-12526fa44121" Title="MsgDecreaseAllowance Class" Url="html/T-SecretNET.Token.MsgDecreaseAllowance.htm">
       <HelpTOCNode Title="MsgDecreaseAllowance Members" Url="html/AllMembers.T-SecretNET.Token.MsgDecreaseAllowance.htm" />
       <HelpTOCNode Title="MsgDecreaseAllowance Constructor " Url="html/M-SecretNET.Token.MsgDecreaseAllowance.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c75fbf60-9c2b-4293-98aa-9938b0ee4d8c" Title="MsgDeposit Class" Url="html/T-SecretNET.Token.MsgDeposit.htm">
+    <HelpTOCNode Id="93af4b39-5d85-4e8a-b842-c8eb9a4915c0" Title="MsgDeposit Class" Url="html/T-SecretNET.Token.MsgDeposit.htm">
       <HelpTOCNode Title="MsgDeposit Members" Url="html/AllMembers.T-SecretNET.Token.MsgDeposit.htm" />
       <HelpTOCNode Title="MsgDeposit Constructor " Url="html/M-SecretNET.Token.MsgDeposit.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="0876a712-5764-466b-8159-00a3caafff29" Title="MsgIncreaseAllowance Class" Url="html/T-SecretNET.Token.MsgIncreaseAllowance.htm">
+    <HelpTOCNode Id="e33d9f94-1808-42bc-b01b-9e21c0990354" Title="MsgIncreaseAllowance Class" Url="html/T-SecretNET.Token.MsgIncreaseAllowance.htm">
       <HelpTOCNode Title="MsgIncreaseAllowance Members" Url="html/AllMembers.T-SecretNET.Token.MsgIncreaseAllowance.htm" />
       <HelpTOCNode Title="MsgIncreaseAllowance Constructor " Url="html/M-SecretNET.Token.MsgIncreaseAllowance.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="7feb676b-93f5-49b1-b0a3-a750ee375b79" Title="MsgInstantiate Class" Url="html/T-SecretNET.Token.MsgInstantiate.htm">
+    <HelpTOCNode Id="9875904c-898e-4630-8700-56458d4a7587" Title="MsgInstantiate Class" Url="html/T-SecretNET.Token.MsgInstantiate.htm">
       <HelpTOCNode Title="MsgInstantiate Members" Url="html/AllMembers.T-SecretNET.Token.MsgInstantiate.htm" />
       <HelpTOCNode Title="MsgInstantiate Constructor " Url="html/M-SecretNET.Token.MsgInstantiate.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="21a6f0fa-704f-4c9e-8af6-f72b3e4734bd" Title="MsgMint Class" Url="html/T-SecretNET.Token.MsgMint.htm">
+    <HelpTOCNode Id="7f685950-9d3a-4a14-99e8-1dc61d9b80a6" Title="MsgMint Class" Url="html/T-SecretNET.Token.MsgMint.htm">
       <HelpTOCNode Title="MsgMint Members" Url="html/AllMembers.T-SecretNET.Token.MsgMint.htm" />
       <HelpTOCNode Title="MsgMint Constructor " Url="html/M-SecretNET.Token.MsgMint.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="84879d08-605b-4819-bd8a-653951c8a20d" Title="MsgRedeem Class" Url="html/T-SecretNET.Token.MsgRedeem.htm">
+    <HelpTOCNode Id="8d1f88c5-61dd-4eec-a981-22a739652a2d" Title="MsgRedeem Class" Url="html/T-SecretNET.Token.MsgRedeem.htm">
       <HelpTOCNode Title="MsgRedeem Members" Url="html/AllMembers.T-SecretNET.Token.MsgRedeem.htm" />
       <HelpTOCNode Title="MsgRedeem Constructor " Url="html/M-SecretNET.Token.MsgRedeem.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="edb5fee0-ef51-47bb-8443-59e745043993" Title="MsgRegisterReceive Class" Url="html/T-SecretNET.Token.MsgRegisterReceive.htm">
+    <HelpTOCNode Id="b1c96e88-826f-4c2a-b21f-4f42c1b3aa30" Title="MsgRegisterReceive Class" Url="html/T-SecretNET.Token.MsgRegisterReceive.htm">
       <HelpTOCNode Title="MsgRegisterReceive Members" Url="html/AllMembers.T-SecretNET.Token.MsgRegisterReceive.htm" />
       <HelpTOCNode Title="MsgRegisterReceive Constructor " Url="html/M-SecretNET.Token.MsgRegisterReceive.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="565dcf28-e36e-4b76-89fe-4d108ca472d2" Title="MsgSend Class" Url="html/T-SecretNET.Token.MsgSend.htm">
+    <HelpTOCNode Id="d8cd1950-2891-4e50-96ba-a4e27405fd2b" Title="MsgSend Class" Url="html/T-SecretNET.Token.MsgSend.htm">
       <HelpTOCNode Title="MsgSend Members" Url="html/AllMembers.T-SecretNET.Token.MsgSend.htm" />
       <HelpTOCNode Title="MsgSend Constructor " Url="html/M-SecretNET.Token.MsgSend.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="f6539067-d8e7-450e-8788-312da5d799b5" Title="MsgSendFrom Class" Url="html/T-SecretNET.Token.MsgSendFrom.htm">
+    <HelpTOCNode Id="c7046d62-3daa-4587-b0b4-45a4a9900d33" Title="MsgSendFrom Class" Url="html/T-SecretNET.Token.MsgSendFrom.htm">
       <HelpTOCNode Title="MsgSendFrom Members" Url="html/AllMembers.T-SecretNET.Token.MsgSendFrom.htm" />
       <HelpTOCNode Title="MsgSendFrom Constructor " Url="html/M-SecretNET.Token.MsgSendFrom.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6c43eb76-93a3-4e1c-a817-32c7b06a8d58" Title="MsgSetMinters Class" Url="html/T-SecretNET.Token.MsgSetMinters.htm">
+    <HelpTOCNode Id="62b6b32c-407d-4f21-8ebc-359bfa91675e" Title="MsgSetMinters Class" Url="html/T-SecretNET.Token.MsgSetMinters.htm">
       <HelpTOCNode Title="MsgSetMinters Members" Url="html/AllMembers.T-SecretNET.Token.MsgSetMinters.htm" />
       <HelpTOCNode Title="MsgSetMinters Constructor " Url="html/M-SecretNET.Token.MsgSetMinters.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="8c019966-f7db-4612-9b90-5010ea1f29ab" Title="MsgSetViewingKey Class" Url="html/T-SecretNET.Token.MsgSetViewingKey.htm">
+    <HelpTOCNode Id="6ae7c255-6c04-4985-b4ec-06b02f7d6d8a" Title="MsgSetViewingKey Class" Url="html/T-SecretNET.Token.MsgSetViewingKey.htm">
       <HelpTOCNode Title="MsgSetViewingKey Members" Url="html/AllMembers.T-SecretNET.Token.MsgSetViewingKey.htm" />
       <HelpTOCNode Title="MsgSetViewingKey Constructor " Url="html/M-SecretNET.Token.MsgSetViewingKey.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="e07587dd-5b9d-4f38-8a3c-3dc4180cbd29" Title="MsgTransfer Class" Url="html/T-SecretNET.Token.MsgTransfer.htm">
+    <HelpTOCNode Id="0a28a400-9275-42a8-a944-971f436390f3" Title="MsgTransfer Class" Url="html/T-SecretNET.Token.MsgTransfer.htm">
       <HelpTOCNode Title="MsgTransfer Members" Url="html/AllMembers.T-SecretNET.Token.MsgTransfer.htm" />
       <HelpTOCNode Title="MsgTransfer Constructor " Url="html/M-SecretNET.Token.MsgTransfer.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="4b95c6ed-6a29-4d61-beae-09ae99bfa252" Title="MsgTransferFrom Class" Url="html/T-SecretNET.Token.MsgTransferFrom.htm">
+    <HelpTOCNode Id="e9f31775-9cfe-4011-bbc4-c484d74aeeb1" Title="MsgTransferFrom Class" Url="html/T-SecretNET.Token.MsgTransferFrom.htm">
       <HelpTOCNode Title="MsgTransferFrom Members" Url="html/AllMembers.T-SecretNET.Token.MsgTransferFrom.htm" />
       <HelpTOCNode Title="MsgTransferFrom Constructor " Url="html/M-SecretNET.Token.MsgTransferFrom.-ctor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="cb2d4e43-44ad-43c3-be49-53898a783ed1" Title="RedeemRequest Class" Url="html/T-SecretNET.Token.RedeemRequest.htm">
+    <HelpTOCNode Id="a41fe900-2699-4dc8-9303-52de696225fb" Title="RedeemRequest Class" Url="html/T-SecretNET.Token.RedeemRequest.htm">
       <HelpTOCNode Title="RedeemRequest Members" Url="html/AllMembers.T-SecretNET.Token.RedeemRequest.htm" />
       <HelpTOCNode Title="RedeemRequest Constructor " Url="html/M-SecretNET.Token.RedeemRequest.-ctor.htm" />
-      <HelpTOCNode Id="668d45e2-c9c0-414c-96e2-afd7017cef15" Title="RedeemRequest Properties" Url="html/Properties.T-SecretNET.Token.RedeemRequest.htm">
+      <HelpTOCNode Id="a2310bed-bd98-4e9a-9493-2ccae2a86f50" Title="RedeemRequest Properties" Url="html/Properties.T-SecretNET.Token.RedeemRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.RedeemRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="84291e84-f134-450e-95bc-a6330c73bcaf" Title="RedeemRequest_Payload Class" Url="html/T-SecretNET.Token.RedeemRequest_Payload.htm">
+    <HelpTOCNode Id="0044bddf-57a0-41c0-aa1f-7771b6609f76" Title="RedeemRequest_Payload Class" Url="html/T-SecretNET.Token.RedeemRequest_Payload.htm">
       <HelpTOCNode Title="RedeemRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.RedeemRequest_Payload.htm" />
-      <HelpTOCNode Id="0ce00c51-13c7-42c6-a522-14a8f4cfc310" Title="RedeemRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.RedeemRequest_Payload.htm">
+      <HelpTOCNode Id="33339daa-a1c2-4202-a7aa-85efbd1628f7" Title="RedeemRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.RedeemRequest_Payload.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.RedeemRequest_Payload.Amount.htm" />
         <HelpTOCNode Title="Denom Property " Url="html/P-SecretNET.Token.RedeemRequest_Payload.Denom.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.RedeemRequest_Payload.Padding.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0ca2b4ac-3fbb-4c90-a68c-ba921b956c5e" Title="RedeemResponse Class" Url="html/T-SecretNET.Token.RedeemResponse.htm">
+    <HelpTOCNode Id="7fbcfdab-0ce0-4b38-9995-037c5e0c2eb2" Title="RedeemResponse Class" Url="html/T-SecretNET.Token.RedeemResponse.htm">
       <HelpTOCNode Title="RedeemResponse Members" Url="html/AllMembers.T-SecretNET.Token.RedeemResponse.htm" />
-      <HelpTOCNode Id="cc6d7036-d095-44c7-98d0-acef30071c4f" Title="RedeemResponse Properties" Url="html/Properties.T-SecretNET.Token.RedeemResponse.htm">
+      <HelpTOCNode Id="31f803d9-e1f7-4a5e-8a75-6cc38a058573" Title="RedeemResponse Properties" Url="html/Properties.T-SecretNET.Token.RedeemResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.RedeemResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d6eb62ac-2916-45bc-83d4-2af352adbc4e" Title="RedeemType Class" Url="html/T-SecretNET.Token.RedeemType.htm">
+    <HelpTOCNode Id="dcd1c31f-bdf8-457a-a557-773a8484c449" Title="RedeemType Class" Url="html/T-SecretNET.Token.RedeemType.htm">
       <HelpTOCNode Title="RedeemType Members" Url="html/AllMembers.T-SecretNET.Token.RedeemType.htm" />
-      <HelpTOCNode Id="829fe193-d006-4861-b6ef-954df26f3bbd" Title="RedeemType Properties" Url="html/Properties.T-SecretNET.Token.RedeemType.htm">
+      <HelpTOCNode Id="86a6f4d3-197f-452d-9d27-193788bd0fa1" Title="RedeemType Properties" Url="html/Properties.T-SecretNET.Token.RedeemType.htm">
         <HelpTOCNode Title="Redeem Property " Url="html/P-SecretNET.Token.RedeemType.Redeem.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f6eb3e0f-49b0-417d-b414-149cb4bc582f" Title="RegisterReceiveRequest Class" Url="html/T-SecretNET.Token.RegisterReceiveRequest.htm">
+    <HelpTOCNode Id="8c72c74d-0812-4aee-bad9-104f7e61ce5f" Title="RegisterReceiveRequest Class" Url="html/T-SecretNET.Token.RegisterReceiveRequest.htm">
       <HelpTOCNode Title="RegisterReceiveRequest Members" Url="html/AllMembers.T-SecretNET.Token.RegisterReceiveRequest.htm" />
       <HelpTOCNode Title="RegisterReceiveRequest Constructor " Url="html/M-SecretNET.Token.RegisterReceiveRequest.-ctor.htm" />
-      <HelpTOCNode Id="77c4d2d2-1760-4229-a4a6-c6e1b888b3d9" Title="RegisterReceiveRequest Properties" Url="html/Properties.T-SecretNET.Token.RegisterReceiveRequest.htm">
+      <HelpTOCNode Id="1c41061d-4f03-4d11-b626-956cfdfcf80b" Title="RegisterReceiveRequest Properties" Url="html/Properties.T-SecretNET.Token.RegisterReceiveRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.RegisterReceiveRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="db185c32-7159-41b8-aaf6-107166cb74e0" Title="RegisterReceiveRequest_Payload Class" Url="html/T-SecretNET.Token.RegisterReceiveRequest_Payload.htm">
+    <HelpTOCNode Id="146ba406-66b6-4f3c-9891-cdb4a018d24e" Title="RegisterReceiveRequest_Payload Class" Url="html/T-SecretNET.Token.RegisterReceiveRequest_Payload.htm">
       <HelpTOCNode Title="RegisterReceiveRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.RegisterReceiveRequest_Payload.htm" />
-      <HelpTOCNode Id="ac5ef051-aec9-4234-851a-6da88a371f37" Title="RegisterReceiveRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.RegisterReceiveRequest_Payload.htm">
+      <HelpTOCNode Id="e80fab57-2089-49ba-b9ab-0d92c219d9bd" Title="RegisterReceiveRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.RegisterReceiveRequest_Payload.htm">
         <HelpTOCNode Title="CodeHash Property " Url="html/P-SecretNET.Token.RegisterReceiveRequest_Payload.CodeHash.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.RegisterReceiveRequest_Payload.Padding.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="fe5ad5e9-1a78-4622-8382-f2c55feec1b9" Title="RegisterReceiveResponse Class" Url="html/T-SecretNET.Token.RegisterReceiveResponse.htm">
+    <HelpTOCNode Id="6b674c4d-c58b-49b5-a832-044fb2675836" Title="RegisterReceiveResponse Class" Url="html/T-SecretNET.Token.RegisterReceiveResponse.htm">
       <HelpTOCNode Title="RegisterReceiveResponse Members" Url="html/AllMembers.T-SecretNET.Token.RegisterReceiveResponse.htm" />
-      <HelpTOCNode Id="030a9337-b044-4d5f-8b7d-e753b31693a2" Title="RegisterReceiveResponse Properties" Url="html/Properties.T-SecretNET.Token.RegisterReceiveResponse.htm">
+      <HelpTOCNode Id="74f9705a-d44d-46b7-8c59-a812fa465f78" Title="RegisterReceiveResponse Properties" Url="html/Properties.T-SecretNET.Token.RegisterReceiveResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.RegisterReceiveResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0b7109c7-9af6-4beb-9981-7d2b46503c11" Title="RichTx Class" Url="html/T-SecretNET.Token.RichTx.htm">
+    <HelpTOCNode Id="3c71d27d-f116-4ede-85de-b96d784e45e2" Title="RichTx Class" Url="html/T-SecretNET.Token.RichTx.htm">
       <HelpTOCNode Title="RichTx Members" Url="html/AllMembers.T-SecretNET.Token.RichTx.htm" />
-      <HelpTOCNode Id="51829d5c-c4b5-4736-ada1-d7865d2889da" Title="RichTx Fields" Url="html/Fields.T-SecretNET.Token.RichTx.htm">
+      <HelpTOCNode Id="cfe87da3-0ad4-4435-ab35-38cd9657744c" Title="RichTx Fields" Url="html/Fields.T-SecretNET.Token.RichTx.htm">
         <HelpTOCNode Title="Action Field" Url="html/F-SecretNET.Token.RichTx.Action.htm" />
         <HelpTOCNode Title="BlockHeight Field" Url="html/F-SecretNET.Token.RichTx.BlockHeight.htm" />
         <HelpTOCNode Title="BlockTime Field" Url="html/F-SecretNET.Token.RichTx.BlockTime.htm" />
@@ -477,297 +506,314 @@
         <HelpTOCNode Title="Memo Field" Url="html/F-SecretNET.Token.RichTx.Memo.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8df34ff3-135e-4d08-b954-2a4b36604ee7" Title="SendFromRequest Class" Url="html/T-SecretNET.Token.SendFromRequest.htm">
+    <HelpTOCNode Id="1ecdd52b-189e-42b4-aa33-5f9df7f18c89" Title="SendFromRequest Class" Url="html/T-SecretNET.Token.SendFromRequest.htm">
       <HelpTOCNode Title="SendFromRequest Members" Url="html/AllMembers.T-SecretNET.Token.SendFromRequest.htm" />
       <HelpTOCNode Title="SendFromRequest Constructor " Url="html/M-SecretNET.Token.SendFromRequest.-ctor.htm" />
-      <HelpTOCNode Id="e410e152-54eb-4850-a2f2-21c29202b1d1" Title="SendFromRequest Properties" Url="html/Properties.T-SecretNET.Token.SendFromRequest.htm">
+      <HelpTOCNode Id="da03fa00-e00a-4e1e-a058-434fbf72e5d7" Title="SendFromRequest Properties" Url="html/Properties.T-SecretNET.Token.SendFromRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.SendFromRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0f9b40b8-5edc-44f1-a375-6b5fae2eb23e" Title="SendFromRequest_Payload Class" Url="html/T-SecretNET.Token.SendFromRequest_Payload.htm">
+    <HelpTOCNode Id="1c2a1227-1651-4bcf-bb40-c385e819627e" Title="SendFromRequest_Payload Class" Url="html/T-SecretNET.Token.SendFromRequest_Payload.htm">
       <HelpTOCNode Title="SendFromRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.SendFromRequest_Payload.htm" />
-      <HelpTOCNode Id="2b6f4132-4fd8-4777-a6ff-ea272939ebe9" Title="SendFromRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.SendFromRequest_Payload.htm">
+      <HelpTOCNode Id="68024c5e-788f-4e1c-85bd-b14cf727f184" Title="SendFromRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.SendFromRequest_Payload.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.SendFromRequest_Payload.Amount.htm" />
         <HelpTOCNode Title="Msg Property " Url="html/P-SecretNET.Token.SendFromRequest_Payload.Msg.htm" />
         <HelpTOCNode Title="Owner Property " Url="html/P-SecretNET.Token.SendFromRequest_Payload.Owner.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.SendFromRequest_Payload.Padding.htm" />
         <HelpTOCNode Title="Recipient Property " Url="html/P-SecretNET.Token.SendFromRequest_Payload.Recipient.htm" />
+        <HelpTOCNode Title="RecipientCodeHash Property " Url="html/P-SecretNET.Token.SendFromRequest_Payload.RecipientCodeHash.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e13bd408-cdc4-4a6d-beb3-6583aa0fd7ce" Title="SendFromResponse Class" Url="html/T-SecretNET.Token.SendFromResponse.htm">
+    <HelpTOCNode Id="e39a5782-4917-4879-a1fb-82435f170a15" Title="SendFromResponse Class" Url="html/T-SecretNET.Token.SendFromResponse.htm">
       <HelpTOCNode Title="SendFromResponse Members" Url="html/AllMembers.T-SecretNET.Token.SendFromResponse.htm" />
-      <HelpTOCNode Id="bacdf38a-e650-40e3-8907-5477907e77a5" Title="SendFromResponse Properties" Url="html/Properties.T-SecretNET.Token.SendFromResponse.htm">
+      <HelpTOCNode Id="fd4bf5c4-bcc9-4934-b9e8-34e47c70eddd" Title="SendFromResponse Properties" Url="html/Properties.T-SecretNET.Token.SendFromResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.SendFromResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="66c5e462-e13d-4370-8271-bc85621af752" Title="SendRequest Class" Url="html/T-SecretNET.Token.SendRequest.htm">
+    <HelpTOCNode Id="f435e849-2147-4da5-b0fa-38271483b698" Title="SendRequest Class" Url="html/T-SecretNET.Token.SendRequest.htm">
       <HelpTOCNode Title="SendRequest Members" Url="html/AllMembers.T-SecretNET.Token.SendRequest.htm" />
       <HelpTOCNode Title="SendRequest Constructor " Url="html/M-SecretNET.Token.SendRequest.-ctor.htm" />
-      <HelpTOCNode Id="f446d8f0-f51a-4d9b-bd1b-55499379b774" Title="SendRequest Properties" Url="html/Properties.T-SecretNET.Token.SendRequest.htm">
+      <HelpTOCNode Id="d9fbe317-ca03-4145-9fc7-294ac2ddc92e" Title="SendRequest Properties" Url="html/Properties.T-SecretNET.Token.SendRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.SendRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5402778b-50c0-437c-b9b4-10287784bb7d" Title="SendRequest_Payload Class" Url="html/T-SecretNET.Token.SendRequest_Payload.htm">
+    <HelpTOCNode Id="0f62fc1e-6c91-408c-aa39-b4178163d88c" Title="SendRequest_Payload Class" Url="html/T-SecretNET.Token.SendRequest_Payload.htm">
       <HelpTOCNode Title="SendRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.SendRequest_Payload.htm" />
-      <HelpTOCNode Id="151f62c9-149f-4966-92e9-f1dade6d6e94" Title="SendRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.SendRequest_Payload.htm">
+      <HelpTOCNode Id="9f885c9a-ec41-4d53-9cda-0c104d1c6b08" Title="SendRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.SendRequest_Payload.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.SendRequest_Payload.Amount.htm" />
         <HelpTOCNode Title="Msg Property " Url="html/P-SecretNET.Token.SendRequest_Payload.Msg.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.SendRequest_Payload.Padding.htm" />
         <HelpTOCNode Title="Recipient Property " Url="html/P-SecretNET.Token.SendRequest_Payload.Recipient.htm" />
+        <HelpTOCNode Title="RecipientCodeHash Property " Url="html/P-SecretNET.Token.SendRequest_Payload.RecipientCodeHash.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a39eb1d0-f21b-46fd-a017-55f897b1551f" Title="SendResponse Class" Url="html/T-SecretNET.Token.SendResponse.htm">
+    <HelpTOCNode Id="65184cfa-c9e3-4f97-a9e4-5eef56862b0c" Title="SendResponse Class" Url="html/T-SecretNET.Token.SendResponse.htm">
       <HelpTOCNode Title="SendResponse Members" Url="html/AllMembers.T-SecretNET.Token.SendResponse.htm" />
-      <HelpTOCNode Id="caa086c3-9cf2-47bb-b27f-c68dc5728b8a" Title="SendResponse Properties" Url="html/Properties.T-SecretNET.Token.SendResponse.htm">
+      <HelpTOCNode Id="bd52fe7a-3eef-41df-a0e1-6bbdf870a732" Title="SendResponse Properties" Url="html/Properties.T-SecretNET.Token.SendResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.SendResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b77a35fa-22b3-44a6-8e9e-98465ffb309e" Title="SetMintersRequest Class" Url="html/T-SecretNET.Token.SetMintersRequest.htm">
+    <HelpTOCNode Id="2d85cec4-9145-4fc5-a08a-561a9671fbdc" Title="SetMintersRequest Class" Url="html/T-SecretNET.Token.SetMintersRequest.htm">
       <HelpTOCNode Title="SetMintersRequest Members" Url="html/AllMembers.T-SecretNET.Token.SetMintersRequest.htm" />
-      <HelpTOCNode Id="fd16b752-0c9d-4e5c-855c-1421aa8bbffe" Title="SetMintersRequest Constructor " Url="html/Overload-SecretNET.Token.SetMintersRequest.-ctor.htm">
+      <HelpTOCNode Id="f4e38562-29b5-44c5-ae87-59f995259cf5" Title="SetMintersRequest Constructor " Url="html/Overload-SecretNET.Token.SetMintersRequest.-ctor.htm">
         <HelpTOCNode Title="SetMintersRequest Constructor (String, Nullable(String))" Url="html/M-SecretNET.Token.SetMintersRequest.-ctor.htm" />
         <HelpTOCNode Title="SetMintersRequest Constructor (String[], Nullable(String))" Url="html/M-SecretNET.Token.SetMintersRequest.-ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0b126b7b-e239-4136-ad63-f2eb1682171a" Title="SetMintersRequest Properties" Url="html/Properties.T-SecretNET.Token.SetMintersRequest.htm">
+      <HelpTOCNode Id="cf65d0ad-719f-4354-8902-0a964d363687" Title="SetMintersRequest Properties" Url="html/Properties.T-SecretNET.Token.SetMintersRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.SetMintersRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7f5bb307-ae70-4b7d-8aa8-d6dd49e9711c" Title="SetMintersRequest_Payload Class" Url="html/T-SecretNET.Token.SetMintersRequest_Payload.htm">
+    <HelpTOCNode Id="86ce3db5-f5c9-422e-8bc2-9d6d4c81ad6c" Title="SetMintersRequest_Payload Class" Url="html/T-SecretNET.Token.SetMintersRequest_Payload.htm">
       <HelpTOCNode Title="SetMintersRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.SetMintersRequest_Payload.htm" />
-      <HelpTOCNode Id="472069bf-85ad-4b9e-9c43-8b14d001e3de" Title="SetMintersRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.SetMintersRequest_Payload.htm">
+      <HelpTOCNode Id="99b81946-62b6-456c-8d70-32967328d6dd" Title="SetMintersRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.SetMintersRequest_Payload.htm">
         <HelpTOCNode Title="Minters Property " Url="html/P-SecretNET.Token.SetMintersRequest_Payload.Minters.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.SetMintersRequest_Payload.Padding.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="35662371-e755-49fe-88ea-afd80ace0ba6" Title="SetMintersResponse Class" Url="html/T-SecretNET.Token.SetMintersResponse.htm">
+    <HelpTOCNode Id="e82d0081-3c19-4b56-bd37-1f7ed786e4d9" Title="SetMintersResponse Class" Url="html/T-SecretNET.Token.SetMintersResponse.htm">
       <HelpTOCNode Title="SetMintersResponse Members" Url="html/AllMembers.T-SecretNET.Token.SetMintersResponse.htm" />
-      <HelpTOCNode Id="67c9d7d2-bd96-49f8-9c30-56f3bc151ced" Title="SetMintersResponse Properties" Url="html/Properties.T-SecretNET.Token.SetMintersResponse.htm">
+      <HelpTOCNode Id="78d083e0-6fc0-452f-8ad4-601cf0f16ff2" Title="SetMintersResponse Properties" Url="html/Properties.T-SecretNET.Token.SetMintersResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.SetMintersResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e765f6b6-832a-45ca-9362-3a9519016aa9" Title="SimpleStatusResponse_Result Class" Url="html/T-SecretNET.Token.SimpleStatusResponse_Result.htm">
+    <HelpTOCNode Id="4882b2ea-6ed0-4781-b85e-3a5f57d5bdd6" Title="SimpleStatusResponse_Result Class" Url="html/T-SecretNET.Token.SimpleStatusResponse_Result.htm">
       <HelpTOCNode Title="SimpleStatusResponse_Result Members" Url="html/AllMembers.T-SecretNET.Token.SimpleStatusResponse_Result.htm" />
-      <HelpTOCNode Id="8b12cfef-1502-47cd-8900-4015bd9d5243" Title="SimpleStatusResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.SimpleStatusResponse_Result.htm">
+      <HelpTOCNode Id="68943aa8-869d-45cf-ad77-e24a48384b14" Title="SimpleStatusResponse_Result Properties" Url="html/Properties.T-SecretNET.Token.SimpleStatusResponse_Result.htm">
         <HelpTOCNode Title="Status Property " Url="html/P-SecretNET.Token.SimpleStatusResponse_Result.Status.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="89a92e8d-ae35-4b9b-b697-7c0b7ea280ad" Title="Snip20Client Class" Url="html/T-SecretNET.Token.Snip20Client.htm">
+    <HelpTOCNode Id="adb4fef0-19f3-47a2-8c45-f8662660ed46" Title="Snip20Client Class" Url="html/T-SecretNET.Token.Snip20Client.htm">
       <HelpTOCNode Title="Snip20Client Members" Url="html/AllMembers.T-SecretNET.Token.Snip20Client.htm" />
       <HelpTOCNode Title="Snip20Client Constructor " Url="html/M-SecretNET.Token.Snip20Client.-ctor.htm" />
-      <HelpTOCNode Id="012196aa-5818-4ef4-b9c7-b1bbf0415461" Title="Snip20Client Properties" Url="html/Properties.T-SecretNET.Token.Snip20Client.htm">
+      <HelpTOCNode Id="599aa909-322b-4e73-a954-75462d4770e3" Title="Snip20Client Properties" Url="html/Properties.T-SecretNET.Token.Snip20Client.htm">
         <HelpTOCNode Title="Query Property " Url="html/P-SecretNET.Token.Snip20Client.Query.htm" />
         <HelpTOCNode Title="Tx Property " Url="html/P-SecretNET.Token.Snip20Client.Tx.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8440f4b7-d3b2-471f-81a4-478f50df3ff0" Title="Snip20Querier Class" Url="html/T-SecretNET.Token.Snip20Querier.htm">
+    <HelpTOCNode Id="1fa2ade4-9d04-4548-ba3a-b8657e515a84" Title="Snip20Querier Class" Url="html/T-SecretNET.Token.Snip20Querier.htm">
       <HelpTOCNode Title="Snip20Querier Members" Url="html/AllMembers.T-SecretNET.Token.Snip20Querier.htm" />
       <HelpTOCNode Title="Snip20Querier Constructor " Url="html/M-SecretNET.Token.Snip20Querier.-ctor.htm" />
-      <HelpTOCNode Id="f4e43f53-056c-4282-87e4-97c190288774" Title="Snip20Querier Methods" Url="html/Methods.T-SecretNET.Token.Snip20Querier.htm">
+      <HelpTOCNode Id="c32188dd-e8d5-48f2-bd39-8de026c3d15b" Title="Snip20Querier Methods" Url="html/Methods.T-SecretNET.Token.Snip20Querier.htm">
         <HelpTOCNode Title="GetAllowance Method " Url="html/M-SecretNET.Token.Snip20Querier.GetAllowance.htm" />
         <HelpTOCNode Title="GetBalance Method " Url="html/M-SecretNET.Token.Snip20Querier.GetBalance.htm" />
         <HelpTOCNode Title="GetExchangeRate Method " Url="html/M-SecretNET.Token.Snip20Querier.GetExchangeRate.htm" />
         <HelpTOCNode Title="GetMinters Method " Url="html/M-SecretNET.Token.Snip20Querier.GetMinters.htm" />
         <HelpTOCNode Title="GetTokenInfo Method " Url="html/M-SecretNET.Token.Snip20Querier.GetTokenInfo.htm" />
+        <HelpTOCNode Title="GetTransactionHistory Method " Url="html/M-SecretNET.Token.Snip20Querier.GetTransactionHistory.htm" />
         <HelpTOCNode Title="GetTransferHistory Method " Url="html/M-SecretNET.Token.Snip20Querier.GetTransferHistory.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1fc62184-5ae2-4857-8a93-cde4ed3758aa" Title="Snip20Tx Class" Url="html/T-SecretNET.Token.Snip20Tx.htm">
+    <HelpTOCNode Id="cf4bb06e-b74b-4e6c-9ac4-d25a69c74e35" Title="Snip20Tx Class" Url="html/T-SecretNET.Token.Snip20Tx.htm">
       <HelpTOCNode Title="Snip20Tx Members" Url="html/AllMembers.T-SecretNET.Token.Snip20Tx.htm" />
       <HelpTOCNode Title="Snip20Tx Constructor " Url="html/M-SecretNET.Token.Snip20Tx.-ctor.htm" />
-      <HelpTOCNode Id="0dfe5564-2eb3-48fd-b209-861ad8f0332b" Title="Snip20Tx Methods" Url="html/Methods.T-SecretNET.Token.Snip20Tx.htm">
-        <HelpTOCNode Id="91b4c7f3-eec4-4dfd-a3d1-93a3cc8545f3" Title="Burn Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Burn.htm">
+      <HelpTOCNode Id="f8b1ef0e-5714-41d3-868f-d99e835c87b0" Title="Snip20Tx Methods" Url="html/Methods.T-SecretNET.Token.Snip20Tx.htm">
+        <HelpTOCNode Id="fff6e7ce-e9b6-4fff-be92-24f527da4af2" Title="Burn Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Burn.htm">
           <HelpTOCNode Title="Burn Method (MsgBurn, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Burn.htm" />
           <HelpTOCNode Title="Burn Method (String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Burn_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2ab22bb3-4c17-4b82-9d14-364c4e6e255f" Title="BurnFrom Method " Url="html/Overload-SecretNET.Token.Snip20Tx.BurnFrom.htm">
+        <HelpTOCNode Id="c6786000-d677-44fa-993f-10177b1c9b63" Title="BurnFrom Method " Url="html/Overload-SecretNET.Token.Snip20Tx.BurnFrom.htm">
           <HelpTOCNode Title="BurnFrom Method (MsgBurnFrom, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.BurnFrom.htm" />
           <HelpTOCNode Title="BurnFrom Method (String, String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.BurnFrom_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="33c0cd85-bcf7-4e01-ad6a-4bed1130d94f" Title="CreateViewingKey Method " Url="html/Overload-SecretNET.Token.Snip20Tx.CreateViewingKey.htm">
+        <HelpTOCNode Id="74a90745-0d21-49fd-a7b5-d7e544e5c575" Title="CreateViewingKey Method " Url="html/Overload-SecretNET.Token.Snip20Tx.CreateViewingKey.htm">
           <HelpTOCNode Title="CreateViewingKey Method (MsgCreateViewingKey, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.CreateViewingKey.htm" />
           <HelpTOCNode Title="CreateViewingKey Method (String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.CreateViewingKey_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="01bb997e-b318-4e45-b2a2-31ef87924b76" Title="DecreaseAllowance Method " Url="html/Overload-SecretNET.Token.Snip20Tx.DecreaseAllowance.htm">
+        <HelpTOCNode Id="9c0c8e21-f23a-4659-9aba-ae7c70f14a2b" Title="DecreaseAllowance Method " Url="html/Overload-SecretNET.Token.Snip20Tx.DecreaseAllowance.htm">
           <HelpTOCNode Title="DecreaseAllowance Method (MsgDecreaseAllowance, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.DecreaseAllowance.htm" />
           <HelpTOCNode Title="DecreaseAllowance Method (String, String, String, Nullable(Int32), Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.DecreaseAllowance_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="73e99554-79a0-47a3-a43e-ae311c420874" Title="Deposit Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Deposit.htm">
+        <HelpTOCNode Id="adbcf766-9236-4018-985b-077b0aa91582" Title="Deposit Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Deposit.htm">
           <HelpTOCNode Title="Deposit Method (MsgDeposit, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Deposit.htm" />
           <HelpTOCNode Title="Deposit Method (String, Coin[], Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Deposit_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0923969e-4af9-4e7f-a556-eec6d60f83bd" Title="IncreaseAllowance Method " Url="html/Overload-SecretNET.Token.Snip20Tx.IncreaseAllowance.htm">
+        <HelpTOCNode Id="9413dbc6-7ca8-4f96-bd53-77e16b0ea9f6" Title="IncreaseAllowance Method " Url="html/Overload-SecretNET.Token.Snip20Tx.IncreaseAllowance.htm">
           <HelpTOCNode Title="IncreaseAllowance Method (MsgIncreaseAllowance, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.IncreaseAllowance.htm" />
           <HelpTOCNode Title="IncreaseAllowance Method (String, String, String, Nullable(Int32), Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.IncreaseAllowance_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Instantiate Method " Url="html/M-SecretNET.Token.Snip20Tx.Instantiate.htm" />
-        <HelpTOCNode Id="143c00b6-9a9b-4b0f-945e-6981844f4bce" Title="Mint Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Mint.htm">
+        <HelpTOCNode Id="b7ea07ef-5302-4bdf-b031-c3d32870c889" Title="Mint Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Mint.htm">
           <HelpTOCNode Title="Mint Method (MsgMint, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Mint.htm" />
           <HelpTOCNode Title="Mint Method (String, String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Mint_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="fe998fa8-5f77-49f6-82e1-e8b7d53f30bd" Title="Redeem Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Redeem.htm">
+        <HelpTOCNode Id="104111e0-eda2-4e4f-aa56-991681bea12c" Title="Redeem Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Redeem.htm">
           <HelpTOCNode Title="Redeem Method (MsgRedeem, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Redeem.htm" />
           <HelpTOCNode Title="Redeem Method (String, String, Nullable(String), Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Redeem_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3c48286e-2daa-491c-806f-9ed54930e94b" Title="RegisterReceive Method " Url="html/Overload-SecretNET.Token.Snip20Tx.RegisterReceive.htm">
+        <HelpTOCNode Id="1733be44-5dcd-4055-99a5-7dfe864b0910" Title="RegisterReceive Method " Url="html/Overload-SecretNET.Token.Snip20Tx.RegisterReceive.htm">
           <HelpTOCNode Title="RegisterReceive Method (MsgRegisterReceive, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.RegisterReceive.htm" />
           <HelpTOCNode Title="RegisterReceive Method (String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.RegisterReceive_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a7068e10-9e56-4428-aff0-7d492318adb3" Title="Send Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Send.htm">
+        <HelpTOCNode Id="d683fd4e-24df-43df-8cc6-13b25d49b32c" Title="Send Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Send.htm">
           <HelpTOCNode Title="Send Method (MsgSend, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Send.htm" />
           <HelpTOCNode Title="Send Method (String, String, String, Nullable(String), Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Send_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0b8c2170-35db-458b-b4e8-6edf26c56daa" Title="SendFrom Method " Url="html/Overload-SecretNET.Token.Snip20Tx.SendFrom.htm">
+        <HelpTOCNode Id="b5f5be2f-f2ae-4fe2-99cc-c7f8fda36062" Title="SendFrom Method " Url="html/Overload-SecretNET.Token.Snip20Tx.SendFrom.htm">
           <HelpTOCNode Title="SendFrom Method (MsgSendFrom, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.SendFrom.htm" />
           <HelpTOCNode Title="SendFrom Method (String, String, String, String, Nullable(String), Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.SendFrom_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e795ac14-50bd-4da7-b1d0-42189cd9190a" Title="SetMinters Method " Url="html/Overload-SecretNET.Token.Snip20Tx.SetMinters.htm">
+        <HelpTOCNode Id="4d1c3ef6-a772-494c-826e-5c695174bf28" Title="SetMinters Method " Url="html/Overload-SecretNET.Token.Snip20Tx.SetMinters.htm">
           <HelpTOCNode Title="SetMinters Method (MsgSetMinters, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.SetMinters.htm" />
           <HelpTOCNode Title="SetMinters Method (String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.SetMinters_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0957f9a6-2c40-4517-8a96-39e7bd49fc22" Title="SetViewingKey Method " Url="html/Overload-SecretNET.Token.Snip20Tx.SetViewingKey.htm">
+        <HelpTOCNode Id="9f1339d5-a827-47d9-bb22-b24fe20897c8" Title="SetViewingKey Method " Url="html/Overload-SecretNET.Token.Snip20Tx.SetViewingKey.htm">
           <HelpTOCNode Title="SetViewingKey Method (MsgSetViewingKey, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.SetViewingKey.htm" />
           <HelpTOCNode Title="SetViewingKey Method (String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.SetViewingKey_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="acf890ad-e63b-4338-a788-a6db3a6a7fe7" Title="Transfer Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Transfer.htm">
+        <HelpTOCNode Id="c942b7d1-8e99-4fdd-bc06-39dd7643e326" Title="Transfer Method " Url="html/Overload-SecretNET.Token.Snip20Tx.Transfer.htm">
           <HelpTOCNode Title="Transfer Method (MsgTransfer, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Transfer.htm" />
           <HelpTOCNode Title="Transfer Method (String, String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.Transfer_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ab15ca6a-7789-4119-b5ab-9214807f529c" Title="TransferFrom Method " Url="html/Overload-SecretNET.Token.Snip20Tx.TransferFrom.htm">
+        <HelpTOCNode Id="7d3dc8cc-6ded-4c86-8ffa-b3c04d4256ac" Title="TransferFrom Method " Url="html/Overload-SecretNET.Token.Snip20Tx.TransferFrom.htm">
           <HelpTOCNode Title="TransferFrom Method (MsgTransferFrom, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.TransferFrom.htm" />
           <HelpTOCNode Title="TransferFrom Method (String, String, String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20Tx.TransferFrom_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="37cc7b0d-35d2-49d5-bcc7-48583ba57162" Title="Snip20Tx Properties" Url="html/Properties.T-SecretNET.Token.Snip20Tx.htm">
+      <HelpTOCNode Id="21e45ac4-2380-422e-a237-22f9c342f07d" Title="Snip20Tx Properties" Url="html/Properties.T-SecretNET.Token.Snip20Tx.htm">
         <HelpTOCNode Title="Simulate Property " Url="html/P-SecretNET.Token.Snip20Tx.Simulate.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1b8d88da-d221-4521-9be8-dfc71eb4627b" Title="Snip20TxSimulate Class" Url="html/T-SecretNET.Token.Snip20TxSimulate.htm">
+    <HelpTOCNode Id="0b2afa00-721d-4da7-86fe-53be3a8dc418" Title="Snip20TxSimulate Class" Url="html/T-SecretNET.Token.Snip20TxSimulate.htm">
       <HelpTOCNode Title="Snip20TxSimulate Members" Url="html/AllMembers.T-SecretNET.Token.Snip20TxSimulate.htm" />
       <HelpTOCNode Title="Snip20TxSimulate Constructor " Url="html/M-SecretNET.Token.Snip20TxSimulate.-ctor.htm" />
-      <HelpTOCNode Id="000fcd60-ff0f-4c78-a224-b542d3972342" Title="Snip20TxSimulate Methods" Url="html/Methods.T-SecretNET.Token.Snip20TxSimulate.htm">
-        <HelpTOCNode Id="7da06938-0a63-4b86-b216-365555f7cbb7" Title="Burn Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Burn.htm">
+      <HelpTOCNode Id="e45e729c-0141-4ec0-b22e-e5bdf2428fb8" Title="Snip20TxSimulate Methods" Url="html/Methods.T-SecretNET.Token.Snip20TxSimulate.htm">
+        <HelpTOCNode Id="a769f724-e349-40e1-b219-cefa1196e525" Title="Burn Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Burn.htm">
           <HelpTOCNode Title="Burn Method (MsgBurn, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Burn.htm" />
           <HelpTOCNode Title="Burn Method (String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Burn_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="68222e28-e218-424b-8c4c-96db2326c08a" Title="BurnFrom Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.BurnFrom.htm">
+        <HelpTOCNode Id="4ebd4394-c3ea-4971-b0a8-714b3fdb4a9d" Title="BurnFrom Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.BurnFrom.htm">
           <HelpTOCNode Title="BurnFrom Method (MsgBurnFrom, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.BurnFrom.htm" />
           <HelpTOCNode Title="BurnFrom Method (String, String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.BurnFrom_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3da1476d-e9b0-4991-9e35-26802f2c30e8" Title="CreateViewingKey Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.CreateViewingKey.htm">
+        <HelpTOCNode Id="20c718c6-7c9e-4be5-a430-749119805f94" Title="CreateViewingKey Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.CreateViewingKey.htm">
           <HelpTOCNode Title="CreateViewingKey Method (MsgCreateViewingKey, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.CreateViewingKey.htm" />
           <HelpTOCNode Title="CreateViewingKey Method (String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.CreateViewingKey_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="55ee8825-9c5a-4d5b-8b6a-a04b553524ec" Title="DecreaseAllowance Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.DecreaseAllowance.htm">
+        <HelpTOCNode Id="99b3ffbf-f202-47ec-a066-bbe4493bf27c" Title="DecreaseAllowance Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.DecreaseAllowance.htm">
           <HelpTOCNode Title="DecreaseAllowance Method (MsgDecreaseAllowance, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.DecreaseAllowance.htm" />
           <HelpTOCNode Title="DecreaseAllowance Method (String, String, String, Nullable(Int32), Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.DecreaseAllowance_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a6a60d29-4203-476e-a632-06155acb4f27" Title="Deposit Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Deposit.htm">
+        <HelpTOCNode Id="a54ea45d-8b62-4634-ac71-6c432e018146" Title="Deposit Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Deposit.htm">
           <HelpTOCNode Title="Deposit Method (MsgDeposit, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Deposit.htm" />
           <HelpTOCNode Title="Deposit Method (String, Coin[], Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Deposit_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GenericSimulate Method " Url="html/M-SecretNET.Token.Snip20TxSimulate.GenericSimulate.htm" />
-        <HelpTOCNode Id="41c036d5-7839-46a5-9276-d2bca8b51123" Title="IncreaseAllowance Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.IncreaseAllowance.htm">
+        <HelpTOCNode Id="3a67d57c-7677-4744-ae98-1fda21d7fe91" Title="IncreaseAllowance Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.IncreaseAllowance.htm">
           <HelpTOCNode Title="IncreaseAllowance Method (MsgIncreaseAllowance, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.IncreaseAllowance.htm" />
           <HelpTOCNode Title="IncreaseAllowance Method (String, String, String, Nullable(Int32), Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.IncreaseAllowance_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a2d92f20-3dd4-4c9a-9694-df6df7bb0ede" Title="Mint Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Mint.htm">
+        <HelpTOCNode Id="bf128cff-03fb-4abe-9aac-3ed29ca583c3" Title="Mint Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Mint.htm">
           <HelpTOCNode Title="Mint Method (MsgMint, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Mint.htm" />
           <HelpTOCNode Title="Mint Method (String, String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Mint_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a7df5625-358c-4ec6-a1b3-ec70d24524c1" Title="Redeem Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Redeem.htm">
+        <HelpTOCNode Id="ccd3b29d-a081-49dc-acc1-591a72adbc40" Title="Redeem Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Redeem.htm">
           <HelpTOCNode Title="Redeem Method (MsgRedeem, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Redeem.htm" />
           <HelpTOCNode Title="Redeem Method (String, String, Nullable(String), Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Redeem_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9ec67638-dc16-427c-9c4a-07e9c776fda6" Title="RegisterReceive Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.RegisterReceive.htm">
+        <HelpTOCNode Id="5c96a928-8236-4884-8af2-f8187f283f95" Title="RegisterReceive Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.RegisterReceive.htm">
           <HelpTOCNode Title="RegisterReceive Method (MsgRegisterReceive, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.RegisterReceive.htm" />
           <HelpTOCNode Title="RegisterReceive Method (String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.RegisterReceive_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5282bfa3-1389-4187-9d33-6b2b8653c99f" Title="Send Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Send.htm">
+        <HelpTOCNode Id="318ca558-f9d4-4992-b1a2-f6b22f3ba0f3" Title="Send Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Send.htm">
           <HelpTOCNode Title="Send Method (MsgSend, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Send.htm" />
           <HelpTOCNode Title="Send Method (String, String, String, Nullable(String), Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Send_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="dd8dae44-c6df-4350-9898-575130818881" Title="SendFrom Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.SendFrom.htm">
+        <HelpTOCNode Id="2e7cf596-2d4d-4f4c-a357-9eb7ff3c415c" Title="SendFrom Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.SendFrom.htm">
           <HelpTOCNode Title="SendFrom Method (MsgSendFrom, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.SendFrom.htm" />
           <HelpTOCNode Title="SendFrom Method (String, String, String, String, Nullable(String), Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.SendFrom_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="abdba982-4760-42d3-a288-63f67114939c" Title="SetMinters Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.SetMinters.htm">
+        <HelpTOCNode Id="23945dab-40af-4eda-a5d2-5189cbc0def4" Title="SetMinters Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.SetMinters.htm">
           <HelpTOCNode Title="SetMinters Method (MsgSetMinters, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.SetMinters.htm" />
           <HelpTOCNode Title="SetMinters Method (String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.SetMinters_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="093514a2-162e-442c-ad2d-faa52c69034b" Title="SetViewingKey Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.SetViewingKey.htm">
+        <HelpTOCNode Id="dc8c9136-ad18-43e6-a8d8-b3efdc366036" Title="SetViewingKey Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.SetViewingKey.htm">
           <HelpTOCNode Title="SetViewingKey Method (MsgSetViewingKey, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.SetViewingKey.htm" />
           <HelpTOCNode Title="SetViewingKey Method (String, String, Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.SetViewingKey_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1c8e3ecc-6717-4f9b-a8b8-a20388eeb3d5" Title="Transfer Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Transfer.htm">
+        <HelpTOCNode Id="2a6c14bd-dab3-4193-8269-9264e14c137f" Title="Transfer Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Transfer.htm">
           <HelpTOCNode Title="Transfer Method (MsgTransfer, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Transfer.htm" />
           <HelpTOCNode Title="Transfer Method (String, String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.Transfer_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1a17c075-9e05-457b-adb3-92a33b885cf8" Title="TransferFrom Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.TransferFrom.htm">
+        <HelpTOCNode Id="8205e3be-ee0c-4f1f-99d6-3296a8351386" Title="TransferFrom Method " Url="html/Overload-SecretNET.Token.Snip20TxSimulate.TransferFrom.htm">
           <HelpTOCNode Title="TransferFrom Method (MsgTransferFrom, Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.TransferFrom.htm" />
           <HelpTOCNode Title="TransferFrom Method (String, String, String, String, Nullable(String), Nullable(String), Nullable(TxOptions))" Url="html/M-SecretNET.Token.Snip20TxSimulate.TransferFrom_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d6710749-61c4-4630-aebc-c3a1b496ea4a" Title="TransferFromRequest Class" Url="html/T-SecretNET.Token.TransferFromRequest.htm">
+    <HelpTOCNode Id="89ab673a-1c67-4816-8a46-d97f587bff8e" Title="TransactionTx Class" Url="html/T-SecretNET.Token.TransactionTx.htm">
+      <HelpTOCNode Title="TransactionTx Members" Url="html/AllMembers.T-SecretNET.Token.TransactionTx.htm" />
+      <HelpTOCNode Id="9e49af92-707e-4e0a-a123-5055104dc963" Title="TransactionTx Fields" Url="html/Fields.T-SecretNET.Token.TransactionTx.htm">
+        <HelpTOCNode Title="Action Field" Url="html/F-SecretNET.Token.TransactionTx.Action.htm" />
+        <HelpTOCNode Title="BlockHeight Field" Url="html/F-SecretNET.Token.TransactionTx.BlockHeight.htm" />
+        <HelpTOCNode Title="BlockTime Field" Url="html/F-SecretNET.Token.TransactionTx.BlockTime.htm" />
+        <HelpTOCNode Title="Coins Field" Url="html/F-SecretNET.Token.TransactionTx.Coins.htm" />
+        <HelpTOCNode Title="From Field" Url="html/F-SecretNET.Token.TransactionTx.From.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/F-SecretNET.Token.TransactionTx.Id.htm" />
+        <HelpTOCNode Title="Memo Field" Url="html/F-SecretNET.Token.TransactionTx.Memo.htm" />
+        <HelpTOCNode Title="Receiver Field" Url="html/F-SecretNET.Token.TransactionTx.Receiver.htm" />
+        <HelpTOCNode Title="Sender Field" Url="html/F-SecretNET.Token.TransactionTx.Sender.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8fa8cf2a-d8b3-4431-ba18-f5a4b4a3aaf1" Title="TransferFromRequest Class" Url="html/T-SecretNET.Token.TransferFromRequest.htm">
       <HelpTOCNode Title="TransferFromRequest Members" Url="html/AllMembers.T-SecretNET.Token.TransferFromRequest.htm" />
       <HelpTOCNode Title="TransferFromRequest Constructor " Url="html/M-SecretNET.Token.TransferFromRequest.-ctor.htm" />
-      <HelpTOCNode Id="b24b9640-7154-4835-b10c-ca33d4bc244d" Title="TransferFromRequest Properties" Url="html/Properties.T-SecretNET.Token.TransferFromRequest.htm">
+      <HelpTOCNode Id="d845d4b8-c990-4644-8ff5-3e413e98d637" Title="TransferFromRequest Properties" Url="html/Properties.T-SecretNET.Token.TransferFromRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.TransferFromRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b847779f-34cf-41f7-a283-0e6930d1b715" Title="TransferFromRequest_Payload Class" Url="html/T-SecretNET.Token.TransferFromRequest_Payload.htm">
+    <HelpTOCNode Id="7b2ceadd-edc6-4f21-88b8-83e4a39a16fe" Title="TransferFromRequest_Payload Class" Url="html/T-SecretNET.Token.TransferFromRequest_Payload.htm">
       <HelpTOCNode Title="TransferFromRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.TransferFromRequest_Payload.htm" />
-      <HelpTOCNode Id="0c91772a-694e-4338-b4af-decebda32c7c" Title="TransferFromRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.TransferFromRequest_Payload.htm">
+      <HelpTOCNode Id="f22b9437-6243-4c11-80b8-2ca9a94c7bab" Title="TransferFromRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.TransferFromRequest_Payload.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.TransferFromRequest_Payload.Amount.htm" />
         <HelpTOCNode Title="Owner Property " Url="html/P-SecretNET.Token.TransferFromRequest_Payload.Owner.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.TransferFromRequest_Payload.Padding.htm" />
         <HelpTOCNode Title="Recipient Property " Url="html/P-SecretNET.Token.TransferFromRequest_Payload.Recipient.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="82250904-c148-4a31-8a3d-4bb6a2629700" Title="TransferFromResponse Class" Url="html/T-SecretNET.Token.TransferFromResponse.htm">
+    <HelpTOCNode Id="9ca6007e-7fb7-4359-996c-7de6f03bed45" Title="TransferFromResponse Class" Url="html/T-SecretNET.Token.TransferFromResponse.htm">
       <HelpTOCNode Title="TransferFromResponse Members" Url="html/AllMembers.T-SecretNET.Token.TransferFromResponse.htm" />
-      <HelpTOCNode Id="2d284e6f-e968-4781-ae73-fbbad6895fdf" Title="TransferFromResponse Properties" Url="html/Properties.T-SecretNET.Token.TransferFromResponse.htm">
+      <HelpTOCNode Id="68f2576f-6f1e-465c-9011-9360342add9d" Title="TransferFromResponse Properties" Url="html/Properties.T-SecretNET.Token.TransferFromResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.TransferFromResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a049f8a6-bc96-4ab4-9665-a23092d40b58" Title="TransferRequest Class" Url="html/T-SecretNET.Token.TransferRequest.htm">
+    <HelpTOCNode Id="86814750-5217-498c-bb17-951495677a3f" Title="TransferRequest Class" Url="html/T-SecretNET.Token.TransferRequest.htm">
       <HelpTOCNode Title="TransferRequest Members" Url="html/AllMembers.T-SecretNET.Token.TransferRequest.htm" />
       <HelpTOCNode Title="TransferRequest Constructor " Url="html/M-SecretNET.Token.TransferRequest.-ctor.htm" />
-      <HelpTOCNode Id="f9a28d29-4d13-413d-9243-763ab2fd1226" Title="TransferRequest Properties" Url="html/Properties.T-SecretNET.Token.TransferRequest.htm">
+      <HelpTOCNode Id="12375abb-96e1-47d1-ae0f-edc405ca2e52" Title="TransferRequest Properties" Url="html/Properties.T-SecretNET.Token.TransferRequest.htm">
         <HelpTOCNode Title="Payload Property " Url="html/P-SecretNET.Token.TransferRequest.Payload.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="16eab040-39e0-4f56-9c7b-811e637881c5" Title="TransferRequest_Payload Class" Url="html/T-SecretNET.Token.TransferRequest_Payload.htm">
+    <HelpTOCNode Id="4f674344-f587-4413-9017-d4a7503850b5" Title="TransferRequest_Payload Class" Url="html/T-SecretNET.Token.TransferRequest_Payload.htm">
       <HelpTOCNode Title="TransferRequest_Payload Members" Url="html/AllMembers.T-SecretNET.Token.TransferRequest_Payload.htm" />
-      <HelpTOCNode Id="7e173bad-e5ab-4db1-ac96-c97a81f0a635" Title="TransferRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.TransferRequest_Payload.htm">
+      <HelpTOCNode Id="0fcc0509-15ec-4787-9091-f29c55a54af0" Title="TransferRequest_Payload Properties" Url="html/Properties.T-SecretNET.Token.TransferRequest_Payload.htm">
         <HelpTOCNode Title="Amount Property " Url="html/P-SecretNET.Token.TransferRequest_Payload.Amount.htm" />
         <HelpTOCNode Title="Padding Property " Url="html/P-SecretNET.Token.TransferRequest_Payload.Padding.htm" />
         <HelpTOCNode Title="Recipient Property " Url="html/P-SecretNET.Token.TransferRequest_Payload.Recipient.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="cde38c77-35a5-4d47-b86e-d5fdb6d82302" Title="TransferResponse Class" Url="html/T-SecretNET.Token.TransferResponse.htm">
+    <HelpTOCNode Id="1beae9fe-2dfa-4c34-8e57-a86362e34ed5" Title="TransferResponse Class" Url="html/T-SecretNET.Token.TransferResponse.htm">
       <HelpTOCNode Title="TransferResponse Members" Url="html/AllMembers.T-SecretNET.Token.TransferResponse.htm" />
-      <HelpTOCNode Id="33d74f8f-2c50-443c-ada6-6ee41806f62e" Title="TransferResponse Properties" Url="html/Properties.T-SecretNET.Token.TransferResponse.htm">
+      <HelpTOCNode Id="daeafeb3-2af2-4b60-9e56-a42059bf439a" Title="TransferResponse Properties" Url="html/Properties.T-SecretNET.Token.TransferResponse.htm">
         <HelpTOCNode Title="Result Property " Url="html/P-SecretNET.Token.TransferResponse.Result.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a34dbaeb-fa25-4299-9d22-40f3c9a00dce" Title="TransferType Class" Url="html/T-SecretNET.Token.TransferType.htm">
+    <HelpTOCNode Id="10dd025f-5848-469a-a2b5-a7352abd0958" Title="TransferType Class" Url="html/T-SecretNET.Token.TransferType.htm">
       <HelpTOCNode Title="TransferType Members" Url="html/AllMembers.T-SecretNET.Token.TransferType.htm" />
-      <HelpTOCNode Id="d1033b90-aef2-4c07-82e2-d7b98a02dd18" Title="TransferType Properties" Url="html/Properties.T-SecretNET.Token.TransferType.htm">
+      <HelpTOCNode Id="35f3b920-c381-440a-9786-2beae32f6614" Title="TransferType Properties" Url="html/Properties.T-SecretNET.Token.TransferType.htm">
         <HelpTOCNode Title="Transfer Property " Url="html/P-SecretNET.Token.TransferType.Transfer.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6e7b3ce4-35de-4a7f-8992-cfc634c395f6" Title="TransferType_Transfer Class" Url="html/T-SecretNET.Token.TransferType_Transfer.htm">
+    <HelpTOCNode Id="d95aac4a-bb5d-48d4-b556-e6be3f9a9987" Title="TransferType_Transfer Class" Url="html/T-SecretNET.Token.TransferType_Transfer.htm">
       <HelpTOCNode Title="TransferType_Transfer Members" Url="html/AllMembers.T-SecretNET.Token.TransferType_Transfer.htm" />
-      <HelpTOCNode Id="61fcfe00-c6f0-4066-883d-17eae5afb1fb" Title="TransferType_Transfer Fields" Url="html/Fields.T-SecretNET.Token.TransferType_Transfer.htm">
+      <HelpTOCNode Id="b7a3ae41-c63f-44d6-9579-426b96ec185d" Title="TransferType_Transfer Fields" Url="html/Fields.T-SecretNET.Token.TransferType_Transfer.htm">
         <HelpTOCNode Title="From Field" Url="html/F-SecretNET.Token.TransferType_Transfer.From.htm" />
         <HelpTOCNode Title="Recipient Field" Url="html/F-SecretNET.Token.TransferType_Transfer.Recipient.htm" />
         <HelpTOCNode Title="Sender Field" Url="html/F-SecretNET.Token.TransferType_Transfer.Sender.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9d4c1198-b833-4303-9c78-44f60783c827" Title="Tx Class" Url="html/T-SecretNET.Token.Tx.htm">
+    <HelpTOCNode Id="a9fcfeb0-e532-4275-acf8-cd69ecb6838a" Title="Tx Class" Url="html/T-SecretNET.Token.Tx.htm">
       <HelpTOCNode Title="Tx Members" Url="html/AllMembers.T-SecretNET.Token.Tx.htm" />
-      <HelpTOCNode Id="f23039af-5403-4317-bffa-03f821b865ad" Title="Tx Fields" Url="html/Fields.T-SecretNET.Token.Tx.htm">
+      <HelpTOCNode Id="0272def5-f77c-47bd-b952-86ee4453007f" Title="Tx Fields" Url="html/Fields.T-SecretNET.Token.Tx.htm">
         <HelpTOCNode Title="BlockHeight Field" Url="html/F-SecretNET.Token.Tx.BlockHeight.htm" />
         <HelpTOCNode Title="BlockTime Field" Url="html/F-SecretNET.Token.Tx.BlockTime.htm" />
         <HelpTOCNode Title="Coins Field" Url="html/F-SecretNET.Token.Tx.Coins.htm" />

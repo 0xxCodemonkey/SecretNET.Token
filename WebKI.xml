@@ -3,7 +3,9 @@
 
   <HelpKINode Title=". constructor" Url="html/M-global.$Program.-ctor.htm" />
   <HelpKINode Title="Action field" Url="html/F-SecretNET.Token.RichTx.Action.htm" />
+  <HelpKINode Title="Action field" Url="html/F-SecretNET.Token.TransactionTx.Action.htm" />
   <HelpKINode Title="Address property" Url="html/P-SecretNET.Token.GetBalanceRequest_Payload.Address.htm" />
+  <HelpKINode Title="Address property" Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.Address.htm" />
   <HelpKINode Title="Address property" Url="html/P-SecretNET.Token.GetTransferHistoryRequest_Payload.Address.htm" />
   <HelpKINode Title="Address property" Url="html/P-SecretNET.Token.InitBalance.Address.htm" />
   <HelpKINode Title="Admin property" Url="html/P-SecretNET.Token.InstantiateSnip20.Admin.htm" />
@@ -23,8 +25,10 @@
   <HelpKINode Title="Amount property" Url="html/P-SecretNET.Token.TransferFromRequest_Payload.Amount.htm" />
   <HelpKINode Title="Amount property" Url="html/P-SecretNET.Token.TransferRequest_Payload.Amount.htm" />
   <HelpKINode Title="BlockHeight field" Url="html/F-SecretNET.Token.RichTx.BlockHeight.htm" />
+  <HelpKINode Title="BlockHeight field" Url="html/F-SecretNET.Token.TransactionTx.BlockHeight.htm" />
   <HelpKINode Title="BlockHeight field" Url="html/F-SecretNET.Token.Tx.BlockHeight.htm" />
   <HelpKINode Title="BlockTime field" Url="html/F-SecretNET.Token.RichTx.BlockTime.htm" />
+  <HelpKINode Title="BlockTime field" Url="html/F-SecretNET.Token.TransactionTx.BlockTime.htm" />
   <HelpKINode Title="BlockTime field" Url="html/F-SecretNET.Token.Tx.BlockTime.htm" />
   <HelpKINode Title="Burn method" Url="html/Overload-SecretNET.Token.Snip20Tx.Burn.htm" />
   <HelpKINode Title="Burn method" Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Burn.htm" />
@@ -108,6 +112,7 @@
   <HelpKINode Title="BurnType_Burn.Owner field" Url="html/F-SecretNET.Token.BurnType_Burn.Owner.htm" />
   <HelpKINode Title="CodeHash property" Url="html/P-SecretNET.Token.RegisterReceiveRequest_Payload.CodeHash.htm" />
   <HelpKINode Title="Coins field" Url="html/F-SecretNET.Token.RichTx.Coins.htm" />
+  <HelpKINode Title="Coins field" Url="html/F-SecretNET.Token.TransactionTx.Coins.htm" />
   <HelpKINode Title="Coins field" Url="html/F-SecretNET.Token.Tx.Coins.htm" />
   <HelpKINode Title="Config property" Url="html/P-SecretNET.Token.InstantiateSnip20.Config.htm" />
   <HelpKINode Title="ConfigSettings class" Url="html/AllMembers.T-SecretNET.Token.ConfigSettings.htm" />
@@ -214,6 +219,7 @@
   <HelpKINode Title="Expiration property" Url="html/P-SecretNET.Token.DecreaseAllowanceRequest_Payload.Expiration.htm" />
   <HelpKINode Title="Expiration property" Url="html/P-SecretNET.Token.GetAllowanceResponse_Result.Expiration.htm" />
   <HelpKINode Title="Expiration property" Url="html/P-SecretNET.Token.IncreaseAllowanceRequest_Payload.Expiration.htm" />
+  <HelpKINode Title="From field" Url="html/F-SecretNET.Token.TransactionTx.From.htm" />
   <HelpKINode Title="From field" Url="html/F-SecretNET.Token.TransferType_Transfer.From.htm" />
   <HelpKINode Title="From field" Url="html/F-SecretNET.Token.Tx.From.htm" />
   <HelpKINode Title="GenericSimulate method" Url="html/M-SecretNET.Token.Snip20TxSimulate.GenericSimulate.htm" />
@@ -381,6 +387,45 @@
   <HelpKINode Title="GetTokenInfoResponse_Result.Name property" Url="html/P-SecretNET.Token.GetTokenInfoResponse_Result.Name.htm" />
   <HelpKINode Title="GetTokenInfoResponse_Result.Symbol property" Url="html/P-SecretNET.Token.GetTokenInfoResponse_Result.Symbol.htm" />
   <HelpKINode Title="GetTokenInfoResponse_Result.TotalSupply property" Url="html/P-SecretNET.Token.GetTokenInfoResponse_Result.TotalSupply.htm" />
+  <HelpKINode Title="GetTransactionHistory method" Url="html/M-SecretNET.Token.Snip20Querier.GetTransactionHistory.htm" />
+  <HelpKINode Title="GetTransactionHistoryRequest class" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryRequest.htm" />
+  <HelpKINode Title="GetTransactionHistoryRequest class" Url="html/T-SecretNET.Token.GetTransactionHistoryRequest.htm" />
+  <HelpKINode Title="GetTransactionHistoryRequest class">
+    <HelpKINode Title="about GetTransactionHistoryRequest class" Url="html/T-SecretNET.Token.GetTransactionHistoryRequest.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryRequest.htm" />
+    <HelpKINode Title="constructor" Url="html/M-SecretNET.Token.GetTransactionHistoryRequest.-ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.Token.GetTransactionHistoryRequest.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTransactionHistoryRequest.GetTransactionHistoryRequest constructor" Url="html/M-SecretNET.Token.GetTransactionHistoryRequest.-ctor.htm" />
+  <HelpKINode Title="GetTransactionHistoryRequest.Payload property" Url="html/P-SecretNET.Token.GetTransactionHistoryRequest.Payload.htm" />
+  <HelpKINode Title="GetTransactionHistoryRequest_Payload class" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryRequest_Payload.htm" />
+  <HelpKINode Title="GetTransactionHistoryRequest_Payload class" Url="html/T-SecretNET.Token.GetTransactionHistoryRequest_Payload.htm" />
+  <HelpKINode Title="GetTransactionHistoryRequest_Payload class">
+    <HelpKINode Title="about GetTransactionHistoryRequest_Payload class" Url="html/T-SecretNET.Token.GetTransactionHistoryRequest_Payload.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryRequest_Payload.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.Token.GetTransactionHistoryRequest_Payload.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTransactionHistoryRequest_Payload.Address property" Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.Address.htm" />
+  <HelpKINode Title="GetTransactionHistoryRequest_Payload.Page property" Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.Page.htm" />
+  <HelpKINode Title="GetTransactionHistoryRequest_Payload.PageSize property" Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.PageSize.htm" />
+  <HelpKINode Title="GetTransactionHistoryRequest_Payload.ViewingKey property" Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.ViewingKey.htm" />
+  <HelpKINode Title="GetTransactionHistoryResponse class" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryResponse.htm" />
+  <HelpKINode Title="GetTransactionHistoryResponse class" Url="html/T-SecretNET.Token.GetTransactionHistoryResponse.htm" />
+  <HelpKINode Title="GetTransactionHistoryResponse class">
+    <HelpKINode Title="about GetTransactionHistoryResponse class" Url="html/T-SecretNET.Token.GetTransactionHistoryResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.Token.GetTransactionHistoryResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTransactionHistoryResponse.Result property" Url="html/P-SecretNET.Token.GetTransactionHistoryResponse.Result.htm" />
+  <HelpKINode Title="GetTransactionHistoryResponse_Result class" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryResponse_Result.htm" />
+  <HelpKINode Title="GetTransactionHistoryResponse_Result class" Url="html/T-SecretNET.Token.GetTransactionHistoryResponse_Result.htm" />
+  <HelpKINode Title="GetTransactionHistoryResponse_Result class">
+    <HelpKINode Title="about GetTransactionHistoryResponse_Result class" Url="html/T-SecretNET.Token.GetTransactionHistoryResponse_Result.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryResponse_Result.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-SecretNET.Token.GetTransactionHistoryResponse_Result.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTransactionHistoryResponse_Result.Total property" Url="html/P-SecretNET.Token.GetTransactionHistoryResponse_Result.Total.htm" />
+  <HelpKINode Title="GetTransactionHistoryResponse_Result.Txs property" Url="html/P-SecretNET.Token.GetTransactionHistoryResponse_Result.Txs.htm" />
   <HelpKINode Title="GetTransferHistory method" Url="html/M-SecretNET.Token.Snip20Querier.GetTransferHistory.htm" />
   <HelpKINode Title="GetTransferHistoryRequest class" Url="html/AllMembers.T-SecretNET.Token.GetTransferHistoryRequest.htm" />
   <HelpKINode Title="GetTransferHistoryRequest class" Url="html/T-SecretNET.Token.GetTransferHistoryRequest.htm" />
@@ -421,6 +466,7 @@
   <HelpKINode Title="GetTransferHistoryResponse_Result.Total property" Url="html/P-SecretNET.Token.GetTransferHistoryResponse_Result.Total.htm" />
   <HelpKINode Title="GetTransferHistoryResponse_Result.Txs property" Url="html/P-SecretNET.Token.GetTransferHistoryResponse_Result.Txs.htm" />
   <HelpKINode Title="Id field" Url="html/F-SecretNET.Token.RichTx.Id.htm" />
+  <HelpKINode Title="Id field" Url="html/F-SecretNET.Token.TransactionTx.Id.htm" />
   <HelpKINode Title="Id field" Url="html/F-SecretNET.Token.Tx.Id.htm" />
   <HelpKINode Title="IncreaseAllowance method" Url="html/Overload-SecretNET.Token.Snip20Tx.IncreaseAllowance.htm" />
   <HelpKINode Title="IncreaseAllowance method" Url="html/Overload-SecretNET.Token.Snip20TxSimulate.IncreaseAllowance.htm" />
@@ -489,6 +535,7 @@
   <HelpKINode Title="InstantiateSnip20.PrngSeed property" Url="html/P-SecretNET.Token.InstantiateSnip20.PrngSeed.htm" />
   <HelpKINode Title="InstantiateSnip20.Symbol property" Url="html/P-SecretNET.Token.InstantiateSnip20.Symbol.htm" />
   <HelpKINode Title="Memo field" Url="html/F-SecretNET.Token.RichTx.Memo.htm" />
+  <HelpKINode Title="Memo field" Url="html/F-SecretNET.Token.TransactionTx.Memo.htm" />
   <HelpKINode Title="Memo field" Url="html/F-SecretNET.Token.Tx.Memo.htm" />
   <HelpKINode Title="Mint method" Url="html/Overload-SecretNET.Token.Snip20Tx.Mint.htm" />
   <HelpKINode Title="Mint method" Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Mint.htm" />
@@ -695,7 +742,9 @@
   <HelpKINode Title="Padding property" Url="html/P-SecretNET.Token.SetMintersRequest_Payload.Padding.htm" />
   <HelpKINode Title="Padding property" Url="html/P-SecretNET.Token.TransferFromRequest_Payload.Padding.htm" />
   <HelpKINode Title="Padding property" Url="html/P-SecretNET.Token.TransferRequest_Payload.Padding.htm" />
+  <HelpKINode Title="Page property" Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.Page.htm" />
   <HelpKINode Title="Page property" Url="html/P-SecretNET.Token.GetTransferHistoryRequest_Payload.Page.htm" />
+  <HelpKINode Title="PageSize property" Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.PageSize.htm" />
   <HelpKINode Title="PageSize property" Url="html/P-SecretNET.Token.GetTransferHistoryRequest_Payload.PageSize.htm" />
   <HelpKINode Title="Payload property" Url="html/P-SecretNET.Token.BurnFromRequest.Payload.htm" />
   <HelpKINode Title="Payload property" Url="html/P-SecretNET.Token.BurnRequest.Payload.htm" />
@@ -706,6 +755,7 @@
   <HelpKINode Title="Payload property" Url="html/P-SecretNET.Token.GetExchangeRateRequest.Payload.htm" />
   <HelpKINode Title="Payload property" Url="html/P-SecretNET.Token.GetMintersRequest.Payload.htm" />
   <HelpKINode Title="Payload property" Url="html/P-SecretNET.Token.GetTokenInfoRequest.Payload.htm" />
+  <HelpKINode Title="Payload property" Url="html/P-SecretNET.Token.GetTransactionHistoryRequest.Payload.htm" />
   <HelpKINode Title="Payload property" Url="html/P-SecretNET.Token.GetTransferHistoryRequest.Payload.htm" />
   <HelpKINode Title="Payload property" Url="html/P-SecretNET.Token.IncreaseAllowanceRequest.Payload.htm" />
   <HelpKINode Title="Payload property" Url="html/P-SecretNET.Token.MintRequest.Payload.htm" />
@@ -720,6 +770,7 @@
   <HelpKINode Title="PublicTotalSupply property" Url="html/P-SecretNET.Token.ConfigSettings.PublicTotalSupply.htm" />
   <HelpKINode Title="Query property" Url="html/P-SecretNET.Token.Snip20Client.Query.htm" />
   <HelpKINode Title="Rate property" Url="html/P-SecretNET.Token.GetExchangeRateResponse_Result.Rate.htm" />
+  <HelpKINode Title="Receiver field" Url="html/F-SecretNET.Token.TransactionTx.Receiver.htm" />
   <HelpKINode Title="Receiver field" Url="html/F-SecretNET.Token.Tx.Receiver.htm" />
   <HelpKINode Title="Recipient field" Url="html/F-SecretNET.Token.MintType_Mint.Recipient.htm" />
   <HelpKINode Title="Recipient field" Url="html/F-SecretNET.Token.TransferType_Transfer.Recipient.htm" />
@@ -728,6 +779,8 @@
   <HelpKINode Title="Recipient property" Url="html/P-SecretNET.Token.SendRequest_Payload.Recipient.htm" />
   <HelpKINode Title="Recipient property" Url="html/P-SecretNET.Token.TransferFromRequest_Payload.Recipient.htm" />
   <HelpKINode Title="Recipient property" Url="html/P-SecretNET.Token.TransferRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="RecipientCodeHash property" Url="html/P-SecretNET.Token.SendFromRequest_Payload.RecipientCodeHash.htm" />
+  <HelpKINode Title="RecipientCodeHash property" Url="html/P-SecretNET.Token.SendRequest_Payload.RecipientCodeHash.htm" />
   <HelpKINode Title="Redeem method" Url="html/Overload-SecretNET.Token.Snip20Tx.Redeem.htm" />
   <HelpKINode Title="Redeem method" Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Redeem.htm" />
   <HelpKINode Title="Redeem property" Url="html/P-SecretNET.Token.RedeemType.Redeem.htm" />
@@ -805,6 +858,7 @@
   <HelpKINode Title="Result property" Url="html/P-SecretNET.Token.GetExchangeRateResponse.Result.htm" />
   <HelpKINode Title="Result property" Url="html/P-SecretNET.Token.GetMintersResponse.Result.htm" />
   <HelpKINode Title="Result property" Url="html/P-SecretNET.Token.GetTokenInfoResponse.Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P-SecretNET.Token.GetTransactionHistoryResponse.Result.htm" />
   <HelpKINode Title="Result property" Url="html/P-SecretNET.Token.GetTransferHistoryResponse.Result.htm" />
   <HelpKINode Title="Result property" Url="html/P-SecretNET.Token.IncreaseAllowanceResponse.Result.htm" />
   <HelpKINode Title="Result property" Url="html/P-SecretNET.Token.MintResponse.Result.htm" />
@@ -899,6 +953,14 @@
   <HelpKINode Title="SecretNET.Token.GetTokenInfoResponse class" Url="html/T-SecretNET.Token.GetTokenInfoResponse.htm" />
   <HelpKINode Title="SecretNET.Token.GetTokenInfoResponse_Result class" Url="html/AllMembers.T-SecretNET.Token.GetTokenInfoResponse_Result.htm" />
   <HelpKINode Title="SecretNET.Token.GetTokenInfoResponse_Result class" Url="html/T-SecretNET.Token.GetTokenInfoResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.Token.GetTransactionHistoryRequest class" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryRequest.htm" />
+  <HelpKINode Title="SecretNET.Token.GetTransactionHistoryRequest class" Url="html/T-SecretNET.Token.GetTransactionHistoryRequest.htm" />
+  <HelpKINode Title="SecretNET.Token.GetTransactionHistoryRequest_Payload class" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.Token.GetTransactionHistoryRequest_Payload class" Url="html/T-SecretNET.Token.GetTransactionHistoryRequest_Payload.htm" />
+  <HelpKINode Title="SecretNET.Token.GetTransactionHistoryResponse class" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryResponse.htm" />
+  <HelpKINode Title="SecretNET.Token.GetTransactionHistoryResponse class" Url="html/T-SecretNET.Token.GetTransactionHistoryResponse.htm" />
+  <HelpKINode Title="SecretNET.Token.GetTransactionHistoryResponse_Result class" Url="html/AllMembers.T-SecretNET.Token.GetTransactionHistoryResponse_Result.htm" />
+  <HelpKINode Title="SecretNET.Token.GetTransactionHistoryResponse_Result class" Url="html/T-SecretNET.Token.GetTransactionHistoryResponse_Result.htm" />
   <HelpKINode Title="SecretNET.Token.GetTransferHistoryRequest class" Url="html/AllMembers.T-SecretNET.Token.GetTransferHistoryRequest.htm" />
   <HelpKINode Title="SecretNET.Token.GetTransferHistoryRequest class" Url="html/T-SecretNET.Token.GetTransferHistoryRequest.htm" />
   <HelpKINode Title="SecretNET.Token.GetTransferHistoryRequest_Payload class" Url="html/AllMembers.T-SecretNET.Token.GetTransferHistoryRequest_Payload.htm" />
@@ -1005,6 +1067,8 @@
   <HelpKINode Title="SecretNET.Token.Snip20Tx class" Url="html/T-SecretNET.Token.Snip20Tx.htm" />
   <HelpKINode Title="SecretNET.Token.Snip20TxSimulate class" Url="html/AllMembers.T-SecretNET.Token.Snip20TxSimulate.htm" />
   <HelpKINode Title="SecretNET.Token.Snip20TxSimulate class" Url="html/T-SecretNET.Token.Snip20TxSimulate.htm" />
+  <HelpKINode Title="SecretNET.Token.TransactionTx class" Url="html/AllMembers.T-SecretNET.Token.TransactionTx.htm" />
+  <HelpKINode Title="SecretNET.Token.TransactionTx class" Url="html/T-SecretNET.Token.TransactionTx.htm" />
   <HelpKINode Title="SecretNET.Token.TransferFromRequest class" Url="html/AllMembers.T-SecretNET.Token.TransferFromRequest.htm" />
   <HelpKINode Title="SecretNET.Token.TransferFromRequest class" Url="html/T-SecretNET.Token.TransferFromRequest.htm" />
   <HelpKINode Title="SecretNET.Token.TransferFromRequest_Payload class" Url="html/AllMembers.T-SecretNET.Token.TransferFromRequest_Payload.htm" />
@@ -1025,6 +1089,7 @@
   <HelpKINode Title="SecretNET.Token.Tx class" Url="html/T-SecretNET.Token.Tx.htm" />
   <HelpKINode Title="Send method" Url="html/Overload-SecretNET.Token.Snip20Tx.Send.htm" />
   <HelpKINode Title="Send method" Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Send.htm" />
+  <HelpKINode Title="Sender field" Url="html/F-SecretNET.Token.TransactionTx.Sender.htm" />
   <HelpKINode Title="Sender field" Url="html/F-SecretNET.Token.TransferType_Transfer.Sender.htm" />
   <HelpKINode Title="Sender field" Url="html/F-SecretNET.Token.Tx.Sender.htm" />
   <HelpKINode Title="SendFrom method" Url="html/Overload-SecretNET.Token.Snip20Tx.SendFrom.htm" />
@@ -1051,6 +1116,7 @@
   <HelpKINode Title="SendFromRequest_Payload.Owner property" Url="html/P-SecretNET.Token.SendFromRequest_Payload.Owner.htm" />
   <HelpKINode Title="SendFromRequest_Payload.Padding property" Url="html/P-SecretNET.Token.SendFromRequest_Payload.Padding.htm" />
   <HelpKINode Title="SendFromRequest_Payload.Recipient property" Url="html/P-SecretNET.Token.SendFromRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="SendFromRequest_Payload.RecipientCodeHash property" Url="html/P-SecretNET.Token.SendFromRequest_Payload.RecipientCodeHash.htm" />
   <HelpKINode Title="SendFromResponse class" Url="html/AllMembers.T-SecretNET.Token.SendFromResponse.htm" />
   <HelpKINode Title="SendFromResponse class" Url="html/T-SecretNET.Token.SendFromResponse.htm" />
   <HelpKINode Title="SendFromResponse class">
@@ -1080,6 +1146,7 @@
   <HelpKINode Title="SendRequest_Payload.Msg property" Url="html/P-SecretNET.Token.SendRequest_Payload.Msg.htm" />
   <HelpKINode Title="SendRequest_Payload.Padding property" Url="html/P-SecretNET.Token.SendRequest_Payload.Padding.htm" />
   <HelpKINode Title="SendRequest_Payload.Recipient property" Url="html/P-SecretNET.Token.SendRequest_Payload.Recipient.htm" />
+  <HelpKINode Title="SendRequest_Payload.RecipientCodeHash property" Url="html/P-SecretNET.Token.SendRequest_Payload.RecipientCodeHash.htm" />
   <HelpKINode Title="SendResponse class" Url="html/AllMembers.T-SecretNET.Token.SendResponse.htm" />
   <HelpKINode Title="SendResponse class" Url="html/T-SecretNET.Token.SendResponse.htm" />
   <HelpKINode Title="SendResponse class">
@@ -1152,6 +1219,7 @@
   <HelpKINode Title="Snip20Querier.GetExchangeRate method" Url="html/M-SecretNET.Token.Snip20Querier.GetExchangeRate.htm" />
   <HelpKINode Title="Snip20Querier.GetMinters method" Url="html/M-SecretNET.Token.Snip20Querier.GetMinters.htm" />
   <HelpKINode Title="Snip20Querier.GetTokenInfo method" Url="html/M-SecretNET.Token.Snip20Querier.GetTokenInfo.htm" />
+  <HelpKINode Title="Snip20Querier.GetTransactionHistory method" Url="html/M-SecretNET.Token.Snip20Querier.GetTransactionHistory.htm" />
   <HelpKINode Title="Snip20Querier.GetTransferHistory method" Url="html/M-SecretNET.Token.Snip20Querier.GetTransferHistory.htm" />
   <HelpKINode Title="Snip20Querier.Snip20Querier constructor" Url="html/M-SecretNET.Token.Snip20Querier.-ctor.htm" />
   <HelpKINode Title="Snip20Tx class" Url="html/AllMembers.T-SecretNET.Token.Snip20Tx.htm" />
@@ -1215,8 +1283,25 @@
   <HelpKINode Title="Status property" Url="html/P-SecretNET.Token.SimpleStatusResponse_Result.Status.htm" />
   <HelpKINode Title="Symbol property" Url="html/P-SecretNET.Token.GetTokenInfoResponse_Result.Symbol.htm" />
   <HelpKINode Title="Symbol property" Url="html/P-SecretNET.Token.InstantiateSnip20.Symbol.htm" />
+  <HelpKINode Title="Total property" Url="html/P-SecretNET.Token.GetTransactionHistoryResponse_Result.Total.htm" />
   <HelpKINode Title="Total property" Url="html/P-SecretNET.Token.GetTransferHistoryResponse_Result.Total.htm" />
   <HelpKINode Title="TotalSupply property" Url="html/P-SecretNET.Token.GetTokenInfoResponse_Result.TotalSupply.htm" />
+  <HelpKINode Title="TransactionTx class" Url="html/AllMembers.T-SecretNET.Token.TransactionTx.htm" />
+  <HelpKINode Title="TransactionTx class" Url="html/T-SecretNET.Token.TransactionTx.htm" />
+  <HelpKINode Title="TransactionTx class">
+    <HelpKINode Title="about TransactionTx class" Url="html/T-SecretNET.Token.TransactionTx.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-SecretNET.Token.TransactionTx.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-SecretNET.Token.TransactionTx.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransactionTx.Action field" Url="html/F-SecretNET.Token.TransactionTx.Action.htm" />
+  <HelpKINode Title="TransactionTx.BlockHeight field" Url="html/F-SecretNET.Token.TransactionTx.BlockHeight.htm" />
+  <HelpKINode Title="TransactionTx.BlockTime field" Url="html/F-SecretNET.Token.TransactionTx.BlockTime.htm" />
+  <HelpKINode Title="TransactionTx.Coins field" Url="html/F-SecretNET.Token.TransactionTx.Coins.htm" />
+  <HelpKINode Title="TransactionTx.From field" Url="html/F-SecretNET.Token.TransactionTx.From.htm" />
+  <HelpKINode Title="TransactionTx.Id field" Url="html/F-SecretNET.Token.TransactionTx.Id.htm" />
+  <HelpKINode Title="TransactionTx.Memo field" Url="html/F-SecretNET.Token.TransactionTx.Memo.htm" />
+  <HelpKINode Title="TransactionTx.Receiver field" Url="html/F-SecretNET.Token.TransactionTx.Receiver.htm" />
+  <HelpKINode Title="TransactionTx.Sender field" Url="html/F-SecretNET.Token.TransactionTx.Sender.htm" />
   <HelpKINode Title="Transfer method" Url="html/Overload-SecretNET.Token.Snip20Tx.Transfer.htm" />
   <HelpKINode Title="Transfer method" Url="html/Overload-SecretNET.Token.Snip20TxSimulate.Transfer.htm" />
   <HelpKINode Title="Transfer property" Url="html/P-SecretNET.Token.TransferType.Transfer.htm" />
@@ -1313,8 +1398,10 @@
   <HelpKINode Title="Tx.Memo field" Url="html/F-SecretNET.Token.Tx.Memo.htm" />
   <HelpKINode Title="Tx.Receiver field" Url="html/F-SecretNET.Token.Tx.Receiver.htm" />
   <HelpKINode Title="Tx.Sender field" Url="html/F-SecretNET.Token.Tx.Sender.htm" />
+  <HelpKINode Title="Txs property" Url="html/P-SecretNET.Token.GetTransactionHistoryResponse_Result.Txs.htm" />
   <HelpKINode Title="Txs property" Url="html/P-SecretNET.Token.GetTransferHistoryResponse_Result.Txs.htm" />
   <HelpKINode Title="ViewingKey property" Url="html/P-SecretNET.Token.GetAllowanceRequest_Payload.ViewingKey.htm" />
   <HelpKINode Title="ViewingKey property" Url="html/P-SecretNET.Token.GetBalanceRequest_Payload.ViewingKey.htm" />
+  <HelpKINode Title="ViewingKey property" Url="html/P-SecretNET.Token.GetTransactionHistoryRequest_Payload.ViewingKey.htm" />
   <HelpKINode Title="ViewingKey property" Url="html/P-SecretNET.Token.GetTransferHistoryRequest_Payload.ViewingKey.htm" />
 </HelpKI>
