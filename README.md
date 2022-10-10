@@ -75,6 +75,7 @@ var sendResult = await snip20Client.Tx.Send(
   - [GetExchangeRate](#getexchangerate)
   - [GetMinters](#getminters)
   - [GetTokenInfo](#gettokeninfo)
+  - [GetTransactionHistory](#gettransactionhistory)
   - [GetTransferHistory](#gettransferhistory)
 - [Transactions](#transactions-snip20clienttx)
   - [Burn](#burn)
@@ -142,6 +143,24 @@ GetTokenInfo(
 	Nullable<string> codeHash
 );
 ```
+### [GetTransactionHistory](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Querier.GetTransactionHistory.htm)
+The original `TransferHistory` query paints an incomplete picture of users' interactions with the token. 
+It only records operations performed through `Transfer`, `TransferFrom`, `Send`, and `SendFrom`, while the other operations which move funds around - `Mint`, `Burn`, `Deposit`, `Withdraw` etc. are not recorded and can not be easily tracked by users after the fact.
+
+The following is the specification of the new `TransactionHistory` query, which aims to provide a complete description of the history of users' balances.
+
+This query MUST be authenticated.
+
+``` csharp
+GetTransactionHistory(
+	string contractAddress,
+	int pageSize,
+	string viewingKey,
+	Permit permit,
+	Nullable<int> page,
+	Nullable<string> walletAddress,
+	Nullable<string> codeHash
+);
 ### [GetTransferHistory](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Querier.GetTransferHistory.htm)
 Gets the transfer history (This query MUST be authenticated). This query SHOULD return a list of json objects describing the transactions made by the querying address, in newest-first order. The user may optionally specify a limit on the amount of information returned by paging the available items.
 ``` csharp
