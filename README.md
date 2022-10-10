@@ -161,6 +161,8 @@ GetTransactionHistory(
 	Nullable<string> walletAddress,
 	Nullable<string> codeHash
 );
+```
+
 ### [GetTransferHistory](https://0xxcodemonkey.github.io/SecretNET.Token/html/M-SecretNET.Token.Snip20Querier.GetTransferHistory.htm)
 Gets the transfer history (This query MUST be authenticated). This query SHOULD return a list of json objects describing the transactions made by the querying address, in newest-first order. The user may optionally specify a limit on the amount of information returned by paging the available items.
 ``` csharp
