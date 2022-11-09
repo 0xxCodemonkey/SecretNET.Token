@@ -1,9 +1,3 @@
-<!--  ![Nuget](https://img.shields.io/nuget/v/SecretNET.Token?label=stable) ![GitHub](https://img.shields.io/github/license/0xxCodemonkey/SecretNET.Token) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/0xxCodemonkey/SecretNET.Token/Publish%20Packages?label=checks) -->
-![GitHub](https://img.shields.io/github/license/0xxCodemonkey/SecretNET.Token) ![Nuget](https://img.shields.io/nuget/dt/SecretNET.Token?color=%239100ff)
-
-*Status: (Project is in active development)* 
-<br/><br/>
-
 # Secret.NET Token (SNIP20) / Secret Token
 **Secret.NET Token** is a layer on top of the [**Secret.NET client**](https://github.com/0xxCodemonkey/SecretNET) which supports all methods of the reference implementation of the SNIP20 contract.
 
