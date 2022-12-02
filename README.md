@@ -27,6 +27,10 @@ This makes it easy to create your own customized clients for your own customized
 ## Full API-documentation
 You can find the **full API-documentation** here => https://0xxcodemonkey.github.io/SecretNET.Token
 
+More [code samples](https://docs.scrt.network/secret-network-documentation/development/tools-and-libraries/secret-net/snippets) can also be found on the official [Secret Network Developer documentation](https://docs.scrt.network/secret-network-documentation/).
+
+You can also ask questions in the official [Secret Network Discord](https://discord.gg/secret-network-360051864110235648) in the channel **#secret-net**.
+
 # Table of Contents
 - [Implementation](#implementation)
   - [Instantiating a SNIP20 Client](#instantiating-a-snip20-client)
