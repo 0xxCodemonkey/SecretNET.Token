@@ -103,7 +103,8 @@ else
     Console.ReadLine();
 }
 
-var gprcUrl = "https://grpc.testnet.secretsaturn.net"; // get from https://github.com/scrtlabs/api-registry
+//var gprcUrl = "https://grpc.testnet.secretsaturn.net"; // get from https://docs.scrt.network/secret-network-documentation/development/connecting-to-the-network
+var gprcUrl = "https://pulsar-2.api.trivium.network:9091"; // get from https://docs.scrt.network/secret-network-documentation/development/connecting-to-the-network
 var chainId = "pulsar-2";
 
 var createClientOptions = new CreateClientOptions(gprcUrl, chainId, wallet);
@@ -143,6 +144,7 @@ string snip20CodeHash = null;
 var snip20_code_id = snip20StoreCodeResponse.Response.CodeId;
 if (snip20_code_id > 0)
 {
+    snip20CodeHash = await secretClient.Query.Compute.GetCodeHashByCodeId(snip20_code_id);
 
     var snip20InstantiateOptions = new InstantiateSnip20()
     {
@@ -174,7 +176,7 @@ if (snip20_code_id > 0)
 
     Console.WriteLine("Snip20InstantiateOptions:\r\n" + JsonConvert.SerializeObject(snip20InstantiateOptions, Formatting.Indented) + "\r\n");
 
-    var msgInstantiateContract = new MsgInstantiate(snip20_code_id, $"MyFirstToken {snip20_code_id}", snip20InstantiateOptions);
+    var msgInstantiateContract = new MsgInstantiate(snip20_code_id, $"MyFirstToken {snip20_code_id}", snip20InstantiateOptions, codeHash: snip20CodeHash);
 
     var instantiateSnip20ContractResponse = await snip20Client.Tx.Instantiate(msgInstantiateContract, txOptionsUpload);
     logSecretTx("InstantiateTokenContract", instantiateSnip20ContractResponse);
